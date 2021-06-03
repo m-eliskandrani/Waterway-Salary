@@ -1,0 +1,116 @@
+*** 4/19/2021 1:52:15 PM VAdvantage Log  ***
+===========>     (SEVERE)   VLookUpInfo.GetLookUp_TableDir: Key does not end with '_ID': STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUpInfo: No SQL - STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUp_TableDir: Key does not end with '_ID': STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUpInfo: No SQL - STARTDATE
+01:52:15.521    (INFO)     Trx.Start: **** ConnSH637544371350354706System.Random
+01:52:15.521    (INFO)     Trx.Commit: **C** ConnSH637544371350354706System.Random
+01:52:15.521    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   CalculatePenalties.StartProcess: The added or subtracted value results in an un-representable DateTime.
+Parameter name: months
+01:52:27.522    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+01:52:31.523    (INFO)     MSession.Logout: 02:00:23.559
+----------->     (WARNING)  MSession.Get: Session Processed=X_AD_Session[1003097]
+01:52:31.523    (INFO)     MRole.Get: AD_Role_ID=103, AD_User_ID=102, reload=True
+01:52:31.523    (INFO)     MRole.Get: MRole[103,IdeasInc User,UserLevel=  O,AD_Client_ID IN(0,11),AD_Org_ID IN(0,11,12)]
+01:52:31.523    (INFO)     MTree.Load: AD_Tree_ID=10, AD_User_ID=102, Editable=False, OnClient=True
+01:52:31.523    (INFO)     Trx.Start: **** ConnSH637544371518514251System.Random
+01:52:31.523    (INFO)     Trx.Commit: **C** ConnSH637544371518514251System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 102  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 102 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('4/18/21','mm/dd/yy') and to_date('4/26/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('4/19/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=102 AND AppointmentsInfo.AD_User_ID  = 102)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+===========>     (SEVERE)   VLookUpInfo.GetLookUp_TableDir: Key does not end with '_ID': STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUpInfo: No SQL - STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUp_TableDir: Key does not end with '_ID': STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUpInfo: No SQL - STARTDATE
+01:52:34.523    (INFO)     Trx.Start: **** ConnSH637544371548561695System.Random
+01:52:34.523    (INFO)     Trx.Commit: **C** ConnSH637544371548561695System.Random
+===========>     (SEVERE)   CalculatePenalties.StartProcess: The added or subtracted value results in an un-representable DateTime.
+Parameter name: months
+01:52:40.524    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+01:52:46.524    (INFO)     MRole.Get: AD_Role_ID=103, AD_User_ID=102, reload=True
+01:52:46.524    (INFO)     MRole.Get: MRole[103,IdeasInc User,UserLevel=  O,AD_Client_ID IN(0,11),AD_Org_ID IN(0,11,12)]
+01:52:46.524    (INFO)     MTree.Load: AD_Tree_ID=10, AD_User_ID=102, Editable=False, OnClient=True
+01:52:46.524    (INFO)     Trx.Start: **** ConnSH637544371666484494System.Random
+01:52:46.524    (INFO)     Trx.Commit: **C** ConnSH637544371666484494System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 102  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 102 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('4/18/21','mm/dd/yy') and to_date('4/26/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('4/19/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=102 AND AppointmentsInfo.AD_User_ID  = 102)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+===========>     (SEVERE)   VLookUpInfo.GetLookUp_TableDir: Key does not end with '_ID': STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUpInfo: No SQL - STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUp_TableDir: Key does not end with '_ID': STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUpInfo: No SQL - STARTDATE
+01:52:49.524    (INFO)     Trx.Start: **** ConnSH637544371699002159System.Random
+01:52:49.524    (INFO)     Trx.Commit: **C** ConnSH637544371699002159System.Random
+===========>     (SEVERE)   CalculatePenalties.StartProcess: The added or subtracted value results in an un-representable DateTime.
+Parameter name: months
+01:53:00.530    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+01:53:09.539    (INFO)     MRole.Get: AD_Role_ID=103, AD_User_ID=102, reload=True
+01:53:09.539    (INFO)     MRole.Get: MRole[103,IdeasInc User,UserLevel=  O,AD_Client_ID IN(0,11),AD_Org_ID IN(0,11,12)]
+01:53:09.539    (INFO)     MTree.Load: AD_Tree_ID=10, AD_User_ID=102, Editable=False, OnClient=True
+01:53:09.539    (INFO)     Trx.Start: **** ConnSH637544371896643069System.Random
+01:53:09.539    (INFO)     Trx.Commit: **C** ConnSH637544371896643069System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 102  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 102 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('4/18/21','mm/dd/yy') and to_date('4/26/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('4/19/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=102 AND AppointmentsInfo.AD_User_ID  = 102)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+===========>     (SEVERE)   VLookUpInfo.GetLookUp_TableDir: Key does not end with '_ID': STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUpInfo: No SQL - STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUp_TableDir: Key does not end with '_ID': STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUpInfo: No SQL - STARTDATE
+01:53:12.531    (INFO)     Trx.Start: **** ConnSH637544371927028425System.Random
+01:53:12.531    (INFO)     Trx.Commit: **C** ConnSH637544371927028425System.Random
+===========>     (SEVERE)   CalculatePenalties.StartProcess: The added or subtracted value results in an un-representable DateTime.
+Parameter name: months
+01:53:16.531    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+01:53:22.532    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+01:53:22.532    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+01:53:22.532    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+01:53:22.532    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+01:53:22.532    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=100, Editable=False, OnClient=True
+01:53:23.532    (INFO)     Trx.Start: **** ConnSH637544372031104054System.Random
+01:53:23.532    (INFO)     Trx.Commit: **C** ConnSH637544372031104054System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 100  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 100 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('4/18/21','mm/dd/yy') and to_date('4/26/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('4/19/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=100 AND AppointmentsInfo.AD_User_ID  = 100)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+===========>     (SEVERE)   VLookUpInfo.GetLookUp_TableDir: Key does not end with '_ID': STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUpInfo: No SQL - STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUp_TableDir: Key does not end with '_ID': STARTDATE
+===========>     (SEVERE)   VLookUpInfo.GetLookUpInfo: No SQL - STARTDATE
+01:53:25.532    (INFO)     Trx.Start: **** ConnSH637544372055111162System.Random
+01:53:25.532    (INFO)     Trx.Commit: **C** ConnSH637544372055111162System.Random
+===========>     (SEVERE)   CalculatePenalties.StartProcess: The added or subtracted value results in an un-representable DateTime.
+Parameter name: months
+01:53:33.533    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+===========>     (SEVERE)   VLookUpInfo.GetLookup_DisplayColumn: No Identifier records found: AD_BView
+===========>     (SEVERE)   VLookUpInfo.GetLookup_DisplayColumn: No Identifier records found: AD_ReportTemplate
+===========>     (SEVERE)   VLookUpInfo.GetLookup_DisplayColumn: No Identifier records found: AD_BView_Field
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =284
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =285
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+01:53:42.534    (INFO)     Trx.Start: **** ConnSH637544372222035202System.Random
+01:53:42.534    (INFO)     Trx.Commit: **C** ConnSH637544372222035202System.Random
+===========>     (SEVERE)   DB_Oracle.ExecuteDatasetPaging: ORA-00942: table or view does not exist [Query NQTrx]select * FROM (SELECT t.*, rownum AS row_num FROM (SELECT AD_BView.AD_BView_ID,NULL,NULL,AD_BView.IsActive FROM AD_BView WHERE AD_BView.AD_Client_ID=0 AND (COALESCE(AD_BView.AD_Org_ID,0) IN(0,0)) ORDER BY 3) t ) WHERE row_num BETWEEN (((1 - 1) * 1000) + 1) AND ((1 * 1000))
+===========>     (SEVERE)   DB_Oracle.ExecuteDatasetPaging: ORA-00942: table or view does not exist [Query NQTrx]select * FROM (SELECT t.*, rownum AS row_num FROM (SELECT AD_ReportTemplate.AD_ReportTemplate_ID,NULL,NULL,AD_ReportTemplate.IsActive FROM AD_ReportTemplate WHERE AD_ReportTemplate.AD_Client_ID=0 AND (COALESCE(AD_ReportTemplate.AD_Org_ID,0) IN(0,0)) ORDER BY 3) t ) WHERE row_num BETWEEN (((1 - 1) * 1000) + 1) AND ((1 * 1000))
+===========>     (SEVERE)   DB_Oracle.ExecuteDatasetPaging: ORA-00942: table or view does not exist [Query NQTrx]select * FROM (SELECT t.*, rownum AS row_num FROM (SELECT AD_BView_Field.AD_BView_Field_ID,NULL,NULL,AD_BView_Field.IsActive FROM AD_BView_Field WHERE AD_BView_Field.AD_Client_ID=0 AND (COALESCE(AD_BView_Field.AD_Org_ID,0) IN(0,0))) t ) WHERE row_num BETWEEN (((1 - 1) * 1000) + 1) AND ((1 * 1000))
+01:53:42.534    (INFO)     Trx.Start: **** ConnSH637544372226185130System.Random
+01:53:42.534    (INFO)     Trx.Commit: **C** ConnSH637544372226185130System.Random
+01:53:45.534    (INFO)     Trx.Start: **** ConnSH637544372257026516System.Random
+01:53:45.534    (INFO)     Trx.Commit: **C** ConnSH637544372257026516System.Random
+01:53:50.535    (INFO)     Trx.Start: **** ConnSH637544372302328813System.Random
+01:53:50.535    (INFO)     Trx.Commit: **C** ConnSH637544372302328813System.Random
+01:54:30.543    (INFO)     CacheMgt.Reset: AD_Process_Para: #1 (0)

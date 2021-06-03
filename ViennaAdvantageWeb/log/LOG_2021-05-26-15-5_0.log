@@ -1,0 +1,41 @@
+*** 5/26/2021 3:06:02 PM VAdvantage Log  ***
+03:06:02.620    (INFO)     Trx.Start: **** ConnSH637576383629423189System.Random
+03:06:02.620    (INFO)     Trx.Commit: **C** ConnSH637576383629423189System.Random
+03:06:02.620    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21 => ORA-01756: quoted string not properly terminated
+03:06:03.630    (INFO)     Trx.Start: **** ConnSH637576383631343195System.Random
+03:06:03.630    (INFO)     Trx.Commit: **C** ConnSH637576383631343195System.Random
+03:06:03.630    (INFO)     Trx.Start: **** ConnSH637576383631443216System.Random
+03:06:03.630    (INFO)     Trx.Commit: **C** ConnSH637576383631443216System.Random
+03:06:03.630    (INFO)     Trx.Start: **** ConnDDH637576383631643184System.Random
+03:06:03.630    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637576383631643184System.Random 50
+03:06:03.630    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637576383631643184System.Random 50
+03:06:03.630    (INFO)     Trx.Commit: **C** ConnDDH637576383631643184System.Random
+03:06:03.630    (INFO)     Trx.Start: **** ConnSH637576383633213227System.Random
+03:06:03.630    (INFO)     Trx.Commit: **C** ConnSH637576383633213227System.Random
+03:06:03.630    (INFO)     Trx.Start: **** ConnSH637576383634923311System.Random
+03:06:03.630    (INFO)     Trx.Commit: **C** ConnSH637576383634923311System.Random
+03:06:10.610    (INFO)     Trx.Start: **** ConnSH637576383708553071System.Random
+03:06:10.610    (INFO)     Trx.Commit: **C** ConnSH637576383708553071System.Random
+03:06:13.613    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+03:07:53.753    (INFO)     Trx.Start: **** ConnSH637576384736141773System.Random
+03:07:53.753    (INFO)     Trx.Commit: **C** ConnSH637576384736141773System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21 => ORA-01756: quoted string not properly terminated
+03:07:53.753    (INFO)     Trx.Start: **** ConnSH637576384736641768System.Random
+03:07:53.753    (INFO)     Trx.Commit: **C** ConnSH637576384736641768System.Random
+03:07:53.753    (INFO)     Trx.Start: **** ConnSH637576384736721758System.Random
+03:07:53.753    (INFO)     Trx.Commit: **C** ConnSH637576384736721758System.Random
+03:07:53.753    (INFO)     Trx.Start: **** ConnDDH637576384736791783System.Random
+03:07:53.753    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637576384736791783System.Random 55
+03:07:53.753    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637576384736791783System.Random 55
+03:07:53.753    (INFO)     Trx.Commit: **C** ConnDDH637576384736791783System.Random
+03:07:53.753    (INFO)     Trx.Start: **** ConnSH637576384738371735System.Random
+03:07:53.753    (INFO)     Trx.Commit: **C** ConnSH637576384738371735System.Random
+03:07:54.754    (INFO)     Trx.Start: **** ConnSH637576384740131748System.Random
+03:07:54.754    (INFO)     Trx.Commit: **C** ConnSH637576384740131748System.Random
+03:08:01.810    (INFO)     Trx.Start: **** ConnSH637576384811710567System.Random
+03:08:01.810    (INFO)     Trx.Commit: **C** ConnSH637576384811710567System.Random

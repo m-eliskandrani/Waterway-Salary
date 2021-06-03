@@ -1,0 +1,112 @@
+*** 5/16/2021 3:58:04 PM VAdvantage Log  ***
+03:58:04.584    (INFO)     Trx.Start: **** ConnSH637567774846596056System.Random
+03:58:04.584    (INFO)     Trx.Commit: **C** ConnSH637567774846596056System.Random
+03:58:04.584    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20 => ORA-01756: quoted string not properly terminated
+03:58:04.584    (INFO)     Trx.Start: **** ConnSH637567774848067533System.Random
+03:58:04.584    (INFO)     Trx.Commit: **C** ConnSH637567774848067533System.Random
+03:58:04.584    (INFO)     Trx.Start: **** ConnSH637567774848177188System.Random
+03:58:04.584    (INFO)     Trx.Commit: **C** ConnSH637567774848177188System.Random
+03:58:04.584    (INFO)     Trx.Start: **** ConnSH637567774848282880System.Random
+03:58:04.584    (INFO)     Trx.Commit: **C** ConnSH637567774848282880System.Random
+03:58:04.584    (INFO)     Trx.Start: **** ConnDDH637567774848422643System.Random
+03:58:04.584    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637567774848422643System.Random 88
+03:58:04.584    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637567774848422643System.Random 88
+03:58:04.584    (INFO)     Trx.Commit: **C** ConnDDH637567774848422643System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: Not insertedVAHRUAE_Vss_EmpMthSalary
+03:58:04.584    (INFO)     Trx.Start: **** ConnSH637567774848671242System.Random
+03:58:04.584    (INFO)     Trx.Commit: **C** ConnSH637567774848671242System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+03:58:04.584    (INFO)     Trx.Start: **** ConnSH637567774848985387System.Random
+03:58:04.584    (INFO)     Trx.Commit: **C** ConnSH637567774848985387System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+03:58:04.584    (INFO)     Trx.Start: **** ConnSH637567774849285417System.Random
+03:58:04.584    (INFO)     Trx.Commit: **C** ConnSH637567774849285417System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+03:58:04.584    (INFO)     Trx.Start: **** ConnSH637567774849565382System.Random
+03:58:04.584    (INFO)     Trx.Commit: **C** ConnSH637567774849565382System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+03:58:04.584    (INFO)     Trx.Start: **** ConnSH637567774849839079System.Random
+03:58:04.584    (INFO)     Trx.Commit: **C** ConnSH637567774849839079System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+03:58:05.585    (INFO)     Trx.Start: **** ConnSH637567774850114502System.Random
+03:58:05.585    (INFO)     Trx.Commit: **C** ConnSH637567774850114502System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '26-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '26-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '26-DEC-20 => ORA-01756: quoted string not properly terminated
+04:01:20.120    (INFO)     Trx.Start: **** ConnSH637567776808687707System.Random
+04:01:20.120    (INFO)     Trx.Commit: **C** ConnSH637567776808687707System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+04:01:20.120    (INFO)     Trx.Start: **** ConnSH637567776809947709System.Random
+04:01:21.121    (INFO)     Trx.Commit: **C** ConnSH637567776809947709System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '03-DEC-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '03-DEC-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '03-DEC-21 => ORA-01756: quoted string not properly terminated
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+04:01:21.121    (INFO)     Trx.Start: **** ConnSH637567776810367718System.Random
+04:01:21.121    (INFO)     Trx.Commit: **C** ConnSH637567776810367718System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+04:01:21.121    (INFO)     Trx.Start: **** ConnSH637567776810957709System.Random
+04:01:21.121    (INFO)     Trx.Commit: **C** ConnSH637567776810957709System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '06-DEC-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '06-DEC-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '06-DEC-21 => ORA-01756: quoted string not properly terminated
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+04:01:21.121    (INFO)     Trx.Start: **** ConnSH637567776811377764System.Random
+04:01:21.121    (INFO)     Trx.Commit: **C** ConnSH637567776811377764System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '08-DEC-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '08-DEC-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '08-DEC-21 => ORA-01756: quoted string not properly terminated
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+04:01:21.121    (INFO)     Trx.Start: **** ConnSH637567776812577711System.Random
+04:01:21.121    (INFO)     Trx.Commit: **C** ConnSH637567776812577711System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '15-DEC-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '15-DEC-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '15-DEC-21 => ORA-01756: quoted string not properly terminated
+04:01:21.121    (INFO)     Trx.Start: **** ConnSH637567776812847721System.Random
+04:01:21.121    (INFO)     Trx.Commit: **C** ConnSH637567776812847721System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '16-DEC-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '16-DEC-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '16-DEC-21 => ORA-01756: quoted string not properly terminated
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+04:01:21.121    (INFO)     Trx.Start: **** ConnSH637567776813267716System.Random
+04:01:21.121    (INFO)     Trx.Commit: **C** ConnSH637567776813267716System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '18-DEC-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '18-DEC-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731 AND VAHRUAE_DATE1= '18-DEC-21 => ORA-01756: quoted string not properly terminated
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < 10200C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < 10200C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   PO.calculateTax: SELECT C_TAX_ID FROM C_TAX WHERE Line < 10200C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC => ORA-00933: SQL command not properly ended
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000070
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000072

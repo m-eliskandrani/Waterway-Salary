@@ -1,0 +1,56 @@
+*** 4/5/2020 3:35:28 PM VAdvantage Log  ***
+===========>     (SEVERE)   DB_Oracle.ExecuteDatasetPaging: ORA-00942: table or view does not exist [Query NQTrx]select * FROM (SELECT t.*, rownum AS row_num FROM (SELECT AD_BView_Field.AD_BView_Field_ID,NULL,NULL,AD_BView_Field.IsActive FROM AD_BView_Field WHERE AD_BView_Field.AD_Client_ID=0 AND (COALESCE(AD_BView_Field.AD_Org_ID,0) IN(0,0))) t ) WHERE row_num BETWEEN (((1 - 1) * 1000) + 1) AND ((1 * 1000))
+03:35:37.353    (INFO)     Trx.Start: **** ConnSH637216977375756702System.Random
+03:35:37.353    (INFO)     Trx.Commit: **C** ConnSH637216977375756702System.Random
+03:35:37.353    (INFO)     MChangeLog.FillChangeLog: #11
+03:35:37.353    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+04:07:27.727    (INFO)     AEnv.GetMWindowVO: Cached=VAdvantage.Controller.GridWindowVO
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =284
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =285
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+04:07:27.727    (INFO)     Trx.Start: **** ConnSH637216996476584200System.Random
+04:07:27.727    (INFO)     Trx.Commit: **C** ConnSH637216996476584200System.Random
+===========>     (SEVERE)   DB_Oracle.ExecuteDatasetPaging: ORA-00942: table or view does not exist [Query NQTrx]select * FROM (SELECT t.*, rownum AS row_num FROM (SELECT AD_BView.AD_BView_ID,NULL,NULL,AD_BView.IsActive FROM AD_BView WHERE AD_BView.AD_Client_ID=0 AND (COALESCE(AD_BView.AD_Org_ID,0) IN(0,0)) ORDER BY 3) t ) WHERE row_num BETWEEN (((1 - 1) * 1000) + 1) AND ((1 * 1000))
+===========>     (SEVERE)   DB_Oracle.ExecuteDatasetPaging: ORA-00942: table or view does not exist [Query NQTrx]select * FROM (SELECT t.*, rownum AS row_num FROM (SELECT AD_ReportTemplate.AD_ReportTemplate_ID,NULL,NULL,AD_ReportTemplate.IsActive FROM AD_ReportTemplate WHERE AD_ReportTemplate.AD_Client_ID=0 AND (COALESCE(AD_ReportTemplate.AD_Org_ID,0) IN(0,0)) ORDER BY 3) t ) WHERE row_num BETWEEN (((1 - 1) * 1000) + 1) AND ((1 * 1000))
+04:07:28.728    (INFO)     Trx.Start: **** ConnSH637216996488571339System.Random
+04:07:28.728    (INFO)     Trx.Commit: **C** ConnSH637216996488571339System.Random
+===========>     (SEVERE)   DB_Oracle.ExecuteDatasetPaging: ORA-00942: table or view does not exist [Query NQTrx]select * FROM (SELECT t.*, rownum AS row_num FROM (SELECT AD_BView_Field.AD_BView_Field_ID,NULL,NULL,AD_BView_Field.IsActive FROM AD_BView_Field WHERE AD_BView_Field.AD_Client_ID=0 AND (COALESCE(AD_BView_Field.AD_Org_ID,0) IN(0,0))) t ) WHERE row_num BETWEEN (((1 - 1) * 1000) + 1) AND ((1 * 1000))
+04:07:32.732    (INFO)     Trx.Start: **** ConnSH637216996528959269System.Random
+04:07:32.732    (INFO)     Trx.Commit: **C** ConnSH637216996528959269System.Random
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =376
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000175

@@ -1,0 +1,5 @@
+*** 8/28/2020 11:18:18 AM VAdvantage Log  ***
+===========>     (SEVERE)   DB.ExecuteQuery:  => ERROR: 42601: syntax error at or near "BYTE"
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ERROR: 42601: syntax error at or near "BYTE"
+===========>     (SEVERE)   DB.ExecuteQuery:  => ERROR: 42P07: relation "uniqeexportentry" already exists
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ERROR: 42P07: relation "uniqeexportentry" already exists

@@ -1,0 +1,101 @@
+*** 5/4/2021 10:13:56 AM VAdvantage Log  ***
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+10:13:56.135    (INFO)     Trx.Start: **** ConnSH637557200365133677System.Random
+10:13:56.135    (INFO)     Trx.Commit: **C** ConnSH637557200365133677System.Random
+10:13:57.135    (INFO)     Trx.Start: **** ConnSH637557200370323682System.Random
+10:13:57.135    (INFO)     Trx.Commit: **C** ConnSH637557200370323682System.Random
+10:14:00.140    (INFO)     Trx.Start: **** ConnSH637557200402312850System.Random
+10:14:00.140    (INFO)     Trx.Commit: **C** ConnSH637557200402312850System.Random
+10:14:04.144    (INFO)     Trx.Start: **** ConnSH637557200446534396System.Random
+10:14:04.144    (INFO)     Trx.Commit: **C** ConnSH637557200446534396System.Random
+10:15:12.151    (INFO)     Trx.Start: **** ConnSH637557201122421572System.Random
+10:15:12.151    (INFO)     Trx.Commit: **C** ConnSH637557201122421572System.Random
+10:15:12.151    (INFO)     MChangeLog.FillChangeLog: #9
+10:15:12.151    (INFO)     Trx.Start: **** ConnSH637557201122555799System.Random
+10:15:12.151    (INFO)     Trx.Commit: **C** ConnSH637557201122555799System.Random
+10:15:15.151    (INFO)     Trx.Start: **** ConnSH637557201150424943System.Random
+10:15:15.151    (INFO)     Trx.Commit: **C** ConnSH637557201150424943System.Random
+10:15:15.151    (INFO)     ColumnSync.DoIt: C_Column_ID=1022039
+10:15:15.151    (INFO)     Trx.Start: **** SvrProcess
+10:15:15.151    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_HR_Employee_Penality MODIFY  VAHRUAE_DeductionAmount  NUMBER DEFAULT  NULL 
+10:15:15.151    (INFO)     Trx.Commit: **C** SvrProcess
+10:15:15.151    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+10:15:21.152    (INFO)     Trx.Start: **** ConnSH637557201213488328System.Random
+10:15:21.152    (INFO)     Trx.Commit: **C** ConnSH637557201213488328System.Random
+10:15:28.152    (INFO)     Trx.Start: **** ConnSH637557201288989172System.Random
+10:15:28.152    (INFO)     Trx.Commit: **C** ConnSH637557201288989172System.Random
+10:15:28.152    (INFO)     CacheReset.DoIt: 
+10:15:28.152    (INFO)     Env.Reset: finalCall=False
+10:15:28.152    (INFO)     CacheMgt.Reset: #18 (4389)
+10:15:28.152    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=0, reload=True
+10:15:28.152    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+10:15:28.152    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+10:15:28.152    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+10:15:28.152    (INFO)     MChangeLog.FillChangeLog: #9
+10:15:29.152    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+10:15:29.152    (INFO)     MSession.Logout: 02:02:40.966
+----------->     (WARNING)  MSession.Get: Session Processed=X_AD_Session[1003159]
+10:15:29.152    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+10:15:29.152    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+10:15:29.152    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=100, Editable=False, OnClient=True
+10:15:30.153    (INFO)     Trx.Start: **** ConnSH637557201302115730System.Random
+10:15:30.153    (INFO)     Trx.Commit: **C** ConnSH637557201302115730System.Random
+10:15:30.153    (INFO)     Msg.InitMsg: Records=4077 - en_US
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 100  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 100 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('5/03/21','mm/dd/yy') and to_date('5/11/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('5/04/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=100 AND AppointmentsInfo.AD_User_ID  = 100)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+10:15:31.153    (INFO)     Trx.Start: **** ConnSH637557201314672701System.Random
+10:15:31.153    (INFO)     Trx.Commit: **C** ConnSH637557201314672701System.Random
+10:15:32.153    (INFO)     Trx.Start: **** ConnSH637557201324422563System.Random
+10:15:32.153    (INFO)     Trx.Commit: **C** ConnSH637557201324422563System.Random
+10:15:32.153    (INFO)     Trx.Start: **** ConnSH637557201327000202System.Random

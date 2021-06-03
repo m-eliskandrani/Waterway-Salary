@@ -1,0 +1,5 @@
+*** 4/12/2021 1:55:11 PM VAdvantage Log  ***
+01:55:11.551    (INFO)     Trx.Start: **** ConnSH637538325111040750System.Random
+01:55:11.551    (INFO)     Trx.Commit: **C** ConnSH637538325111040750System.Random
+01:55:11.551    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   CalculatePenalties.StartProcess: VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME

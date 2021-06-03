@@ -1,0 +1,531 @@
+*** 4/19/2021 11:32:26 AM VAdvantage Log  ***
+11:32:26.322    (INFO)     Trx.Start: **** ConnSH637544287462518242System.Random
+11:32:26.322    (INFO)     Trx.Commit: **C** ConnSH637544287462518242System.Random
+11:32:26.322    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-NOV-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-NOV-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-NOV-20 => ORA-01756: quoted string not properly terminated
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287523031608System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287523031608System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287523742362System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287523742362System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287523832010System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287523832010System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287524202360System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287524202360System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287524532460System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287524532460System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287524742462System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287524742462System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-DEC-20 => ORA-01756: quoted string not properly terminated
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287525757944System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287525757944System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287525857949System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287525857949System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287526217965System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287526217965System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287526438018System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287526438018System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287526567964System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287526567964System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JAN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JAN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JAN-21 => ORA-01756: quoted string not properly terminated
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287527037986System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287527037986System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287527417965System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287527417965System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287527607935System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287527607935System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287527697982System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287527697982System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287528097965System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287528097965System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287528278328System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287528278328System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-FEB-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-FEB-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-FEB-21 => ORA-01756: quoted string not properly terminated
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287528978343System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287528978343System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287529067964System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287529067964System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287529157956System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287529157956System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287529247946System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287529247946System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287529337965System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287529337965System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287529428209System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287529428209System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287529507985System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287529507985System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287529608296System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287529608296System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287529698302System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287529698302System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287529778340System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287529778340System.Random
+11:32:32.323    (INFO)     Trx.Start: **** ConnSH637544287529868262System.Random
+11:32:32.323    (INFO)     Trx.Commit: **C** ConnSH637544287529868262System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '19-MAR-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '19-MAR-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '19-MAR-21 => ORA-01756: quoted string not properly terminated
+11:32:33.323    (INFO)     Trx.Start: **** ConnSH637544287530368196System.Random
+11:32:33.323    (INFO)     Trx.Commit: **C** ConnSH637544287530368196System.Random
+11:32:33.323    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:38:01.381    (INFO)     Trx.Start: **** ConnSH637544290819453535System.Random
+11:38:01.381    (INFO)     Trx.Commit: **C** ConnSH637544290819453535System.Random
+11:38:01.381    (INFO)     Trx.Start: **** ConnSH637544290819836550System.Random
+11:38:01.381    (INFO)     Trx.Commit: **C** ConnSH637544290819836550System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290819999094System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290819999094System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290820157502System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290820157502System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290820307502System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290820307502System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290820454969System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290820454969System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290820612954System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290820612954System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290820762697System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290820762697System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290820919148System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290820919148System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290821063635System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290821063635System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290821213440System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290821213440System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290821361771System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290821361771System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290821544523System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290821544523System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290821695317System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290821695317System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290821853269System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290821853269System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290822012118System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290822012118System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290822213624System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290822213624System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290822363474System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290822363474System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290822533716System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290822533716System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290822693467System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290822693467System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290822840156System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290822840156System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-NOV-20' AND VAHRUAE_DATE1 <= '20-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-NOV-20' AND VAHRUAE_DATE1 <= '20-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-NOV-20' AND VAHRUAE_DATE1 <= '20-DEC-20 => ORA-01756: quoted string not properly terminated
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290822938625System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290822938625System.Random
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290823099447System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290823099447System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290823259457System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290823259457System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290823414754System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290823414754System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290823564490System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290823564490System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290823716888System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290823716888System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290823892978System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290823892978System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290824049122System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290824049122System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290824211139System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290824211139System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290824380819System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290824380819System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290824540819System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290824540819System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290824700817System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290824700817System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290824872406System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290824872406System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290825022394System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290825022394System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290825176553System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290825176553System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290825354189System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290825354189System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290825517951System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290825517951System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290825697710System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290825697710System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290825865569System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290825865569System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290826025547System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290826025547System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290826175546System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290826175546System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290826335580System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290826335580System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-DEC-20' AND VAHRUAE_DATE1 <= '20-JAN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-DEC-20' AND VAHRUAE_DATE1 <= '20-JAN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-DEC-20' AND VAHRUAE_DATE1 <= '20-JAN-21 => ORA-01756: quoted string not properly terminated
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290826434150System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290826434150System.Random
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290826588393System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290826588393System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290826743586System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290826743586System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290826898338System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290826898338System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290827084872System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290827084872System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290827233039System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290827233039System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290827393558System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290827393558System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290827568476System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290827568476System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290827750935System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290827750935System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290827900931System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290827900931System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290828080934System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290828080934System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290828241171System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290828241171System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290828460929System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290828460929System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290828630916System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290828630916System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290828800916System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290828800916System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290828980931System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290828980931System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290829144418System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290829144418System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290829308360System.Random
+11:38:02.382    (INFO)     Trx.Commit: **C** ConnSH637544290829308360System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-JAN-21' AND VAHRUAE_DATE1 <= '20-FEB-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-JAN-21' AND VAHRUAE_DATE1 <= '20-FEB-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-JAN-21' AND VAHRUAE_DATE1 <= '20-FEB-21 => ORA-01756: quoted string not properly terminated
+11:38:02.382    (INFO)     Trx.Start: **** ConnSH637544290829417186System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290829417186System.Random
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290830533296System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290830533296System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290830703897System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290830703897System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290830849055System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290830849055System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290831039554System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290831039554System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290831189546System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290831189546System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290831347931System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290831347931System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290831518538System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290831518538System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290831658540System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290831658540System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290831819345System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290831819345System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290831969315System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290831969315System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290832113222System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290832113222System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290832300269System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290832300269System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290832462633System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290832462633System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_PENALITYDETAILS"."VAHRUAE_HR_PENALITY_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_PenalityDetails.DoIt: Not insertedVAHRUAE_HR_PenalityDetails
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-FEB-21' AND VAHRUAE_DATE1 <= '20-MAR-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-FEB-21' AND VAHRUAE_DATE1 <= '20-MAR-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-FEB-21' AND VAHRUAE_DATE1 <= '20-MAR-21 => ORA-01756: quoted string not properly terminated
+11:38:03.383    (INFO)     Trx.Start: **** ConnSH637544290832649485System.Random
+11:38:03.383    (INFO)     Trx.Commit: **C** ConnSH637544290832649485System.Random
+11:38:03.383    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295424648266System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295424648266System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-NOV-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-NOV-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-NOV-20 => ORA-01756: quoted string not properly terminated
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295424935330System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295424935330System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295425648888System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295425648888System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295425738890System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295425738890System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295426062817System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295426062817System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295426344873System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295426344873System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295426545124System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295426545124System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-DEC-20 => ORA-01756: quoted string not properly terminated
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295427507169System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295427507169System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295427593298System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295427593298System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295427937027System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295427937027System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295428135381System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295428135381System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295428265471System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295428265471System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JAN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JAN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JAN-21 => ORA-01756: quoted string not properly terminated
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295428733323System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295428733323System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295429064600System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295429064600System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295429293683System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295429293683System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295429393662System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295429393662System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295429797907System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295429797907System.Random
+11:45:42.454    (INFO)     Trx.Start: **** ConnSH637544295429926892System.Random
+11:45:42.454    (INFO)     Trx.Commit: **C** ConnSH637544295429926892System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-FEB-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-FEB-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-FEB-21 => ORA-01756: quoted string not properly terminated
+11:45:43.454    (INFO)     Trx.Start: **** ConnSH637544295430363431System.Random
+11:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637544295430363431System.Random
+11:45:43.454    (INFO)     Trx.Start: **** ConnSH637544295430453417System.Random
+11:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637544295430453417System.Random
+11:45:43.454    (INFO)     Trx.Start: **** ConnSH637544295430534108System.Random
+11:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637544295430534108System.Random
+11:45:43.454    (INFO)     Trx.Start: **** ConnSH637544295430620732System.Random
+11:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637544295430620732System.Random
+11:45:43.454    (INFO)     Trx.Start: **** ConnSH637544295430700738System.Random
+11:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637544295430700738System.Random
+11:45:43.454    (INFO)     Trx.Start: **** ConnSH637544295430780989System.Random
+11:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637544295430780989System.Random
+11:45:43.454    (INFO)     Trx.Start: **** ConnSH637544295430869217System.Random
+11:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637544295430869217System.Random
+11:45:43.454    (INFO)     Trx.Start: **** ConnSH637544295430949224System.Random
+11:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637544295430949224System.Random
+11:45:43.454    (INFO)     Trx.Start: **** ConnSH637544295431034996System.Random
+11:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637544295431034996System.Random
+11:45:43.454    (INFO)     Trx.Start: **** ConnSH637544295431122035System.Random
+11:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637544295431122035System.Random
+11:45:43.454    (INFO)     Trx.Start: **** ConnSH637544295431192053System.Random
+11:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637544295431192053System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '19-MAR-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '19-MAR-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '19-MAR-21 => ORA-01756: quoted string not properly terminated
+11:45:43.454    (INFO)     Trx.Start: **** ConnSH637544295431664603System.Random
+11:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637544295431664603System.Random

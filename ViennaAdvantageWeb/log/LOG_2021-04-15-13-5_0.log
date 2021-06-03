@@ -1,0 +1,41 @@
+*** 4/15/2021 1:06:06 PM VAdvantage Log  ***
+01:06:06.660    (INFO)     Trx.Start: **** ConnSH637540887663994262System.Random
+01:06:06.660    (INFO)     Trx.Commit: **C** ConnSH637540887663994262System.Random
+01:06:06.660    (INFO)     MChangeLog.FillChangeLog: #9
+01:06:09.690    (INFO)     Trx.Start: **** ConnSH637540887691257517System.Random
+01:06:09.690    (INFO)     Trx.Commit: **C** ConnSH637540887691257517System.Random
+01:06:18.618    (INFO)     Trx.Start: **** ConnSH637540887781868970System.Random
+01:06:18.618    (INFO)     Trx.Commit: **C** ConnSH637540887781868970System.Random
+01:06:18.618    (INFO)     Trx.Start: **** ConnSH637540887782829877System.Random
+01:06:18.618    (INFO)     Trx.Commit: **C** ConnSH637540887782829877System.Random
+01:06:18.618    (INFO)     Trx.Start: **** ConnSH637540887783818983System.Random
+01:06:18.618    (INFO)     Trx.Commit: **C** ConnSH637540887783818983System.Random
+01:06:18.618    (INFO)     Trx.Start: **** ConnSH637540887784749438System.Random
+01:06:18.618    (INFO)     Trx.Commit: **C** ConnSH637540887784749438System.Random
+01:06:18.618    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+01:06:48.648    (INFO)     Trx.Start: **** ConnSH637540888085448425System.Random
+01:06:48.648    (INFO)     Trx.Commit: **C** ConnSH637540888085448425System.Random
+01:06:48.648    (INFO)     Trx.Start: **** ConnSH637540888085647975System.Random
+01:06:48.648    (INFO)     Trx.Commit: **C** ConnSH637540888085647975System.Random
+01:06:48.648    (INFO)     Trx.Start: **** ConnSH637540888085757936System.Random
+01:06:48.648    (INFO)     Trx.Commit: **C** ConnSH637540888085757936System.Random
+01:06:48.648    (INFO)     Trx.Start: **** ConnSH637540888086727950System.Random
+01:06:48.648    (INFO)     Trx.Commit: **C** ConnSH637540888086727950System.Random
+01:06:48.648    (INFO)     Trx.Start: **** ConnSH637540888087667948System.Random
+01:06:48.648    (INFO)     Trx.Commit: **C** ConnSH637540888087667948System.Random
+01:06:48.648    (INFO)     Trx.Start: **** ConnSH637540888088647949System.Random
+01:06:48.648    (INFO)     Trx.Commit: **C** ConnSH637540888088647949System.Random
+01:06:48.648    (INFO)     Trx.Start: **** ConnSH637540888089517761System.Random
+01:06:48.648    (INFO)     Trx.Commit: **C** ConnSH637540888089517761System.Random
+01:06:48.648    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+01:08:33.833    (INFO)     Trx.Start: **** ConnSH637540889136626957System.Random
+01:08:33.833    (INFO)     Trx.Commit: **C** ConnSH637540889136626957System.Random
+01:08:33.833    (INFO)     Trx.Start: **** ConnSH637540889136820677System.Random
+01:08:33.833    (INFO)     Trx.Commit: **C** ConnSH637540889136820677System.Random
+01:08:33.833    (INFO)     Trx.Start: **** ConnSH637540889136920674System.Random
+01:08:33.833    (INFO)     Trx.Commit: **C** ConnSH637540889136920674System.Random
+01:08:33.833    (INFO)     Trx.Start: **** ConnSH637540889137025780System.Random
+01:08:33.833    (INFO)     Trx.Commit: **C** ConnSH637540889137025780System.Random
+01:08:53.853    (INFO)     Trx.Start: **** ConnSH637540889330491371System.Random
+01:08:53.853    (INFO)     Trx.Commit: **C** ConnSH637540889330491371System.Random
+01:12:41.124    (INFO)     Trx.Start: **** ConnSH637540891613935651System.Random

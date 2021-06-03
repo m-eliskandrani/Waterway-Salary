@@ -1,0 +1,54 @@
+﻿<div style="width: 100%; height: 100%; background-color: white;">
+    <div class="vis-apanel-busy"></div>
+    <div id="@("leftSideDiv_" + ViewBag.WindowNumber)" style="float: left; margin-left: 0px; height: 95%; width: 20%; margin-top: 1px; position: relative; background-color: #F1F1F1;">
+        <table style="width: 100%;">
+            <tbody>
+                <tr>
+                    <td style="padding: 4px 15px 2px;">
+                        <label id="@("lblName_" + ViewBag.WindowNumber)" class="VIS_Pref_Label_Font" style="display: inline-block;">Name</label></td>
+                </tr>
+                <tr>
+                    <td style="padding: 0px 15px 0px;">
+                        <input id="@("txtName_" + ViewBag.WindowNumber)" type="text" name="Name" maxlength="100" class="vis-gc-vpanel-table-mandatory" style="display: inline-block; width: 236px; height: 30px;"></td>
+                </tr>
+                <tr>
+                    <td style="padding: 4px 15px 2px;">
+                        <label id="@("lblDepartment_" + ViewBag.WindowNumber)" class="VIS_Pref_Label_Font" style="display: inline-block;">DEPARTMENT</label></td>
+                </tr>
+                <tr>
+                    <td style="padding: 0px 15px 0px;">
+                        <select id="@("cmbDepartment_" + ViewBag.WindowNumber)" style="display: inline-block; width: 236px; height: 30px;">
+                        </select></td>
+                </tr>
+                <tr>
+                    <td style="padding: 4px 15px 2px;">
+                        <label id="@("lblEmployeeGrade_" + ViewBag.WindowNumber)" class="VIS_Pref_Label_Font" style="display: inline-block;">EmployeeGrade</label></td>
+                </tr>
+                <tr>
+                    <td style="padding: 0px 15px 0px;">
+                        <select id="@("cmbEmployeeGrade_" + ViewBag.WindowNumber)" style="display: inline-block; width: 236px; height: 30px;">
+                        </select></td>
+                </tr>
+                <tr>
+                    <td style="padding: 4px 15px 2px;">
+                        <label id="@("lblDateOfBirth_" + ViewBag.WindowNumber)" class="VIS_Pref_Label_Font" style="display: inline-block;">DateOfBirth</label></td>
+                </tr>
+                <tr>
+                    <td style="padding: 0px 15px 0px;">
+                        <input id="@("vdate_" + ViewBag.WindowNumber)"  type="date" name="V_Date" style="display: inline-block; width: 236px; height: 30px;"></td>
+                </tr>
+            </tbody>
+        </table>
+        <div  id="@("leftSideBottomDiv_" + ViewBag.WindowNumber)" style="float: left; position: absolute; bottom: 0; height: 60px; width: 100%; background-color: #F1F1F1">
+            <input id="@("btnCancel_" + ViewBag.WindowNumber)" class="VIS_Pref_btn-2" style="margin-right: 15px; width: 70px; height: 38px;" type="button" value="Clear">
+            <input  id="@("btnOk_" + ViewBag.WindowNumber)" class="VIS_Pref_btn-2" style="margin-right: 3px; width: 70px; height: 38px;" type="button" value="Save">
+        </div>
+    </div>
+
+    <div id="@("rightSideDiv_" + ViewBag.WindowNumber)" style="float: right; width: 78%; height: 95%; margin-right: 15px; margin-top: 1px; border: 1px solid rgb(169, 169, 169);" class="w2ui-reset w2ui-grid" name="gridGenEmployeeForm1">
+    </div>
+
+    <div style="width: 100%; height: 60px; float: left; margin-bottom: 0px;">
+        <label id="@("lblBottomMsg_" + ViewBag.WindowNumber)"  class="VIS_Pref_Label_Font" style="display: inline-block;">Record....</label>
+    </div>
+</div>

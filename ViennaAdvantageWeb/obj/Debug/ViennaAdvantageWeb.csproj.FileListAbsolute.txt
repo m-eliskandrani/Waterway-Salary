@@ -1,0 +1,273 @@
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csprojAssemblyReference.cache
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csproj.CoreCompileInputs.cache
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll.config
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.pdb
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Antlr3.Runtime.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ModelLibrary.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Newtonsoft.Json.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Npgsql.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\PdfSharp.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\SecureEngineUtility.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Spatial.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Helpers.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Mvc.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Optimization.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Razor.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantage.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageSvc.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaBase.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\VIS.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\WebGrease.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageSvc.pdb
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantage.pdb
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantage.dll.config
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Antlr3.Runtime.pdb
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Newtonsoft.Json.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Spatial.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Helpers.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Mvc.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Optimization.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Razor.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.xml
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csproj.CopyComplete
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.pdb
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll.config
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.pdb
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Antlr3.Runtime.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ModelLibrary.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Newtonsoft.Json.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Npgsql.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\PdfSharp.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\SecureEngineUtility.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Spatial.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Helpers.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Mvc.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Optimization.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Razor.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantage.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageSvc.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaBase.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\VIS.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\WebGrease.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageSvc.pdb
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantage.pdb
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantage.dll.config
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Antlr3.Runtime.pdb
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Newtonsoft.Json.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Spatial.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Helpers.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Mvc.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Optimization.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Razor.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.xml
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csprojAssemblyReference.cache
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csproj.CoreCompileInputs.cache
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csproj.CopyComplete
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.pdb
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\MySql.Data.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Oracle.ManagedDataAccess.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Mono.Security.dll
+D:\VAPK\VAPK\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Google.Authenticator.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll.config
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.pdb
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Antlr3.Runtime.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Google.Authenticator.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ModelLibrary.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Mono.Security.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\MySql.Data.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Newtonsoft.Json.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Npgsql.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Oracle.ManagedDataAccess.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\PdfSharp.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\SecureEngineUtility.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Spatial.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Helpers.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Mvc.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Optimization.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Razor.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantage.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageSvc.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaBase.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\VIS.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\WebGrease.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageSvc.pdb
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantage.pdb
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantage.dll.config
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Antlr3.Runtime.pdb
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\Newtonsoft.Json.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Spatial.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Helpers.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Mvc.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Optimization.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Razor.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.xml
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csprojAssemblyReference.cache
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csproj.CoreCompileInputs.cache
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csproj.CopyComplete
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.pdb
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll.config
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.pdb
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\Antlr3.Runtime.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\Google.Authenticator.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\ModelLibrary.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\Mono.Security.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\MySql.Data.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\Newtonsoft.Json.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\Npgsql.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\Oracle.ManagedDataAccess.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\PdfSharp.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\SecureEngineUtility.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Spatial.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Helpers.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Http.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Mvc.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Optimization.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Razor.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.WebPages.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\ViennaAdvantage.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\ViennaAdvantageSvc.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\ViennaBase.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\VIS.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\WebGrease.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\ViennaAdvantageSvc.pdb
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\ViennaAdvantage.pdb
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\ViennaAdvantage.dll.config
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\Antlr3.Runtime.pdb
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\Newtonsoft.Json.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Spatial.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Helpers.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Http.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Mvc.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Optimization.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.Razor.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.WebPages.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.xml
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csprojAssemblyReference.cache
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csproj.CoreCompileInputs.cache
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csproj.CopyComplete
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.dll
+C:\Lokesh\Partner Kit Example\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csprojAssemblyReference.cache
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csproj.CoreCompileInputs.cache
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll.config
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Antlr3.Runtime.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.Auth.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.Calendar.v3.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.Core.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.PlatformServices.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Authenticator.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\ModelLibrary.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Mono.Security.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\MySql.Data.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Newtonsoft.Json.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Npgsql.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Oracle.ManagedDataAccess.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\PdfSharp.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\SecureEngineUtility.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Helpers.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Mvc.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Optimization.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Razor.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\ViennaBase.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\VIS.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\WebGrease.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Antlr3.Runtime.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.Auth.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.Auth.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.Calendar.v3.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.Calendar.v3.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.Core.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Google.Apis.Core.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\Newtonsoft.Json.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Helpers.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Mvc.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Optimization.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.Razor.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csproj.CopyComplete
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\DGM10.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\DGM10Svc.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\DGM10Svc.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\DGM10.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageWeb\bin\DGM10.dll.config

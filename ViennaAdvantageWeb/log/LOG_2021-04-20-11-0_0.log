@@ -1,0 +1,257 @@
+*** 4/20/2021 11:00:19 AM VAdvantage Log  ***
+11:00:19.019    (INFO)     Trx.Start: **** ConnSH637545132196748926System.Random
+11:00:19.019    (INFO)     Trx.Commit: **C** ConnSH637545132196748926System.Random
+11:00:19.019    (INFO)     MChangeLog.FillChangeLog: #9
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132203502538System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132203502538System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132203682181System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132203682181System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132203762188System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132203762188System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132203852522System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132203852522System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132203922169System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132203922169System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204002172System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204002172System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204082176System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204082176System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204162192System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204162192System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204232186System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204232186System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204302194System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204302194System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204382174System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204382174System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204462551System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204462551System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204532184System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204532184System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204602178System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204602178System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204682611System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204682611System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204752508System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204752508System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204832164System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204832164System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204892166System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204892166System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132204976987System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132204976987System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132205057404System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132205057404System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132205127146System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132205127146System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132205207475System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132205207475System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132205277134System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132205277134System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132205347129System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132205347129System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     Trx.Start: **** ConnSH637545132205417131System.Random
+11:00:20.020    (INFO)     Trx.Commit: **C** ConnSH637545132205417131System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:00:20.020    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:00:55.055    (INFO)     Trx.Start: **** ConnSH637545132557773577System.Random
+11:00:55.055    (INFO)     Trx.Commit: **C** ConnSH637545132557773577System.Random
+11:01:05.150    (INFO)     Trx.Start: **** ConnSH637545132658141858System.Random
+11:01:05.150    (INFO)     Trx.Commit: **C** ConnSH637545132658141858System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133778571733System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133778571733System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133778661765System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133778661765System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133778751741System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133778751741System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133778821742System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133778821742System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133778881750System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133778881750System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133778951737System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133778951737System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779021736System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779021736System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779091734System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779091734System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779161741System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779161741System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779231740System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779231740System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779301737System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779301737System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779371737System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779371737System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779451740System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779451740System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779521726System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779521726System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779581742System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779581742System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779641763System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779641763System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779711741System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779711741System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779771740System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779771740System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779841782System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779841782System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:57.257    (INFO)     Trx.Start: **** ConnSH637545133779912091System.Random
+11:02:57.257    (INFO)     Trx.Commit: **C** ConnSH637545133779912091System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:58.258    (INFO)     Trx.Start: **** ConnSH637545133779991744System.Random
+11:02:58.258    (INFO)     Trx.Commit: **C** ConnSH637545133779991744System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:58.258    (INFO)     Trx.Start: **** ConnSH637545133780071748System.Random
+11:02:58.258    (INFO)     Trx.Commit: **C** ConnSH637545133780071748System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:58.258    (INFO)     Trx.Start: **** ConnSH637545133780141774System.Random
+11:02:58.258    (INFO)     Trx.Commit: **C** ConnSH637545133780141774System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays
+11:02:58.258    (INFO)     Trx.Start: **** ConnSH637545133780222088System.Random
+11:02:58.258    (INFO)     Trx.Commit: **C** ConnSH637545133780222088System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.GAPI: Not insertedVAHRUAE_HR_Holidays

@@ -1,0 +1,625 @@
+*** 4/21/2021 8:52:11 AM VAdvantage Log  ***
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+08:52:11.521    (INFO)     Trx.Start: **** ConnSH637545919313259052System.Random
+08:52:11.521    (INFO)     Trx.Commit: **C** ConnSH637545919313259052System.Random
+08:52:12.521    (INFO)     Trx.Start: **** ConnSH637545919323911340System.Random
+08:52:12.521    (INFO)     Trx.Commit: **C** ConnSH637545919323911340System.Random
+08:52:16.521    (INFO)     Trx.Start: **** ConnSH637545919360578622System.Random
+08:52:16.521    (INFO)     Trx.Commit: **C** ConnSH637545919360578622System.Random
+08:52:39.523    (INFO)     Trx.Start: **** ConnSH637545919599587955System.Random
+08:52:39.523    (INFO)     Trx.Commit: **C** ConnSH637545919599587955System.Random
+08:53:26.532    (INFO)     Trx.Start: **** ConnSH637545920067037909System.Random
+08:53:26.532    (INFO)     Trx.Commit: **C** ConnSH637545920067037909System.Random
+08:53:28.532    (INFO)     Trx.Start: **** ConnSH637545920085644949System.Random
+08:53:28.532    (INFO)     Trx.Commit: **C** ConnSH637545920085644949System.Random
+08:54:00.540    (INFO)     Trx.Start: **** ConnSH637545920406974329System.Random
+08:54:00.540    (INFO)     Trx.Commit: **C** ConnSH637545920406974329System.Random
+08:54:03.543    (INFO)     Trx.Start: **** ConnSH637545920436058979System.Random
+08:54:03.543    (INFO)     Trx.Commit: **C** ConnSH637545920436058979System.Random
+08:54:18.541    (INFO)     Trx.Start: **** ConnSH637545920584274672System.Random
+08:54:18.541    (INFO)     Trx.Commit: **C** ConnSH637545920584274672System.Random
+08:54:26.542    (INFO)     Trx.Start: **** ConnSH637545920667786763System.Random
+08:54:26.542    (INFO)     Trx.Commit: **C** ConnSH637545920667786763System.Random
+08:54:31.543    (INFO)     Trx.Start: **** ConnSH637545920711629389System.Random
+08:54:31.543    (INFO)     Trx.Commit: **C** ConnSH637545920711629389System.Random
+08:54:44.544    (INFO)     Trx.Start: **** ConnSH637545920843274567System.Random
+08:54:44.544    (INFO)     Trx.Commit: **C** ConnSH637545920843274567System.Random
+08:55:08.558    (INFO)     Trx.Start: **** ConnSH637545921083813418System.Random
+08:55:08.558    (INFO)     Trx.Commit: **C** ConnSH637545921083813418System.Random
+08:55:21.552    (INFO)     Trx.Start: **** ConnSH637545921211452302System.Random
+08:55:21.552    (INFO)     Trx.Commit: **C** ConnSH637545921211452302System.Random
+08:55:36.553    (INFO)     Trx.Start: **** ConnSH637545921364637769System.Random
+08:55:36.553    (INFO)     Trx.Commit: **C** ConnSH637545921364637769System.Random
+08:56:06.566    (INFO)     Trx.Start: **** ConnSH637545921665802699System.Random
+08:56:06.566    (INFO)     Trx.Commit: **C** ConnSH637545921665802699System.Random
+08:56:06.566    (INFO)     MChangeLog.FillChangeLog: #9
+08:56:06.566    (INFO)     Trx.Start: **** ConnSH637545921666012994System.Random
+08:56:06.566    (INFO)     Trx.Commit: **C** ConnSH637545921666012994System.Random
+08:56:06.566    (INFO)     Trx.Start: **** ConnSH637545921667964872System.Random
+08:56:06.566    (INFO)     Trx.Commit: **C** ConnSH637545921667964872System.Random
+08:56:21.562    (INFO)     Trx.Start: **** ConnSH637545921812015943System.Random
+08:56:21.562    (INFO)     Trx.Commit: **C** ConnSH637545921812015943System.Random
+08:56:21.562    (INFO)     TableCreateColumns.DoIt: EntityType=U, AllTables=False, AD_Table_ID=1000903
+08:56:21.562    (INFO)     Trx.Start: **** SvrProcess
+08:56:21.562    (INFO)     TableCreateColumns.DoIt: VAHRUAE_Deductions, EntityType=U
+08:56:23.562    (INFO)     Trx.Start: **** ConnSH637545921837965583System.Random
+08:56:23.562    (INFO)     Trx.Commit: **C** ConnSH637545921837965583System.Random
+08:56:23.562    (INFO)     Trx.Start: **** ConnSH637545921838025675System.Random
+08:56:23.562    (INFO)     Trx.Commit: **C** ConnSH637545921838025675System.Random
+08:56:23.562    (INFO)     Trx.Start: **** ConnSH637545921839037136System.Random
+08:56:23.562    (INFO)     Trx.Commit: **C** ConnSH637545921839037136System.Random
+08:56:23.562    (INFO)     Trx.Start: **** ConnSH637545921839098060System.Random
+08:56:23.562    (INFO)     Trx.Commit: **C** ConnSH637545921839098060System.Random
+08:56:23.562    (INFO)     TableCreateColumns.AddLog: 0 - 4/21/2021 8:56:23 AM -  - VAHRUAE_Deductions.EMPLOYEENAME
+08:56:23.562    (INFO)     Trx.Start: **** ConnSH637545921839989967System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921839989967System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921840032692System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921840032692System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921840172695System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921840172695System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921840205645System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921840205645System.Random
+08:56:24.562    (INFO)     TableCreateColumns.AddLog: 0 - 4/21/2021 8:56:24 AM -  - VAHRUAE_Deductions.COMPENSATIONNAME
+----------->     (WARNING)  M_Element.Get: Not unique: AMOUNT -> M_Element[1367-Amount] - Amount
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921840392296System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921840392296System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921840442301System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921840442301System.Random
+08:56:24.562    (INFO)     TableCreateColumns.AddLog: 0 - 4/21/2021 8:56:24 AM -  - VAHRUAE_Deductions.Amount
+----------->     (WARNING)  M_Element.Get: Not unique: VAHRUAE_COMPENSATIONMASTER_ID -> M_Element[1003531-VAHRUAE_CompensationMaster_ID] - VAHRUAE_CompensationMaster_ID
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921840642430System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921840642430System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921840684359System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921840684359System.Random
+08:56:24.562    (INFO)     TableCreateColumns.AddLog: 0 - 4/21/2021 8:56:24 AM -  - VAHRUAE_Deductions.VAHRUAE_CompensationMaster_ID
+----------->     (WARNING)  M_Element.Get: Not unique: VAHRUAE_VSS_MONTHLYSALARY_ID -> M_Element[1003498-VAHRUAE_Vss_MonthlySalary_ID] - VAHRUAE_Vss_MonthlySalary_ID
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921840880649System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921840880649System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921840924236System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921840924236System.Random
+08:56:24.562    (INFO)     TableCreateColumns.AddLog: 0 - 4/21/2021 8:56:24 AM -  - VAHRUAE_Deductions.VAHRUAE_Vss_MonthlySalary_ID
+----------->     (WARNING)  M_Element.Get: Not unique: MONTHNAME -> M_Element[1000559-MONTHNAME] - MONTHNAME
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921841217614System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921841217614System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921841258144System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921841258144System.Random
+08:56:24.562    (INFO)     TableCreateColumns.AddLog: 0 - 4/21/2021 8:56:24 AM -  - VAHRUAE_Deductions.MONTHNAME
+----------->     (WARNING)  M_Element.Get: Not unique: VAHRUAE_ISDEDUCTIONS -> M_Element[1003532-VAHRUAE_IsDeductions] - VAHRUAE_IsDeductions
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921841447614System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921841447614System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921841497650System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921841497650System.Random
+08:56:24.562    (INFO)     TableCreateColumns.AddLog: 0 - 4/21/2021 8:56:24 AM -  - VAHRUAE_Deductions.VAHRUAE_IsDeductions
+----------->     (WARNING)  M_Element.Get: Not unique: VAHRUAE_ISEARNINGS -> M_Element[1003533-VAHRUAE_IsEarnings] - VAHRUAE_IsEarnings
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921841747072System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921841747072System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921841786741System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921841786741System.Random
+08:56:24.562    (INFO)     TableCreateColumns.AddLog: 0 - 4/21/2021 8:56:24 AM -  - VAHRUAE_Deductions.VAHRUAE_IsEarnings
+----------->     (WARNING)  M_Element.Get: Not unique: AD_CLIENT_ID -> M_Element[102-AD_Client_ID] - AD_Client_ID
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921842041185System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921842041185System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921842082664System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921842082664System.Random
+08:56:24.562    (INFO)     TableCreateColumns.AddLog: 0 - 4/21/2021 8:56:24 AM -  - VAHRUAE_Deductions.AD_Client_ID
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921842383521System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921842383521System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921842431205System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921842431205System.Random
+08:56:24.562    (INFO)     SubTableUtil.CreateColumn: Created Element: VAHRUAE_Deductions_ID
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921842923252System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921842923252System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921842963247System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921842963247System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD VAHRUAE_Deductions_ID NUMBER(10) NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+----------->     (WARNING)  SubTableUtil.CreateColumn: NOT Created: VAHRUAE_Deductions.VAHRUAE_Deductions_ID
+----------->     (WARNING)  M_Element.Get: Not unique: AD_Org_ID -> M_Element[113-AD_Org_ID] - AD_Org_ID
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921845087195System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921845087195System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921845139926System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921845139926System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD AD_Org_ID NUMBER(10) NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+----------->     (WARNING)  SubTableUtil.CreateColumn: NOT Created: VAHRUAE_Deductions.AD_Org_ID
+----------->     (WARNING)  M_Element.Get: Not unique: Created -> M_Element[245-Created] - Created
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921845479907System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921845479907System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921845519900System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921845519900System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD Created DATE DEFAULT SYSDATE NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+----------->     (WARNING)  SubTableUtil.CreateColumn: NOT Created: VAHRUAE_Deductions.Created
+----------->     (WARNING)  M_Element.Get: Not unique: Updated -> M_Element[607-Updated] - Updated
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921845809447System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921845809447System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921845859824System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921845859824System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD Updated DATE DEFAULT SYSDATE NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+----------->     (WARNING)  SubTableUtil.CreateColumn: NOT Created: VAHRUAE_Deductions.Updated
+----------->     (WARNING)  M_Element.Get: Not unique: CreatedBy -> M_Element[246-CreatedBy] - CreatedBy
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921846205846System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921846205846System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921846247204System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921846247204System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD CreatedBy NUMBER(10) DEFAULT 0 NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+----------->     (WARNING)  SubTableUtil.CreateColumn: NOT Created: VAHRUAE_Deductions.CreatedBy
+----------->     (WARNING)  M_Element.Get: Not unique: UpdatedBy -> M_Element[608-UpdatedBy] - UpdatedBy
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921846594401System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921846594401System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921846644404System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921846644404System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD UpdatedBy NUMBER(10) DEFAULT 0 NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+----------->     (WARNING)  SubTableUtil.CreateColumn: NOT Created: VAHRUAE_Deductions.UpdatedBy
+----------->     (WARNING)  M_Element.Get: Not unique: IsActive -> M_Element[348-IsActive] - IsActive
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921847014743System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921847014743System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921847057149System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921847057149System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD IsActive CHAR(1) DEFAULT 'Y' CHECK (IsActive IN ('Y','N')) NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+----------->     (WARNING)  SubTableUtil.CreateColumn: NOT Created: VAHRUAE_Deductions.IsActive
+----------->     (WARNING)  M_Element.Get: Not unique: Export_ID -> M_Element[1001381-Export_ID] - Export_ID
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921847416031System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921847416031System.Random
+08:56:24.562    (INFO)     Trx.Start: **** ConnSH637545921847465997System.Random
+08:56:24.562    (INFO)     Trx.Commit: **C** ConnSH637545921847465997System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD Export_ID NVARCHAR2(50)
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+----------->     (WARNING)  SubTableUtil.CreateColumn: NOT Created: VAHRUAE_Deductions.Export_ID
+08:56:24.562    (INFO)     Trx.Commit: **C** SvrProcess
+08:56:24.562    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+08:56:27.562    (INFO)     Trx.Start: **** ConnSH637545921875985088System.Random
+08:56:27.562    (INFO)     Trx.Commit: **C** ConnSH637545921875985088System.Random
+08:56:41.564    (INFO)     Trx.Start: **** ConnSH637545922011565560System.Random
+08:56:41.564    (INFO)     Trx.Commit: **C** ConnSH637545922011565560System.Random
+08:57:15.571    (INFO)     Trx.Start: **** ConnSH637545922359488376System.Random
+08:57:15.571    (INFO)     Trx.Commit: **C** ConnSH637545922359488376System.Random
+08:57:24.572    (INFO)     Trx.Start: **** ConnSH637545922442825334System.Random
+08:57:24.572    (INFO)     Trx.Commit: **C** ConnSH637545922442825334System.Random
+08:57:31.573    (INFO)     Trx.Start: **** ConnSH637545922513190034System.Random
+08:57:31.573    (INFO)     Trx.Commit: **C** ConnSH637545922513190034System.Random
+08:57:36.573    (INFO)     Trx.Start: **** ConnSH637545922564073342System.Random
+08:57:36.573    (INFO)     Trx.Commit: **C** ConnSH637545922564073342System.Random
+08:57:43.574    (INFO)     Trx.Start: **** GridDel637545922631891290
+08:57:43.574    (INFO)     Trx.Start: **** ConnSH637545922634690210System.Random
+08:57:43.574    (INFO)     Trx.Commit: **C** ConnSH637545922634690210System.Random
+08:57:43.574    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+08:57:43.574    (INFO)     MColumn.DeleteRecord: True
+08:57:43.574    (INFO)     Trx.Commit: **C** GridDel637545922631891290
+08:57:51.575    (INFO)     Trx.Start: **** GridDel637545922714622971
+08:57:51.575    (INFO)     Trx.Start: **** ConnSH637545922714913388System.Random
+08:57:51.575    (INFO)     Trx.Commit: **C** ConnSH637545922714913388System.Random
+08:57:51.575    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+08:57:51.575    (INFO)     MColumn.DeleteRecord: True
+08:57:51.575    (INFO)     Trx.Commit: **C** GridDel637545922714622971
+08:57:58.575    (INFO)     Trx.Start: **** GridDel637545922780443568
+08:57:58.575    (INFO)     Trx.Start: **** ConnSH637545922780717815System.Random
+08:57:58.575    (INFO)     Trx.Commit: **C** ConnSH637545922780717815System.Random
+08:57:58.575    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+08:57:58.575    (INFO)     MColumn.DeleteRecord: True
+08:57:58.575    (INFO)     Trx.Commit: **C** GridDel637545922780443568
+08:58:23.582    (INFO)     Trx.Start: **** GridDel637545923030189942
+08:58:23.582    (INFO)     Trx.Start: **** ConnSH637545923030456361System.Random
+08:58:23.582    (INFO)     Trx.Commit: **C** ConnSH637545923030456361System.Random
+08:58:23.582    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+08:58:23.582    (INFO)     MColumn.DeleteRecord: True
+08:58:23.582    (INFO)     Trx.Commit: **C** GridDel637545923030189942
+08:58:23.582    (INFO)     Trx.Start: **** GridDel637545923030189942
+08:58:23.582    (INFO)     Trx.Start: **** ConnSH637545923031147331System.Random
+08:58:23.582    (INFO)     Trx.Commit: **C** ConnSH637545923031147331System.Random
+08:58:23.582    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+08:58:23.582    (INFO)     MColumn.DeleteRecord: True
+08:58:23.582    (INFO)     Trx.Commit: **C** GridDel637545923030189942
+08:58:29.582    (INFO)     Trx.Start: **** ConnSH637545923095347701System.Random
+08:58:29.582    (INFO)     Trx.Commit: **C** ConnSH637545923095347701System.Random
+08:58:34.583    (INFO)     Trx.Start: **** ConnSH637545923145613930System.Random
+08:58:34.583    (INFO)     Trx.Commit: **C** ConnSH637545923145613930System.Random
+08:59:09.599    (INFO)     Trx.Start: **** ConnSH637545923493688137System.Random
+08:59:09.599    (INFO)     Trx.Commit: **C** ConnSH637545923493688137System.Random
+08:59:11.591    (INFO)     Trx.Start: **** ConnSH637545923518683953System.Random
+08:59:11.591    (INFO)     Trx.Commit: **C** ConnSH637545923518683953System.Random
+08:59:44.594    (INFO)     Trx.Start: **** ConnSH637545923844850122System.Random
+08:59:44.594    (INFO)     Trx.Commit: **C** ConnSH637545923844850122System.Random
+08:59:50.595    (INFO)     Trx.Start: **** ConnSH637545923900651459System.Random
+08:59:50.595    (INFO)     Trx.Commit: **C** ConnSH637545923900651459System.Random
+09:00:07.070    (INFO)     Trx.Start: **** ConnSH637545924072530067System.Random
+09:00:07.070    (INFO)     Trx.Commit: **C** ConnSH637545924072530067System.Random
+09:00:07.070    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+09:00:10.010    (INFO)     Trx.Start: **** ConnSH637545924105215116System.Random
+09:00:10.010    (INFO)     Trx.Commit: **C** ConnSH637545924105215116System.Random
+09:00:10.010    (INFO)     ColumnSync.DoIt: C_Column_ID=1022007
+09:00:10.010    (INFO)     Trx.Start: **** SvrProcess
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD VAHRUAE_Vss_EmpMthSalary_ID NUMBER(10)
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:10.010    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions ADD VAHRUAE_Vss_EmpMthSalary_ID NUMBER(10)
+===========>     (SEVERE)   ColumnSync.StartProcess: @Error@  - ALTER TABLE VAHRUAE_Deductions ADD VAHRUAE_Vss_EmpMthSalary_ID NUMBER(10)
+09:00:10.010    (INFO)     Trx.Rollback: **R** SvrProcess
+09:00:10.010    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:00:17.017    (INFO)     Trx.Start: **** ConnSH637545924172409372System.Random
+09:00:17.017    (INFO)     Trx.Commit: **C** ConnSH637545924172409372System.Random
+09:00:17.017    (INFO)     ColumnSync.DoIt: C_Column_ID=1022012
+09:00:17.017    (INFO)     Trx.Start: **** SvrProcess
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD VAHRUAE_Deductions_ID NUMBER(10) NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:17.017    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions ADD VAHRUAE_Deductions_ID NUMBER(10) NOT NULL
+===========>     (SEVERE)   ColumnSync.StartProcess: @Error@  - ALTER TABLE VAHRUAE_Deductions ADD VAHRUAE_Deductions_ID NUMBER(10) NOT NULL
+09:00:17.017    (INFO)     Trx.Rollback: **R** SvrProcess
+09:00:17.017    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:00:21.021    (INFO)     Trx.Start: **** ConnSH637545924212729994System.Random
+09:00:21.021    (INFO)     Trx.Commit: **C** ConnSH637545924212729994System.Random
+09:00:21.021    (INFO)     ColumnSync.DoIt: C_Column_ID=1022006
+09:00:21.021    (INFO)     Trx.Start: **** SvrProcess
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions MODIFY  VAHRUAE_CompensationMaster_ID  NUMBER(10) DEFAULT  NULL 
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:21.021    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions MODIFY  VAHRUAE_CompensationMaster_ID  NUMBER(10) DEFAULT  NULL 
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions MODIFY VAHRUAE_CompensationMaster_ID  NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:21.021    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions MODIFY VAHRUAE_CompensationMaster_ID  NULL
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-02250: missing or invalid constraint name [Query NQTrx]ALTER TABLE VAHRUAE_Deductions DROP CONSTRAINT 
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-02250: missing or invalid constraint name
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-02250: missing or invalid constraint name
+09:00:22.022    (INFO)     ColumnSync.AddLog: 0 -  - -1 - ALTER TABLE VAHRUAE_Deductions DROP CONSTRAINT 
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD CONSTRAINT FK1000903_1022006 FOREIGN KEY (VAHRUAE_CompensationMaster_ID) REFERENCES VAHRUAE_CompensationMaster (VAHRUAE_CompensationMaster_ID)
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:22.022    (INFO)     ColumnSync.AddLog: 0 -  - -1 - Constraints Error: ORA-00942: table or view does not exist
+===========>     (SEVERE)   ColumnSync.createFK: ALTER TABLE VAHRUAE_Deductions ADD CONSTRAINT FK1000903_1022006 FOREIGN KEY (VAHRUAE_CompensationMaster_ID) REFERENCES VAHRUAE_CompensationMaster (VAHRUAE_CompensationMaster_ID) - System.Exception: ORA-00942: table or view does not exist
+   at VAdvantage.DataBase.DB.ExecuteQuery(String sql, SqlParameter[] param, Trx trx, Boolean ignoreError, Boolean throwError)
+   at VAdvantage.Process.ColumnSync.createFK(Int32 noColumns)
+09:00:22.022    (INFO)     Trx.Commit: **C** SvrProcess
+09:00:22.022    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:00:26.026    (INFO)     Trx.Start: **** ConnSH637545924260574047System.Random
+09:00:26.026    (INFO)     Trx.Commit: **C** ConnSH637545924260574047System.Random
+09:00:26.026    (INFO)     ColumnSync.DoIt: C_Column_ID=1022017
+09:00:26.026    (INFO)     Trx.Start: **** SvrProcess
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD UpdatedBy NUMBER(10) DEFAULT 0 NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:26.026    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions ADD UpdatedBy NUMBER(10) DEFAULT 0 NOT NULL
+===========>     (SEVERE)   ColumnSync.StartProcess: @Error@  - ALTER TABLE VAHRUAE_Deductions ADD UpdatedBy NUMBER(10) DEFAULT 0 NOT NULL
+09:00:26.026    (INFO)     Trx.Rollback: **R** SvrProcess
+09:00:26.026    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:00:29.029    (INFO)     Trx.Start: **** ConnSH637545924298329368System.Random
+09:00:29.029    (INFO)     Trx.Commit: **C** ConnSH637545924298329368System.Random
+09:00:29.029    (INFO)     ColumnSync.DoIt: C_Column_ID=1022015
+09:00:29.029    (INFO)     Trx.Start: **** SvrProcess
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD Updated DATE DEFAULT SYSDATE NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:29.029    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions ADD Updated DATE DEFAULT SYSDATE NOT NULL
+===========>     (SEVERE)   ColumnSync.StartProcess: @Error@  - ALTER TABLE VAHRUAE_Deductions ADD Updated DATE DEFAULT SYSDATE NOT NULL
+09:00:29.029    (INFO)     Trx.Rollback: **R** SvrProcess
+09:00:29.029    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:00:33.033    (INFO)     Trx.Start: **** ConnSH637545924333819267System.Random
+09:00:33.033    (INFO)     Trx.Commit: **C** ConnSH637545924333819267System.Random
+09:00:33.033    (INFO)     ColumnSync.DoIt: C_Column_ID=1022018
+09:00:33.033    (INFO)     Trx.Start: **** SvrProcess
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD IsActive CHAR(1) DEFAULT 'Y' CHECK (IsActive IN ('Y','N')) NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:33.033    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions ADD IsActive CHAR(1) DEFAULT 'Y' CHECK (IsActive IN ('Y','N')) NOT NULL
+===========>     (SEVERE)   ColumnSync.StartProcess: @Error@  - ALTER TABLE VAHRUAE_Deductions ADD IsActive CHAR(1) DEFAULT 'Y' CHECK (IsActive IN ('Y','N')) NOT NULL
+09:00:33.033    (INFO)     Trx.Rollback: **R** SvrProcess
+09:00:33.033    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:00:37.037    (INFO)     Trx.Start: **** ConnSH637545924374244865System.Random
+09:00:37.037    (INFO)     Trx.Commit: **C** ConnSH637545924374244865System.Random
+09:00:37.037    (INFO)     ColumnSync.DoIt: C_Column_ID=1022019
+09:00:37.037    (INFO)     Trx.Start: **** SvrProcess
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD Export_ID NVARCHAR2(50)
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:37.037    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions ADD Export_ID NVARCHAR2(50)
+===========>     (SEVERE)   ColumnSync.StartProcess: @Error@  - ALTER TABLE VAHRUAE_Deductions ADD Export_ID NVARCHAR2(50)
+09:00:37.037    (INFO)     Trx.Rollback: **R** SvrProcess
+09:00:37.037    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:00:41.041    (INFO)     Trx.Start: **** ConnSH637545924412870817System.Random
+09:00:41.041    (INFO)     Trx.Commit: **C** ConnSH637545924412870817System.Random
+09:00:41.041    (INFO)     ColumnSync.DoIt: C_Column_ID=1022016
+09:00:41.041    (INFO)     Trx.Start: **** SvrProcess
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD CreatedBy NUMBER(10) DEFAULT 0 NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:41.041    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions ADD CreatedBy NUMBER(10) DEFAULT 0 NOT NULL
+===========>     (SEVERE)   ColumnSync.StartProcess: @Error@  - ALTER TABLE VAHRUAE_Deductions ADD CreatedBy NUMBER(10) DEFAULT 0 NOT NULL
+09:00:41.041    (INFO)     Trx.Rollback: **R** SvrProcess
+09:00:41.041    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:00:44.044    (INFO)     Trx.Start: **** ConnSH637545924449928563System.Random
+09:00:44.044    (INFO)     Trx.Commit: **C** ConnSH637545924449928563System.Random
+09:00:45.045    (INFO)     ColumnSync.DoIt: C_Column_ID=1022014
+09:00:45.045    (INFO)     Trx.Start: **** SvrProcess
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD Created DATE DEFAULT SYSDATE NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:45.045    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions ADD Created DATE DEFAULT SYSDATE NOT NULL
+===========>     (SEVERE)   ColumnSync.StartProcess: @Error@  - ALTER TABLE VAHRUAE_Deductions ADD Created DATE DEFAULT SYSDATE NOT NULL
+09:00:45.045    (INFO)     Trx.Rollback: **R** SvrProcess
+09:00:45.045    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:00:51.051    (INFO)     Trx.Start: **** ConnSH637545924514350070System.Random
+09:00:51.051    (INFO)     Trx.Commit: **C** ConnSH637545924514350070System.Random
+09:00:51.051    (INFO)     ColumnSync.DoIt: C_Column_ID=1022005
+09:00:51.051    (INFO)     Trx.Start: **** SvrProcess
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions MODIFY  Amount  NUMBER DEFAULT  NULL 
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:53.053    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions MODIFY  Amount  NUMBER DEFAULT  NULL 
+===========>     (SEVERE)   ColumnSync.StartProcess: @Error@  - ALTER TABLE VAHRUAE_Deductions MODIFY  Amount  NUMBER DEFAULT  NULL 
+09:00:53.053    (INFO)     Trx.Rollback: **R** SvrProcess
+09:00:53.053    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:00:58.058    (INFO)     Trx.Start: **** ConnSH637545924586760430System.Random
+09:00:58.058    (INFO)     Trx.Commit: **C** ConnSH637545924586760430System.Random
+09:00:58.058    (INFO)     ColumnSync.DoIt: C_Column_ID=1022013
+09:00:58.058    (INFO)     Trx.Start: **** SvrProcess
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD AD_Org_ID NUMBER(10) NOT NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:00:58.058    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions ADD AD_Org_ID NUMBER(10) NOT NULL
+===========>     (SEVERE)   ColumnSync.StartProcess: @Error@  - ALTER TABLE VAHRUAE_Deductions ADD AD_Org_ID NUMBER(10) NOT NULL
+09:00:58.058    (INFO)     Trx.Rollback: **R** SvrProcess
+09:00:58.058    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:01:02.120    (INFO)     Trx.Start: **** ConnSH637545924625088257System.Random
+09:01:02.120    (INFO)     Trx.Commit: **C** ConnSH637545924625088257System.Random
+09:01:02.120    (INFO)     ColumnSync.DoIt: C_Column_ID=1022011
+09:01:02.120    (INFO)     Trx.Start: **** SvrProcess
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions MODIFY  AD_Client_ID  NUMBER(10) DEFAULT  NULL 
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:01:02.120    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions MODIFY  AD_Client_ID  NUMBER(10) DEFAULT  NULL 
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions MODIFY AD_Client_ID  NULL
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:01:02.120    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - -1 - ALTER TABLE VAHRUAE_Deductions MODIFY AD_Client_ID  NULL
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-02250: missing or invalid constraint name [Query NQTrx]ALTER TABLE VAHRUAE_Deductions DROP CONSTRAINT 
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-02250: missing or invalid constraint name
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-02250: missing or invalid constraint name
+09:01:04.140    (INFO)     ColumnSync.AddLog: 0 -  - -1 - ALTER TABLE VAHRUAE_Deductions DROP CONSTRAINT 
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-00942: table or view does not exist [Query NQTrx]ALTER TABLE VAHRUAE_Deductions ADD CONSTRAINT FK1000903_1022011 FOREIGN KEY (AD_Client_ID) REFERENCES AD_Client (AD_Client_ID)
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-00942: table or view does not exist
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00942: table or view does not exist
+09:01:04.140    (INFO)     ColumnSync.AddLog: 0 -  - -1 - Constraints Error: ORA-00942: table or view does not exist
+===========>     (SEVERE)   ColumnSync.createFK: ALTER TABLE VAHRUAE_Deductions ADD CONSTRAINT FK1000903_1022011 FOREIGN KEY (AD_Client_ID) REFERENCES AD_Client (AD_Client_ID) - System.Exception: ORA-00942: table or view does not exist
+   at VAdvantage.DataBase.DB.ExecuteQuery(String sql, SqlParameter[] param, Trx trx, Boolean ignoreError, Boolean throwError)
+   at VAdvantage.Process.ColumnSync.createFK(Int32 noColumns)
+09:01:04.140    (INFO)     Trx.Commit: **C** SvrProcess
+09:01:04.140    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:01:37.137    (INFO)     Trx.Start: **** ConnSH637545924975826636System.Random
+09:01:37.137    (INFO)     Trx.Commit: **C** ConnSH637545924975826636System.Random
+09:01:37.137    (INFO)     Trx.Start: **** ConnSH637545924975883981System.Random
+09:01:37.137    (INFO)     Trx.Commit: **C** ConnSH637545924975883981System.Random
+09:01:55.155    (INFO)     Trx.Start: **** ConnSH637545925150023817System.Random
+09:01:55.155    (INFO)     Trx.Commit: **C** ConnSH637545925150023817System.Random
+09:01:58.158    (INFO)     Trx.Start: **** ConnSH637545925186628499System.Random
+09:01:58.158    (INFO)     Trx.Commit: **C** ConnSH637545925186628499System.Random
+09:02:11.211    (INFO)     Trx.Start: **** ConnSH637545925311364419System.Random
+09:02:11.211    (INFO)     Trx.Commit: **C** ConnSH637545925311364419System.Random
+09:02:17.217    (INFO)     Trx.Start: **** GridDel637545925371245297
+09:02:17.217    (INFO)     Trx.Start: **** ConnSH637545925379280457System.Random
+09:02:17.217    (INFO)     Trx.Commit: **C** ConnSH637545925379280457System.Random
+09:02:18.218    (INFO)     MSequence.DeleteTableSequence: True
+09:02:18.218    (INFO)     CacheMgt.Reset: AD_Table: #2 (4)
+09:02:18.218    (INFO)     MTable.DeleteRecord: True
+09:02:18.218    (INFO)     Trx.Commit: **C** GridDel637545925371245297
+09:02:29.229    (INFO)     Trx.Start: **** ConnSH637545925493538417System.Random
+09:02:29.229    (INFO)     Trx.Commit: **C** ConnSH637545925493538417System.Random
+09:02:32.232    (INFO)     Trx.Start: **** ConnSH637545925524977661System.Random
+09:02:32.232    (INFO)     Trx.Commit: **C** ConnSH637545925524977661System.Random
+09:03:01.310    (INFO)     Trx.Start: **** ConnSH637545925818190906System.Random
+09:03:01.310    (INFO)     Trx.Commit: **C** ConnSH637545925818190906System.Random
+09:03:01.310    (INFO)     Trx.Start: **** ConnSH637545925818241781System.Random
+09:03:01.310    (INFO)     Trx.Commit: **C** ConnSH637545925818241781System.Random
+09:03:06.360    (INFO)     Trx.Start: **** ConnSH637545925867996600System.Random
+09:03:06.360    (INFO)     Trx.Commit: **C** ConnSH637545925867996600System.Random
+09:03:06.360    (INFO)     ColumnSync.DoIt: C_Column_ID=1022021
+09:03:06.360    (INFO)     Trx.Start: **** SvrProcess
+09:03:06.360    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_HR_PenalityDetails ADD C_Period_ID NUMBER(10)
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-02250: missing or invalid constraint name [Query NQTrx]ALTER TABLE VAHRUAE_HR_PenalityDetails DROP CONSTRAINT 
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-02250: missing or invalid constraint name
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-02250: missing or invalid constraint name
+09:03:06.360    (INFO)     ColumnSync.AddLog: 0 -  - -1 - ALTER TABLE VAHRUAE_HR_PenalityDetails DROP CONSTRAINT 
+09:03:06.360    (INFO)     Trx.Commit: **C** SvrProcess
+09:03:06.360    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:03:25.325    (INFO)     Trx.Start: **** ConnSH637545926054485197System.Random
+09:03:25.325    (INFO)     Trx.Commit: **C** ConnSH637545926054485197System.Random
+09:03:25.325    (INFO)     CacheReset.DoIt: 
+09:03:25.325    (INFO)     Env.Reset: finalCall=False
+09:03:25.325    (INFO)     CacheMgt.Reset: #18 (4390)
+09:03:25.325    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=0, reload=True
+09:03:25.325    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+09:03:25.325    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+09:03:25.325    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+09:03:25.325    (INFO)     MChangeLog.FillChangeLog: #9
+09:03:25.325    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+09:03:30.330    (INFO)     Trx.Start: **** ConnSH637545926103418951System.Random
+09:03:30.330    (INFO)     Trx.Commit: **C** ConnSH637545926103418951System.Random
+09:03:31.331    (INFO)     Trx.Start: **** ConnSH637545926111404591System.Random
+09:03:31.331    (INFO)     Trx.Commit: **C** ConnSH637545926111404591System.Random
+09:03:38.338    (INFO)     Trx.Start: **** ConnSH637545926186422035System.Random
+09:03:38.338    (INFO)     Trx.Commit: **C** ConnSH637545926186422035System.Random
+09:03:48.348    (INFO)     Trx.Start: **** ConnSH637545926287063765System.Random
+09:03:48.348    (INFO)     Trx.Commit: **C** ConnSH637545926287063765System.Random
+09:03:55.355    (INFO)     Trx.Start: **** ConnSH637545926355663474System.Random
+09:03:55.355    (INFO)     Trx.Commit: **C** ConnSH637545926355663474System.Random
+09:06:13.613    (INFO)     Trx.Start: **** ConnSH637545927731429740System.Random
+09:06:13.613    (INFO)     Trx.Commit: **C** ConnSH637545927731429740System.Random
+09:06:13.613    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+09:06:33.633    (INFO)     Trx.Start: **** ConnSH637545927933796839System.Random
+09:06:33.633    (INFO)     Trx.Commit: **C** ConnSH637545927933796839System.Random
+09:06:33.633    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+09:06:41.641    (INFO)     Trx.Start: **** ConnSH637545928011135093System.Random
+09:06:41.641    (INFO)     Trx.Commit: **C** ConnSH637545928011135093System.Random
+09:06:41.641    (INFO)     ColumnSync.DoIt: C_Column_ID=1020356
+09:06:41.641    (INFO)     Trx.Start: **** SvrProcess
+09:06:41.641    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_HR_AttendanceRule ADD VAHRUAE_ROTATIONALDAYSONDUTY NUMBER
+09:06:41.641    (INFO)     Trx.Commit: **C** SvrProcess
+09:06:41.641    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:08:09.890    (INFO)     Trx.Start: **** ConnSH637545928898433207System.Random
+09:08:09.890    (INFO)     Trx.Commit: **C** ConnSH637545928898433207System.Random
+09:08:09.890    (INFO)     Trx.Start: **** ConnSH637545928898487128System.Random
+09:08:09.890    (INFO)     Trx.Commit: **C** ConnSH637545928898487128System.Random
+09:08:29.829    (INFO)     Trx.Start: **** ConnSH637545929096683130System.Random
+09:08:29.829    (INFO)     Trx.Commit: **C** ConnSH637545929096683130System.Random
+09:08:29.829    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+09:08:32.832    (INFO)     Trx.Start: **** ConnSH637545929126401178System.Random
+09:08:32.832    (INFO)     Trx.Commit: **C** ConnSH637545929126401178System.Random
+09:08:32.832    (INFO)     ColumnSync.DoIt: C_Column_ID=1022022
+09:08:32.832    (INFO)     Trx.Start: **** SvrProcess
+09:08:32.832    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_HR_AttendanceRule ADD VAHRUAE_ROTATIONALDAYSOFF NUMBER
+09:08:32.832    (INFO)     Trx.Commit: **C** SvrProcess
+09:08:32.832    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:08:45.845    (INFO)     Trx.Start: **** ConnSH637545929251718718System.Random
+09:08:45.845    (INFO)     Trx.Commit: **C** ConnSH637545929251718718System.Random
+09:08:45.845    (INFO)     ColumnSync.DoIt: C_Column_ID=1020356
+09:08:45.845    (INFO)     Trx.Start: **** SvrProcess
+09:08:45.845    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_HR_AttendanceRule MODIFY  VAHRUAE_ROTATIONALDAYSONDUTY  NUMBER DEFAULT  NULL 
+09:08:45.845    (INFO)     Trx.Commit: **C** SvrProcess
+09:08:45.845    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:09:05.950    (INFO)     Trx.Start: **** ConnSH637545929450583486System.Random
+09:09:05.950    (INFO)     Trx.Commit: **C** ConnSH637545929450583486System.Random
+09:09:05.950    (INFO)     CacheReset.DoIt: 
+09:09:05.950    (INFO)     Env.Reset: finalCall=False
+09:09:05.950    (INFO)     CacheMgt.Reset: #12 (58)
+09:09:05.950    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=0, reload=True
+09:09:05.950    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+09:09:05.950    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+09:09:05.950    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+09:09:05.950    (INFO)     MChangeLog.FillChangeLog: #9
+09:09:05.950    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:09:26.926    (INFO)     MSession.Logout: 02:17:27.388
+09:09:29.929    (INFO)     MRole.Get: AD_Role_ID=102, AD_User_ID=101, reload=True
+09:09:29.929    (INFO)     MRole.Get: MRole[102,IdeasInc Admin,UserLevel= CO,AD_Client_ID IN (0,11),]
+09:09:29.929    (INFO)     MRole.Get: AD_Role_ID=102, AD_User_ID=101, reload=True
+09:09:29.929    (INFO)     MRole.Get: MRole[102,IdeasInc Admin,UserLevel= CO,AD_Client_ID IN (0,11),]
+09:09:29.929    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=101, Editable=False, OnClient=True
+09:09:29.929    (INFO)     Trx.Start: **** ConnSH637545929693897335System.Random
+09:09:29.929    (INFO)     Trx.Commit: **C** ConnSH637545929693897335System.Random
+09:09:29.929    (INFO)     Msg.InitMsg: Records=4077 - en_US
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 101  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 101 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('4/20/21','mm/dd/yy') and to_date('4/28/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('4/21/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=101 AND AppointmentsInfo.AD_User_ID  = 101)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000847
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000846
+09:09:33.933    (INFO)     Trx.Start: **** ConnSH637545929735957919System.Random
+09:09:33.933    (INFO)     Trx.Commit: **C** ConnSH637545929735957919System.Random
+09:09:33.933    (INFO)     Trx.Start: **** ConnSH637545929737578076System.Random
+09:09:33.933    (INFO)     Trx.Commit: **C** ConnSH637545929737578076System.Random
+09:11:52.115    (INFO)     MSession.Logout: 02:02:23.192
+09:11:54.115    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+09:11:54.115    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+09:11:54.115    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=100, Editable=False, OnClient=True
+09:11:54.115    (INFO)     Trx.Start: **** ConnSH637545931146354557System.Random
+09:11:54.115    (INFO)     Trx.Commit: **C** ConnSH637545931146354557System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 100  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 100 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('4/20/21','mm/dd/yy') and to_date('4/28/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('4/21/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=100 AND AppointmentsInfo.AD_User_ID  = 100)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+09:11:59.115    (INFO)     Trx.Start: **** ConnSH637545931194569622System.Random
+09:11:59.115    (INFO)     Trx.Commit: **C** ConnSH637545931194569622System.Random
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+09:13:50.135    (INFO)     Trx.Start: **** ConnSH637545932303343172System.Random
+09:13:50.135    (INFO)     Trx.Commit: **C** ConnSH637545932303343172System.Random
+09:13:51.135    (INFO)     Trx.Start: **** ConnSH637545932311449969System.Random
+09:13:51.135    (INFO)     Trx.Commit: **C** ConnSH637545932311449969System.Random
+09:13:55.135    (INFO)     Trx.Start: **** ConnSH637545932357889612System.Random
+09:13:55.135    (INFO)     Trx.Commit: **C** ConnSH637545932357889612System.Random
+09:14:03.143    (INFO)     Trx.Start: **** ConnSH637545932436926704System.Random
+09:14:03.143    (INFO)     Trx.Commit: **C** ConnSH637545932436926704System.Random
+09:14:12.141    (INFO)     Trx.Start: **** ConnSH637545932524306217System.Random
+09:14:12.141    (INFO)     Trx.Commit: **C** ConnSH637545932524306217System.Random
+09:14:53.145    (INFO)     Trx.Start: **** ConnSH637545932936705065System.Random
+09:14:53.145    (INFO)     Trx.Commit: **C** ConnSH637545932936705065System.Random

@@ -1,0 +1,71 @@
+*** 4/20/2021 11:48:06 AM VAdvantage Log  ***
+11:48:06.486    (INFO)     Trx.Start: **** ConnSH637545160862951173System.Random
+11:48:06.486    (INFO)     Trx.Commit: **C** ConnSH637545160862951173System.Random
+11:48:06.486    (INFO)     MChangeLog.FillChangeLog: #9
+11:48:07.487    (INFO)     Trx.Start: **** ConnSH637545160870177420System.Random
+11:48:07.487    (INFO)     Trx.Commit: **C** ConnSH637545160870177420System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.DoIt: Not insertedVAHRUAE_HR_Holidays
+===========>     (SEVERE)   WaterwaySvcGoogleCalendarAPI.StartProcess: WHY
+11:48:48.484    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+11:48:55.485    (INFO)     Trx.Start: **** ConnSH637545161350028401System.Random
+11:48:55.485    (INFO)     Trx.Commit: **C** ConnSH637545161350028401System.Random
+11:48:55.485    (INFO)     Trx.Start: **** ConnSH637545161354150245System.Random
+11:48:55.485    (INFO)     Trx.Commit: **C** ConnSH637545161354150245System.Random
+11:49:07.497    (INFO)     Trx.Start: **** ConnSH637545161478502280System.Random
+11:49:07.497    (INFO)     Trx.Commit: **C** ConnSH637545161478502280System.Random
+11:49:23.492    (INFO)     Trx.Start: **** ConnSH637545161638790966System.Random
+11:49:23.492    (INFO)     Trx.Commit: **C** ConnSH637545161638790966System.Random
+11:49:23.492    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:49:33.493    (INFO)     Trx.Start: **** ConnSH637545161738158030System.Random
+11:49:33.493    (INFO)     Trx.Commit: **C** ConnSH637545161738158030System.Random
+11:49:33.493    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:49:50.495    (INFO)     Trx.Start: **** ConnSH637545161900830214System.Random
+11:49:50.495    (INFO)     Trx.Commit: **C** ConnSH637545161900830214System.Random
+11:49:50.495    (INFO)     TableCreateColumns.DoIt: EntityType=U, AllTables=False, AD_Table_ID=1000833
+11:49:50.495    (INFO)     Trx.Start: **** SvrProcess
+11:49:50.495    (INFO)     TableCreateColumns.DoIt: VAHRUAE_HR_Holidays, EntityType=U
+----------->     (WARNING)  M_Element.Get: Not unique: ISDELAYED -> M_Element[1003383-IsDelayed] - IsDelayed
+11:49:50.495    (INFO)     Trx.Start: **** ConnSH637545161901667735System.Random
+11:49:50.495    (INFO)     Trx.Commit: **C** ConnSH637545161901667735System.Random
+11:49:50.495    (INFO)     Trx.Start: **** ConnSH637545161901737758System.Random
+11:49:50.495    (INFO)     Trx.Commit: **C** ConnSH637545161901737758System.Random
+11:49:50.495    (INFO)     TableCreateColumns.AddLog: 0 - 4/20/2021 11:49:50 AM -  - VAHRUAE_HR_Holidays.IsDelayed
+11:49:50.495    (INFO)     Trx.Commit: **C** SvrProcess
+11:49:50.495    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:49:55.495    (INFO)     Trx.Start: **** ConnSH637545161953137213System.Random
+11:49:55.495    (INFO)     Trx.Commit: **C** ConnSH637545161953137213System.Random
+11:49:55.495    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:50:01.501    (INFO)     Trx.Start: **** ConnSH637545162015865813System.Random
+11:50:01.501    (INFO)     Trx.Commit: **C** ConnSH637545162015865813System.Random
+11:50:09.509    (INFO)     Trx.Start: **** ConnSH637545162090454562System.Random
+11:50:09.509    (INFO)     Trx.Commit: **C** ConnSH637545162090454562System.Random
+11:50:09.509    (INFO)     ColumnSync.DoIt: C_Column_ID=1020410
+11:50:09.509    (INFO)     Trx.Start: **** SvrProcess

@@ -1,0 +1,8 @@
+*** 4/19/2021 9:04:03 AM VAdvantage Log  ***
+09:04:03.430    (INFO)     Trx.Start: **** ConnSH637544198439866788System.Random
+09:04:03.430    (INFO)     Trx.Commit: **C** ConnSH637544198439866788System.Random
+09:04:04.440    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-NOV-20' AND VAHRUAE_DATE1 <= '20-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-NOV-20' AND VAHRUAE_DATE1 <= '20-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1>= '20-NOV-20' AND VAHRUAE_DATE1 <= '20-DEC-20 => ORA-01756: quoted string not properly terminated
+===========>     (SEVERE)   CalculatePenalties.StartProcess: Object reference not set to an instance of an object.

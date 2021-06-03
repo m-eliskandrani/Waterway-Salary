@@ -1,0 +1,61 @@
+*** 4/20/2021 11:52:05 AM VAdvantage Log  ***
+11:52:05.525    (INFO)     Trx.Start: **** ConnSH637545163255857788System.Random
+11:52:05.525    (INFO)     Trx.Commit: **C** ConnSH637545163255857788System.Random
+11:52:05.525    (INFO)     MChangeLog.FillChangeLog: #9
+11:52:06.526    (INFO)     Trx.Start: **** ConnSH637545163263135648System.Random
+11:52:06.526    (INFO)     Trx.Commit: **C** ConnSH637545163263135648System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.DoIt: Not insertedVAHRUAE_HR_Holidays
+===========>     (SEVERE)   WaterwaySvcGoogleCalendarAPI.StartProcess: WHY
+11:54:12.541    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164541875724System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164541875724System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164545584803System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164545584803System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164546275280System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164546275280System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164546385286System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164546385286System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164546485278System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164546485278System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164546585274System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164546585274System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164546685269System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164546685269System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164546785279System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164546785279System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164546885318System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164546885318System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164546965271System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164546965271System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547035300System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547035300System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547105293System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547105293System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547175275System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547175275System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547255269System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547255269System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547335280System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547335280System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547405283System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547405283System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547475289System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547475289System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547545296System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547545296System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547615296System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547615296System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547685269System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547685269System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547755268System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547755268System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547820944System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547820944System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547911035System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547911035System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164547981047System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164547981047System.Random
+11:54:14.541    (INFO)     Trx.Start: **** ConnSH637545164548051037System.Random
+11:54:14.541    (INFO)     Trx.Commit: **C** ConnSH637545164548051037System.Random

@@ -1,0 +1,5 @@
+*** 4/12/2021 2:46:36 PM VAdvantage Log  ***
+02:46:36.463    (INFO)     Trx.Start: **** ConnSH637538355964886956System.Random
+02:46:36.463    (INFO)     Trx.Commit: **C** ConnSH637538355964886956System.Random
+02:46:36.463    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   X_VAHRUAE_HR_Employee.Load: NO Data found for VAHRUAE_HR_Employee_ID=1000006

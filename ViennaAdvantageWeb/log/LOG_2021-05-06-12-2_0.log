@@ -1,0 +1,41 @@
+*** 5/6/2021 12:03:00 PM VAdvantage Log  ***
+===========>     (SEVERE)   VLookUpInfo.GetLookup_DisplayColumn: No Identifier records found: AD_BView
+===========>     (SEVERE)   VLookUpInfo.GetLookup_DisplayColumn: No Identifier records found: AD_ReportTemplate
+===========>     (SEVERE)   VLookUpInfo.GetLookup_DisplayColumn: No Identifier records found: AD_BView_Field
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =284
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =285
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+12:03:00.300    (INFO)     Trx.Start: **** ConnSH637558993808944965System.Random
+12:03:00.300    (INFO)     Trx.Commit: **C** ConnSH637558993808944965System.Random
+===========>     (SEVERE)   DB_Oracle.ExecuteDatasetPaging: ORA-00942: table or view does not exist [Query NQTrx]select * FROM (SELECT t.*, rownum AS row_num FROM (SELECT AD_BView.AD_BView_ID,NULL,NULL,AD_BView.IsActive FROM AD_BView WHERE AD_BView.AD_Client_ID=0 AND (COALESCE(AD_BView.AD_Org_ID,0) IN(0,0)) ORDER BY 3) t ) WHERE row_num BETWEEN (((1 - 1) * 1000) + 1) AND ((1 * 1000))
+===========>     (SEVERE)   DB_Oracle.ExecuteDatasetPaging: ORA-00942: table or view does not exist [Query NQTrx]select * FROM (SELECT t.*, rownum AS row_num FROM (SELECT AD_ReportTemplate.AD_ReportTemplate_ID,NULL,NULL,AD_ReportTemplate.IsActive FROM AD_ReportTemplate WHERE AD_ReportTemplate.AD_Client_ID=0 AND (COALESCE(AD_ReportTemplate.AD_Org_ID,0) IN(0,0)) ORDER BY 3) t ) WHERE row_num BETWEEN (((1 - 1) * 1000) + 1) AND ((1 * 1000))
+===========>     (SEVERE)   DB_Oracle.ExecuteDatasetPaging: ORA-00942: table or view does not exist [Query NQTrx]select * FROM (SELECT t.*, rownum AS row_num FROM (SELECT AD_BView_Field.AD_BView_Field_ID,NULL,NULL,AD_BView_Field.IsActive FROM AD_BView_Field WHERE AD_BView_Field.AD_Client_ID=0 AND (COALESCE(AD_BView_Field.AD_Org_ID,0) IN(0,0))) t ) WHERE row_num BETWEEN (((1 - 1) * 1000) + 1) AND ((1 * 1000))
+12:03:01.310    (INFO)     Trx.Start: **** ConnSH637558993819788543System.Random
+12:03:01.310    (INFO)     Trx.Commit: **C** ConnSH637558993819788543System.Random
+12:03:07.370    (INFO)     Trx.Start: **** ConnSH637558993879469964System.Random
+12:03:07.370    (INFO)     Trx.Commit: **C** ConnSH637558993879469964System.Random
+12:03:16.316    (INFO)     Trx.Start: **** ConnSH637558993963923044System.Random
+12:03:16.316    (INFO)     Trx.Commit: **C** ConnSH637558993963923044System.Random
+12:03:26.326    (INFO)     Trx.Start: **** ConnSH637558994068836889System.Random
+12:03:26.326    (INFO)     Trx.Commit: **C** ConnSH637558994068836889System.Random
+12:14:35.143    (INFO)     Trx.Start: **** ConnSH637559000752153331System.Random
+12:14:35.143    (INFO)     Trx.Commit: **C** ConnSH637559000752153331System.Random

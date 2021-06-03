@@ -1,0 +1,121 @@
+*** 4/12/2021 2:30:33 PM VAdvantage Log  ***
+02:30:33.303    (INFO)     Trx.Start: **** ConnSH637538346331838823System.Random
+02:30:33.303    (INFO)     Trx.Commit: **C** ConnSH637538346331838823System.Random
+02:30:33.303    (INFO)     MChangeLog.FillChangeLog: #9
+02:30:42.304    (INFO)     Trx.Start: **** ConnSH637538346421530463System.Random
+02:30:42.304    (INFO)     Trx.Commit: **C** ConnSH637538346421530463System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: Not insertedVAHRUAE_MthAttendDetail
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000008
+===========>     (SEVERE)   X_VAHRUAE_HR_Employee.Load: NO Data found for VAHRUAE_HR_Employee_ID=1000006
+02:31:34.313    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:32:49.324    (INFO)     Trx.Start: **** ConnSH637538347699291857System.Random
+02:32:49.324    (INFO)     Trx.Commit: **C** ConnSH637538347699291857System.Random
+02:33:37.333    (INFO)     Trx.Start: **** ConnSH637538348174932795System.Random
+02:33:37.333    (INFO)     Trx.Commit: **C** ConnSH637538348174932795System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: Not insertedVAHRUAE_MthAttendDetail
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000009
+===========>     (SEVERE)   X_VAHRUAE_HR_Employee.Load: NO Data found for VAHRUAE_HR_Employee_ID=1000006
+02:34:45.344    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:35:43.354    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+02:35:43.354    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+02:35:43.354    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=100, Editable=False, OnClient=True
+02:35:44.354    (INFO)     Trx.Start: **** ConnSH637538349440155790System.Random
+02:35:44.354    (INFO)     Trx.Commit: **C** ConnSH637538349440155790System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 100  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 100 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('4/11/21','mm/dd/yy') and to_date('4/19/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('4/12/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=100 AND AppointmentsInfo.AD_User_ID  = 100)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+02:35:53.355    (INFO)     Trx.Start: **** ConnSH637538349532455414System.Random
+02:35:53.355    (INFO)     Trx.Commit: **C** ConnSH637538349532455414System.Random
+02:36:30.363    (INFO)     Trx.Start: **** ConnSH637538349901136079System.Random
+02:36:30.363    (INFO)     Trx.Commit: **C** ConnSH637538349901136079System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: Not insertedVAHRUAE_MthAttendDetail
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000010
+===========>     (SEVERE)   X_VAHRUAE_HR_Employee.Load: NO Data found for VAHRUAE_HR_Employee_ID=1000006
+02:37:27.372    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:37:29.372    (INFO)     Trx.Start: **** ConnSH637538350499893227System.Random
+02:37:29.372    (INFO)     Trx.Commit: **C** ConnSH637538350499893227System.Random
+02:37:34.373    (INFO)     Trx.Start: **** ConnSH637538350544172189System.Random
+02:37:34.373    (INFO)     Trx.Commit: **C** ConnSH637538350544172189System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: Not insertedVAHRUAE_MthAttendDetail
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: #Records-0 - VAHRUAE_MthAttendDetail.VAHRUAE_MthAttendDetail_ID=1000011
+===========>     (SEVERE)   X_VAHRUAE_HR_Employee.Load: NO Data found for VAHRUAE_HR_Employee_ID=1000006
+02:41:24.412    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)

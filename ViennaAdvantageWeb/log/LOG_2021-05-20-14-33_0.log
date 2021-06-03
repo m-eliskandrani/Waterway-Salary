@@ -1,0 +1,245 @@
+*** 5/20/2021 2:33:32 PM VAdvantage Log  ***
+02:33:32.333    (INFO)     MSession.Logout: 04:19:28.522
+02:33:38.333    (INFO)     MRole.Get: AD_Role_ID=103, AD_User_ID=102, reload=True
+02:33:38.333    (INFO)     MRole.Get: MRole[103,IdeasInc User,UserLevel=  O,AD_Client_ID IN(0,11),AD_Org_ID IN(0,11,12)]
+02:33:38.333    (INFO)     MRole.Get: AD_Role_ID=103, AD_User_ID=102, reload=True
+02:33:38.333    (INFO)     MRole.Get: MRole[103,IdeasInc User,UserLevel=  O,AD_Client_ID IN(0,11),AD_Org_ID IN(0,11,12)]
+02:33:38.333    (INFO)     MTree.Load: AD_Tree_ID=10, AD_User_ID=102, Editable=False, OnClient=True
+02:33:38.333    (INFO)     Trx.Start: **** ConnSH637571180185884307System.Random
+02:33:38.333    (INFO)     Trx.Commit: **C** ConnSH637571180185884307System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 102  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 102 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('5/19/21','mm/dd/yy') and to_date('5/27/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('5/20/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=102 AND AppointmentsInfo.AD_User_ID  = 102)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000848
+02:33:42.334    (INFO)     Trx.Start: **** ConnSH637571180227120738System.Random
+02:33:42.334    (INFO)     Trx.Commit: **C** ConnSH637571180227120738System.Random
+02:33:42.334    (INFO)     Trx.Start: **** ConnSH637571180229229764System.Random
+02:33:42.334    (INFO)     Trx.Commit: **C** ConnSH637571180229229764System.Random
+02:33:55.335    (INFO)     Trx.Start: **** ConnSH637571180353708190System.Random
+02:33:55.335    (INFO)     Trx.Commit: **C** ConnSH637571180353708190System.Random
+02:34:04.344    (INFO)     Trx.Start: **** ConnSH637571180441334875System.Random
+02:34:04.344    (INFO)     Trx.Commit: **C** ConnSH637571180441334875System.Random
+02:34:34.343    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_EmpAttendanceLog
+02:34:34.343    (INFO)     Trx.Start: **** ConnSH637571180746366827System.Random
+02:34:34.343    (INFO)     Trx.Commit: **C** ConnSH637571180746366827System.Random
+02:34:44.344    (INFO)     Trx.Start: **** ConnSH637571180844823145System.Random
+02:34:44.344    (INFO)     Trx.Commit: **C** ConnSH637571180844823145System.Random
+02:35:00.350    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_EmpAttendanceLog
+02:35:00.350    (INFO)     Trx.Start: **** ConnSH637571181000799605System.Random
+02:35:00.350    (INFO)     Trx.Commit: **C** ConnSH637571181000799605System.Random
+02:35:18.351    (INFO)     MSession.Logout: 02:02:40.55
+02:35:21.352    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+02:35:21.352    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+02:35:21.352    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+02:35:21.352    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+02:35:21.352    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=100, Editable=False, OnClient=True
+02:35:22.352    (INFO)     Trx.Start: **** ConnSH637571181221693415System.Random
+02:35:22.352    (INFO)     Trx.Commit: **C** ConnSH637571181221693415System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 100  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 100 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('5/19/21','mm/dd/yy') and to_date('5/27/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('5/20/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=100 AND AppointmentsInfo.AD_User_ID  = 100)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+02:35:28.352    (INFO)     Trx.Start: **** ConnSH637571181288820211System.Random
+02:35:28.352    (INFO)     Trx.Commit: **C** ConnSH637571181288820211System.Random
+02:35:28.352    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21 => ORA-01756: quoted string not properly terminated
+02:35:28.352    (INFO)     Trx.Start: **** ConnSH637571181289670012System.Random
+02:35:28.352    (INFO)     Trx.Commit: **C** ConnSH637571181289670012System.Random
+02:35:28.352    (INFO)     Trx.Start: **** ConnSH637571181289819811System.Random
+02:35:28.352    (INFO)     Trx.Commit: **C** ConnSH637571181289819811System.Random
+02:35:28.352    (INFO)     Trx.Start: **** ConnDDH637571181289909620System.Random
+02:35:28.352    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637571181289909620System.Random 1193
+02:35:28.352    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637571181289909620System.Random 1193
+02:35:28.352    (INFO)     Trx.Commit: **C** ConnDDH637571181289909620System.Random
+02:35:29.352    (INFO)     Trx.Start: **** ConnSH637571181291520796System.Random
+02:35:29.352    (INFO)     Trx.Commit: **C** ConnSH637571181291520796System.Random
+02:35:29.352    (INFO)     Trx.Start: **** ConnSH637571181293192215System.Random
+02:35:29.352    (INFO)     Trx.Commit: **C** ConnSH637571181293192215System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier [Query DR] SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021'
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier [Query DR] SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021'
+===========>     (SEVERE)   PO.LeaveDaysDeduction: SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021' => ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier
+02:35:29.352    (INFO)     Trx.Start: **** ConnSH637571181293371685System.Random
+02:35:29.352    (INFO)     Trx.Commit: **C** ConnSH637571181293371685System.Random
+02:35:29.352    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:38:14.381    (INFO)     MSession.Logout: 02:03:53.766
+02:38:22.382    (INFO)     MRole.Get: AD_Role_ID=102, AD_User_ID=101, reload=True
+02:38:22.382    (INFO)     MRole.Get: MRole[102,IdeasInc Admin,UserLevel= CO,AD_Client_ID IN (0,11),]
+02:38:22.382    (INFO)     MRole.Get: AD_Role_ID=102, AD_User_ID=101, reload=True
+02:38:22.382    (INFO)     MRole.Get: MRole[102,IdeasInc Admin,UserLevel= CO,AD_Client_ID IN (0,11),]
+02:38:22.382    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=101, Editable=False, OnClient=True
+02:38:22.382    (INFO)     Trx.Start: **** ConnSH637571183025091487System.Random
+02:38:22.382    (INFO)     Trx.Commit: **C** ConnSH637571183025091487System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 101  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 101 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('5/19/21','mm/dd/yy') and to_date('5/27/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('5/20/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=101 AND AppointmentsInfo.AD_User_ID  = 101)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+02:38:23.382    (INFO)     MSession.Logout: 02:00:02.655
+02:38:26.382    (INFO)     MRole.Get: AD_Role_ID=103, AD_User_ID=102, reload=True
+02:38:26.382    (INFO)     MRole.Get: MRole[103,IdeasInc User,UserLevel=  O,AD_Client_ID IN(0,11),AD_Org_ID IN(0,11,12)]
+02:38:26.382    (INFO)     MTree.Load: AD_Tree_ID=10, AD_User_ID=102, Editable=False, OnClient=True
+02:38:26.382    (INFO)     Trx.Start: **** ConnSH637571183062601241System.Random
+02:38:26.382    (INFO)     Trx.Commit: **C** ConnSH637571183062601241System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 102  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 102 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('5/19/21','mm/dd/yy') and to_date('5/27/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('5/20/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=102 AND AppointmentsInfo.AD_User_ID  = 102)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+02:38:30.383    (INFO)     AEnv.GetMWindowVO: Cached=VAdvantage.Controller.GridWindowVO
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000848
+02:38:30.383    (INFO)     Trx.Start: **** ConnSH637571183104246979System.Random
+02:38:30.383    (INFO)     Trx.Commit: **C** ConnSH637571183104246979System.Random
+02:38:30.383    (INFO)     Trx.Start: **** ConnSH637571183106556962System.Random
+02:38:30.383    (INFO)     Trx.Commit: **C** ConnSH637571183106556962System.Random
+02:38:46.384    (INFO)     Trx.Start: **** ConnSH637571183267793005System.Random
+02:38:46.384    (INFO)     Trx.Commit: **C** ConnSH637571183267793005System.Random
+02:39:46.394    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_EmpAttendanceLog
+02:39:46.394    (INFO)     Trx.Start: **** ConnSH637571183863126275System.Random
+02:39:46.394    (INFO)     Trx.Commit: **C** ConnSH637571183863126275System.Random
+02:39:54.395    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_EmpAttendanceLog
+02:39:54.395    (INFO)     Trx.Start: **** ConnSH637571183944434537System.Random
+02:39:54.395    (INFO)     Trx.Commit: **C** ConnSH637571183944434537System.Random
+02:39:58.395    (INFO)     Trx.Start: **** ConnSH637571183986429166System.Random
+02:39:58.395    (INFO)     Trx.Commit: **C** ConnSH637571183986429166System.Random
+02:39:58.395    (INFO)     CacheReset.DoIt: 
+02:39:58.395    (INFO)     Env.Reset: finalCall=False
+02:39:58.395    (INFO)     CacheMgt.Reset: #20 (5873)
+02:39:58.395    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=0, reload=True
+02:39:58.395    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+02:39:58.395    (INFO)     MRole.Get: AD_Role_ID=103, AD_User_ID=102, reload=True
+02:39:58.395    (INFO)     MRole.Get: MRole[103,IdeasInc User,UserLevel=  O,AD_Client_ID IN(0,11),AD_Org_ID IN(0,11,12)]
+02:39:58.395    (INFO)     MChangeLog.FillChangeLog: #9
+02:39:58.395    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:40:10.401    (INFO)     Msg.InitMsg: Records=4077 - en_US
+02:40:19.401    (INFO)     Trx.Start: **** ConnSH637571184192164191System.Random
+02:40:19.401    (INFO)     Trx.Commit: **C** ConnSH637571184192164191System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21 => ORA-01756: quoted string not properly terminated
+02:40:19.401    (INFO)     Trx.Start: **** ConnSH637571184193033800System.Random
+02:40:19.401    (INFO)     Trx.Commit: **C** ConnSH637571184193033800System.Random
+02:40:19.401    (INFO)     Trx.Start: **** ConnSH637571184193133795System.Random
+02:40:19.401    (INFO)     Trx.Commit: **C** ConnSH637571184193133795System.Random
+02:40:19.401    (INFO)     Trx.Start: **** ConnDDH637571184193203800System.Random
+02:40:19.401    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637571184193203800System.Random 1188
+02:40:19.401    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637571184193203800System.Random 1188
+02:40:19.401    (INFO)     Trx.Commit: **C** ConnDDH637571184193203800System.Random
+02:40:19.401    (INFO)     Trx.Start: **** ConnSH637571184194807352System.Random
+02:40:19.401    (INFO)     Trx.Commit: **C** ConnSH637571184194807352System.Random
+02:40:19.401    (INFO)     Trx.Start: **** ConnSH637571184196445493System.Random
+02:40:19.401    (INFO)     Trx.Commit: **C** ConnSH637571184196445493System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier [Query DR] SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021'
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier [Query DR] SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021'
+===========>     (SEVERE)   PO.LeaveDaysDeduction: SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021' => ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier
+02:40:19.401    (INFO)     Trx.Start: **** ConnSH637571184196637555System.Random
+02:40:19.401    (INFO)     Trx.Commit: **C** ConnSH637571184196637555System.Random
+02:40:19.401    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000834
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000833
+02:43:54.435    (INFO)     Trx.Start: **** ConnSH637571186342942105System.Random
+02:43:54.435    (INFO)     Trx.Commit: **C** ConnSH637571186342942105System.Random
+02:43:58.435    (INFO)     MSession.Logout: 02:06:33.844
+02:44:01.441    (INFO)     MRole.Get: AD_Role_ID=102, AD_User_ID=101, reload=True
+02:44:01.441    (INFO)     MRole.Get: MRole[102,IdeasInc Admin,UserLevel= CO,AD_Client_ID IN (0,11),]
+02:44:01.441    (INFO)     MRole.Get: AD_Role_ID=102, AD_User_ID=101, reload=True
+02:44:01.441    (INFO)     MRole.Get: MRole[102,IdeasInc Admin,UserLevel= CO,AD_Client_ID IN (0,11),]
+02:44:01.441    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=101, Editable=False, OnClient=True
+02:44:01.441    (INFO)     Trx.Start: **** ConnSH637571186415265431System.Random
+02:44:01.441    (INFO)     Trx.Commit: **C** ConnSH637571186415265431System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 101  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 101 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('5/19/21','mm/dd/yy') and to_date('5/27/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('5/20/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=101 AND AppointmentsInfo.AD_User_ID  = 101)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000834
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000833
+02:44:05.445    (INFO)     Trx.Start: **** ConnSH637571186453709941System.Random
+02:44:05.445    (INFO)     Trx.Commit: **C** ConnSH637571186453709941System.Random
+02:46:25.462    (INFO)     MSession.Logout: 02:02:24.37
+02:46:39.463    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+02:46:39.463    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+02:46:39.463    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+02:46:39.463    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+02:46:39.463    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=100, Editable=False, OnClient=True
+02:46:39.463    (INFO)     Trx.Start: **** ConnSH637571187998799146System.Random
+02:46:39.463    (INFO)     Trx.Commit: **C** ConnSH637571187998799146System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 100  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 100 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('5/19/21','mm/dd/yy') and to_date('5/27/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('5/20/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=100 AND AppointmentsInfo.AD_User_ID  = 100)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+02:46:49.464    (INFO)     Trx.Start: **** ConnSH637571188092458157System.Random
+02:46:49.464    (INFO)     Trx.Commit: **C** ConnSH637571188092458157System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21 => ORA-01756: quoted string not properly terminated
+02:46:49.464    (INFO)     Trx.Start: **** ConnSH637571188092998437System.Random
+02:46:49.464    (INFO)     Trx.Commit: **C** ConnSH637571188092998437System.Random
+02:46:49.464    (INFO)     Trx.Start: **** ConnSH637571188093108533System.Random
+02:46:49.464    (INFO)     Trx.Commit: **C** ConnSH637571188093108533System.Random
+02:46:49.464    (INFO)     Trx.Start: **** ConnDDH637571188093188006System.Random
+02:46:49.464    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637571188093188006System.Random 1188
+02:46:49.464    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637571188093188006System.Random 1188
+02:46:49.464    (INFO)     Trx.Commit: **C** ConnDDH637571188093188006System.Random
+02:46:49.464    (INFO)     Trx.Start: **** ConnSH637571188094570322System.Random
+02:46:49.464    (INFO)     Trx.Commit: **C** ConnSH637571188094570322System.Random
+02:46:49.464    (INFO)     Trx.Start: **** ConnSH637571188095961977System.Random
+02:46:49.464    (INFO)     Trx.Commit: **C** ConnSH637571188095961977System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier [Query DR] SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021'
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier [Query DR] SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021'
+===========>     (SEVERE)   PO.LeaveDaysDeduction: SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021' => ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier
+02:46:49.464    (INFO)     Trx.Start: **** ConnSH637571188096102239System.Random
+02:46:49.464    (INFO)     Trx.Commit: **C** ConnSH637571188096102239System.Random
+02:46:49.464    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:51:56.515    (INFO)     Trx.Start: **** ConnSH637571191164518055System.Random
+02:51:56.515    (INFO)     Trx.Commit: **C** ConnSH637571191164518055System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21 => ORA-01756: quoted string not properly terminated
+02:51:56.515    (INFO)     Trx.Start: **** ConnSH637571191165029968System.Random
+02:51:56.515    (INFO)     Trx.Commit: **C** ConnSH637571191165029968System.Random
+02:51:56.515    (INFO)     Trx.Start: **** ConnSH637571191165109967System.Random
+02:51:56.515    (INFO)     Trx.Commit: **C** ConnSH637571191165109967System.Random
+02:51:56.515    (INFO)     Trx.Start: **** ConnDDH637571191165179981System.Random
+02:51:56.515    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637571191165179981System.Random 1247
+02:51:56.515    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637571191165179981System.Random 1247
+02:51:56.515    (INFO)     Trx.Commit: **C** ConnDDH637571191165179981System.Random
+02:51:56.515    (INFO)     Trx.Start: **** ConnSH637571191166522078System.Random
+02:51:56.515    (INFO)     Trx.Commit: **C** ConnSH637571191166522078System.Random
+02:51:56.515    (INFO)     Trx.Start: **** ConnSH637571191167938816System.Random
+02:51:56.515    (INFO)     Trx.Commit: **C** ConnSH637571191167938816System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier [Query DR] SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021'
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier [Query DR] SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021'
+===========>     (SEVERE)   PO.LeaveDaysDeduction: SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021' => ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier
+02:51:56.515    (INFO)     Trx.Start: **** ConnSH637571191168080214System.Random
+02:51:56.515    (INFO)     Trx.Commit: **C** ConnSH637571191168080214System.Random
+02:51:56.515    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:53:49.534    (INFO)     Trx.Start: **** ConnSH637571192296654812System.Random
+02:53:49.534    (INFO)     Trx.Commit: **C** ConnSH637571192296654812System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21 => ORA-01756: quoted string not properly terminated
+02:53:49.534    (INFO)     Trx.Start: **** ConnSH637571192297155984System.Random
+02:53:49.534    (INFO)     Trx.Commit: **C** ConnSH637571192297155984System.Random
+02:53:49.534    (INFO)     Trx.Start: **** ConnSH637571192297245305System.Random
+02:53:49.534    (INFO)     Trx.Commit: **C** ConnSH637571192297245305System.Random
+02:53:49.534    (INFO)     Trx.Start: **** ConnDDH637571192297314878System.Random
+02:53:49.534    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637571192297314878System.Random 1254
+02:53:49.534    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637571192297314878System.Random 1254
+02:53:49.534    (INFO)     Trx.Commit: **C** ConnDDH637571192297314878System.Random
+02:53:49.534    (INFO)     Trx.Start: **** ConnSH637571192298579686System.Random
+02:53:49.534    (INFO)     Trx.Commit: **C** ConnSH637571192298579686System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier [Query DR] SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021'
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier [Query DR] SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021'
+===========>     (SEVERE)   PO.LeaveDaysDeduction: SELECT VAHRUAE_HR_LeaveDetail_ID FROM VAHRUAE_HR_LeaveDetail WHERE C_BPartner_ID = 1006736 AND VAHRUAE_LEAVE_TYPE = 'SL' AND VAHRUAE_Date1 >= '01-JAN-2021' AND VAHRUAE_DATE1 <= '31-DEC2021' => ORA-00904: "VAHRUAE_LEAVE_TYPE": invalid identifier

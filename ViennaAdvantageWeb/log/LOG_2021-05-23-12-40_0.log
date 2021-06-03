@@ -1,0 +1,11 @@
+*** 5/23/2021 12:40:55 PM VAdvantage Log  ***
+12:40:55.405    (INFO)     Trx.Start: **** ConnSH637573704558048343System.Random
+12:40:55.405    (INFO)     Trx.Commit: **C** ConnSH637573704558048343System.Random
+12:40:55.405    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_TIME1": invalid identifier [Query DR] SELECT VAHRUAE_HR_HOLIDAYS_ID FROM VAHRUAE_HR_HOLIDAYS WHERE VAHRUAE_Time1 >= '20-FEB-21' AND VAHRUAE_Time1 <= '20-MAR-21'
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_TIME1": invalid identifier [Query DR] SELECT VAHRUAE_HR_HOLIDAYS_ID FROM VAHRUAE_HR_HOLIDAYS WHERE VAHRUAE_Time1 >= '20-FEB-21' AND VAHRUAE_Time1 <= '20-MAR-21'
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_HOLIDAYS_ID FROM VAHRUAE_HR_HOLIDAYS WHERE VAHRUAE_Time1 >= '20-FEB-21' AND VAHRUAE_Time1 <= '20-MAR-21' => ORA-00904: "VAHRUAE_TIME1": invalid identifier
+12:40:56.405    (INFO)     Trx.Start: **** ConnSH637573704563548323System.Random
+12:40:56.405    (INFO)     Trx.Commit: **C** ConnSH637573704563548323System.Random
+===========>     (SEVERE)   CalculateSalaries.StartProcess: Object reference not set to an instance of an object.
+12:42:58.425    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)

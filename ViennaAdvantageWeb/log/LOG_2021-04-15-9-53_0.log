@@ -1,0 +1,13 @@
+*** 4/15/2021 9:53:59 AM VAdvantage Log  ***
+09:53:59.535    (INFO)     Trx.Start: **** ConnSH637540772392610063System.Random
+09:53:59.535    (INFO)     Trx.Commit: **C** ConnSH637540772392610063System.Random
+09:53:59.535    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006731 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006731 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006731 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME => ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier
+09:54:02.542    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:54:05.545    (INFO)     Trx.Start: **** ConnSH637540772452308903System.Random
+09:54:05.545    (INFO)     Trx.Commit: **C** ConnSH637540772452308903System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006731 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006731 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006731 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME => ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier

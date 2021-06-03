@@ -1,0 +1,14 @@
+*** 4/15/2021 11:33:12 AM VAdvantage Log  ***
+11:33:12.331    (INFO)     Trx.Start: **** ConnSH637540831924296801System.Random
+11:33:12.331    (INFO)     Trx.Commit: **C** ConnSH637540831924296801System.Random
+11:33:12.331    (INFO)     MChangeLog.FillChangeLog: #9
+11:33:12.331    (INFO)     Trx.Start: **** ConnSH637540831925124507System.Random
+11:33:12.331    (INFO)     Trx.Commit: **C** ConnSH637540831925124507System.Random
+11:33:12.331    (INFO)     Trx.Start: **** ConnSH637540831925244045System.Random
+11:33:12.331    (INFO)     Trx.Commit: **C** ConnSH637540831925244045System.Random
+11:33:12.331    (INFO)     Trx.Start: **** ConnSH637540831925892564System.Random
+11:33:12.331    (INFO)     Trx.Commit: **C** ConnSH637540831925892564System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: Not insertedVAHRUAE_MthAttendDetail
+===========>     (SEVERE)   CalculatePenalties.StartProcess: help

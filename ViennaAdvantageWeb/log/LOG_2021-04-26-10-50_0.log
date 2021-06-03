@@ -1,0 +1,111 @@
+*** 4/26/2021 10:50:38 AM VAdvantage Log  ***
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+10:50:38.503    (INFO)     Trx.Start: **** ConnSH637550310386140375System.Random
+10:50:38.503    (INFO)     Trx.Commit: **C** ConnSH637550310386140375System.Random
+10:50:40.504    (INFO)     Trx.Start: **** ConnSH637550310402198607System.Random
+10:50:40.504    (INFO)     Trx.Commit: **C** ConnSH637550310402198607System.Random
+10:50:54.505    (INFO)     Trx.Start: **** ConnSH637550310546308059System.Random
+10:50:54.505    (INFO)     Trx.Commit: **C** ConnSH637550310546308059System.Random
+10:51:01.511    (INFO)     Trx.Start: **** ConnSH637550310616791780System.Random
+10:51:01.511    (INFO)     Trx.Commit: **C** ConnSH637550310616791780System.Random
+10:52:08.528    (INFO)     Trx.Start: **** ConnSH637550311281773506System.Random
+10:52:08.528    (INFO)     Trx.Commit: **C** ConnSH637550311281773506System.Random
+10:52:08.528    (INFO)     MChangeLog.FillChangeLog: #9
+10:52:08.528    (INFO)     Trx.Start: **** ConnSH637550311282021944System.Random
+10:52:08.528    (INFO)     Trx.Commit: **C** ConnSH637550311282021944System.Random
+10:52:16.521    (INFO)     Trx.Start: **** ConnSH637550311367763917System.Random
+10:52:16.521    (INFO)     Trx.Commit: **C** ConnSH637550311367763917System.Random
+10:52:16.521    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+10:52:29.522    (INFO)     Trx.Start: **** ConnSH637550311498166140System.Random
+10:52:29.522    (INFO)     Trx.Commit: **C** ConnSH637550311498166140System.Random
+10:52:29.522    (INFO)     ColumnSync.DoIt: C_Column_ID=1022023
+10:52:29.522    (INFO)     Trx.Start: **** SvrProcess
+10:52:30.523    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_HR_AttendanceRule ADD RoundNumber NUMBER(10)
+10:52:31.523    (INFO)     Trx.Commit: **C** SvrProcess
+10:52:31.523    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+10:53:07.537    (INFO)     Trx.Start: **** ConnSH637550311876460766System.Random
+10:53:07.537    (INFO)     Trx.Commit: **C** ConnSH637550311876460766System.Random
+10:53:07.537    (INFO)     Trx.Start: **** ConnSH637550311876510878System.Random
+10:53:07.537    (INFO)     Trx.Commit: **C** ConnSH637550311876510878System.Random
+10:55:44.554    (INFO)     Trx.Start: **** ConnSH637550313446151495System.Random
+10:55:44.554    (INFO)     Trx.Commit: **C** ConnSH637550313446151495System.Random
+10:55:44.554    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+10:55:45.554    (INFO)     Trx.Start: **** ConnSH637550313453521624System.Random
+10:55:45.554    (INFO)     Trx.Commit: **C** ConnSH637550313453521624System.Random
+10:55:45.554    (INFO)     ColumnSync.DoIt: C_Column_ID=1022024
+10:55:45.554    (INFO)     Trx.Start: **** SvrProcess
+10:55:47.554    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_HR_AttendanceRule ADD IsRoundCeiling CHAR(1) DEFAULT 'N' CHECK (IsRoundCeiling IN ('Y','N'))
+10:55:49.554    (INFO)     Trx.Commit: **C** SvrProcess
+10:55:49.554    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+10:56:27.562    (INFO)     Trx.Start: **** ConnSH637550313870640782System.Random
+10:56:27.562    (INFO)     Trx.Commit: **C** ConnSH637550313870640782System.Random
+10:56:27.562    (INFO)     Trx.Start: **** ConnSH637550313870710930System.Random
+10:56:27.562    (INFO)     Trx.Commit: **C** ConnSH637550313870710930System.Random
+10:56:42.564    (INFO)     Trx.Start: **** ConnSH637550314024633886System.Random
+10:56:42.564    (INFO)     Trx.Commit: **C** ConnSH637550314024633886System.Random
+10:56:42.564    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+10:56:49.564    (INFO)     Trx.Start: **** ConnSH637550314097104889System.Random
+10:56:49.564    (INFO)     Trx.Commit: **C** ConnSH637550314097104889System.Random
+10:56:49.564    (INFO)     ColumnSync.DoIt: C_Column_ID=1022025
+10:56:49.564    (INFO)     Trx.Start: **** SvrProcess
+10:56:49.564    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_HR_AttendanceRule ADD IsRoundFloor CHAR(1) DEFAULT 'N' CHECK (IsRoundFloor IN ('Y','N'))
+10:56:49.564    (INFO)     Trx.Commit: **C** SvrProcess
+10:56:49.564    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+10:56:59.565    (INFO)     Trx.Start: **** ConnSH637550314199231487System.Random
+10:56:59.565    (INFO)     Trx.Commit: **C** ConnSH637550314199231487System.Random
+10:57:31.573    (INFO)     AEnv.GetMWindowVO: Cached=
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+10:57:31.573    (INFO)     Trx.Start: **** ConnSH637550314512510613System.Random
+10:57:31.573    (INFO)     Trx.Commit: **C** ConnSH637550314512510613System.Random
+10:57:31.573    (INFO)     Trx.Start: **** ConnSH637550314515096270System.Random
+10:57:31.573    (INFO)     Trx.Commit: **C** ConnSH637550314515096270System.Random

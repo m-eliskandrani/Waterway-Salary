@@ -1,0 +1,43 @@
+*** 5/16/2021 4:01:49 PM VAdvantage Log  ***
+04:01:49.149    (INFO)     Trx.Start: **** ConnSH637567777097678091System.Random
+04:01:49.149    (INFO)     Trx.Commit: **C** ConnSH637567777097678091System.Random
+04:01:49.149    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20 => ORA-01756: quoted string not properly terminated
+04:01:49.149    (INFO)     Trx.Start: **** ConnSH637567777099108152System.Random
+04:01:49.149    (INFO)     Trx.Commit: **C** ConnSH637567777099108152System.Random
+04:01:49.149    (INFO)     Trx.Start: **** ConnSH637567777099238103System.Random
+04:01:49.149    (INFO)     Trx.Commit: **C** ConnSH637567777099238103System.Random
+04:01:49.149    (INFO)     Trx.Start: **** ConnSH637567777099348142System.Random
+04:01:49.149    (INFO)     Trx.Commit: **C** ConnSH637567777099348142System.Random
+04:01:49.149    (INFO)     Trx.Start: **** ConnDDH637567777099518117System.Random
+04:01:49.149    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637567777099518117System.Random 50
+04:01:49.149    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637567777099518117System.Random 50
+04:01:49.149    (INFO)     Trx.Commit: **C** ConnDDH637567777099518117System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: Not insertedVAHRUAE_Vss_EmpMthSalary
+04:01:49.149    (INFO)     Trx.Start: **** ConnSH637567777099778127System.Random
+04:01:49.149    (INFO)     Trx.Commit: **C** ConnSH637567777099778127System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000071
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000073
+04:01:50.150    (INFO)     Trx.Start: **** ConnSH637567777100108159System.Random
+04:01:50.150    (INFO)     Trx.Commit: **C** ConnSH637567777100108159System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000071
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000073
+04:01:50.150    (INFO)     Trx.Start: **** ConnSH637567777100398087System.Random
+04:01:50.150    (INFO)     Trx.Commit: **C** ConnSH637567777100398087System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000071
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000073
+04:01:50.150    (INFO)     Trx.Start: **** ConnSH637567777100668092System.Random
+04:01:50.150    (INFO)     Trx.Commit: **C** ConnSH637567777100668092System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000071
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000073
+04:01:50.150    (INFO)     Trx.Start: **** ConnSH637567777100948091System.Random
+04:01:50.150    (INFO)     Trx.Commit: **C** ConnSH637567777100948091System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000071
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000073
+04:01:50.150    (INFO)     Trx.Start: **** ConnSH637567777101228134System.Random
+04:01:50.150    (INFO)     Trx.Commit: **C** ConnSH637567777101228134System.Random
+===========>     (SEVERE)   CalculateSalaries.StartProcess: Index was outside the bounds of the array.

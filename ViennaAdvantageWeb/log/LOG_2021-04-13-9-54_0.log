@@ -1,0 +1,41 @@
+*** 4/13/2021 9:54:58 AM VAdvantage Log  ***
+09:54:58.545    (INFO)     Trx.Start: **** ConnSH637539044982527542System.Random
+09:54:58.545    (INFO)     Trx.Commit: **C** ConnSH637539044982527542System.Random
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+09:55:19.551    (INFO)     Trx.Start: **** ConnSH637539045194867528System.Random
+09:55:19.551    (INFO)     Trx.Commit: **C** ConnSH637539045194867528System.Random
+09:55:20.552    (INFO)     Trx.Start: **** ConnSH637539045207917522System.Random
+09:55:20.552    (INFO)     Trx.Commit: **C** ConnSH637539045207917522System.Random
+09:55:26.552    (INFO)     Trx.Start: **** ConnSH637539045260727520System.Random
+09:55:26.552    (INFO)     Trx.Commit: **C** ConnSH637539045260727520System.Random
+09:55:34.553    (INFO)     Trx.Start: **** ConnSH637539045340897513System.Random
+09:55:34.553    (INFO)     Trx.Commit: **C** ConnSH637539045340897513System.Random
+09:56:15.561    (INFO)     Trx.Start: **** ConnSH637539045759197511System.Random
+09:56:15.561    (INFO)     Trx.Commit: **C** ConnSH637539045759197511System.Random
+09:56:15.561    (INFO)     MChangeLog.FillChangeLog: #9
+09:56:16.561    (INFO)     ColumnSync.DoIt: C_Column_ID=1021954

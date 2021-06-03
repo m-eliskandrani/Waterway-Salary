@@ -1,0 +1,28 @@
+*** 4/15/2021 11:27:06 AM VAdvantage Log  ***
+11:27:06.276    (INFO)     Trx.Start: **** ConnSH637540828260850110System.Random
+11:27:06.276    (INFO)     Trx.Commit: **C** ConnSH637540828260850110System.Random
+11:27:06.276    (INFO)     MChangeLog.FillChangeLog: #9
+11:27:06.276    (INFO)     Trx.Start: **** ConnSH637540828261460118System.Random
+11:27:06.276    (INFO)     Trx.Commit: **C** ConnSH637540828261460118System.Random
+11:27:06.276    (INFO)     Trx.Start: **** ConnSH637540828261580112System.Random
+11:27:06.276    (INFO)     Trx.Commit: **C** ConnSH637540828261580112System.Random
+11:27:06.276    (INFO)     Trx.Start: **** ConnSH637540828262400132System.Random
+11:27:06.276    (INFO)     Trx.Commit: **C** ConnSH637540828262400132System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: Not insertedVAHRUAE_MthAttendDetail
+11:27:06.276    (INFO)     Trx.Start: **** ConnSH637540828263190105System.Random
+11:27:06.276    (INFO)     Trx.Commit: **C** ConnSH637540828263190105System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: Not insertedVAHRUAE_MthAttendDetail
+11:27:06.276    (INFO)     Trx.Start: **** ConnSH637540828263930120System.Random
+11:27:06.276    (INFO)     Trx.Commit: **C** ConnSH637540828263930120System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: Not insertedVAHRUAE_MthAttendDetail
+11:27:06.276    (INFO)     Trx.Start: **** ConnSH637540828264580135System.Random
+11:27:06.276    (INFO)     Trx.Commit: **C** ConnSH637540828264580135System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."C_BPARTNER_ID")
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: Not insertedVAHRUAE_MthAttendDetail

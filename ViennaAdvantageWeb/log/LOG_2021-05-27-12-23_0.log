@@ -1,0 +1,111 @@
+*** 5/27/2021 12:23:54 PM VAdvantage Log  ***
+12:23:54.235    (INFO)     AEnv.GetMWindowVO: Cached=VAdvantage.Controller.GridWindowVO
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000829
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000828
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000902
+12:23:54.235    (INFO)     Trx.Start: **** ConnSH637577150348937901System.Random
+12:23:54.235    (INFO)     Trx.Commit: **C** ConnSH637577150348937901System.Random
+12:23:55.235    (INFO)     Trx.Start: **** ConnSH637577150351497884System.Random
+12:23:55.235    (INFO)     Trx.Commit: **C** ConnSH637577150351497884System.Random
+12:23:58.235    (INFO)     Trx.Start: **** ConnSH637577150389412804System.Random
+12:23:58.235    (INFO)     Trx.Commit: **C** ConnSH637577150389412804System.Random
+===========>     (SEVERE)   VLookUpInfo.GetLookup_DisplayColumn: No Identifier records found: VAHRUAE_HR_PenalityDetails
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000847
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000846
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000904
+12:25:03.253    (INFO)     Trx.Start: **** ConnSH637577151031598125System.Random
+12:25:03.253    (INFO)     Trx.Commit: **C** ConnSH637577151031598125System.Random
+===========>     (SEVERE)   DB_Oracle.ExecuteDatasetPaging: ORA-00918: column ambiguously defined [Query NQTrx]select * FROM (SELECT t.*, rownum AS row_num FROM (SELECT VAHRUAE_HR_PenalityDetails.VAHRUAE_HR_PenalityDetails_ID,NULL,NULL,VAHRUAE_HR_PenalityDetails.IsActive FROM VAHRUAE_HR_PenalityDetails WHERE VAHRUAE_HR_PenalityDetails.AD_Client_ID IN(0,11) AND (COALESCE(VAHRUAE_HR_PenalityDetails.AD_Org_ID,0) IN(0,11,12)) AND VAHRUAE_HR_PenalityDetails.VAHRUAE_HR_PenalityDetails_ID NOT IN ( SELECT Record_ID FROM AD_Private_Access WHERE AD_Table_ID = 1000846 AND AD_User_ID <> 102 AND IsActive = 'Y' ) ORDER BY 3) t ) WHERE row_num BETWEEN (((1 - 1) * 1000) + 1) AND ((1 * 1000))
+12:25:03.253    (INFO)     Trx.Start: **** ConnSH637577151033282741System.Random
+12:25:03.253    (INFO)     Trx.Commit: **C** ConnSH637577151033282741System.Random
+12:25:08.258    (INFO)     Trx.Start: **** ConnSH637577151080856544System.Random
+12:25:08.258    (INFO)     Trx.Commit: **C** ConnSH637577151080856544System.Random
+12:26:36.263    (INFO)     Trx.Start: **** ConnSH637577151964832987System.Random
+12:26:36.263    (INFO)     Trx.Commit: **C** ConnSH637577151964832987System.Random
+12:26:45.264    (INFO)     Trx.Start: **** ConnSH637577152053989566System.Random
+12:26:45.264    (INFO)     Trx.Commit: **C** ConnSH637577152053989566System.Random
+12:30:45.304    (INFO)     Trx.Start: **** ConnSH637577154453171357System.Random
+12:30:45.304    (INFO)     Trx.Commit: **C** ConnSH637577154453171357System.Random
+12:31:06.316    (INFO)     Trx.Start: **** ConnSH637577154667866302System.Random
+12:31:06.316    (INFO)     Trx.Commit: **C** ConnSH637577154667866302System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT VA009_PaymentMethod.VA009_PaymentMethod_ID,NULL,NVL(VA009_PaymentMethod.VA009_Name,''),VA009_PaymentMethod.IsActive FROM VA009_PaymentMethod WHERE VA009_PAYMENTMETHOD.VA009_PAYMENTMETHOD_ID  IN ( SELECT VA009_PAYMENTMETHOD_ID FROM VA009_PAYMENTMETHOD WHERE VA009_PAYMENTBASETYPE NOT IN ('B','C','P') )
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT VA009_PaymentMethod.VA009_PaymentMethod_ID,NULL,NVL(VA009_PaymentMethod.VA009_Name,''),VA009_PaymentMethod.IsActive FROM VA009_PaymentMethod WHERE VA009_PAYMENTMETHOD.VA009_PAYMENTMETHOD_ID  IN ( SELECT VA009_PAYMENTMETHOD_ID FROM VA009_PAYMENTMETHOD WHERE VA009_PAYMENTBASETYPE NOT IN ('B','C','P') )
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000877
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =335
+12:31:30.313    (INFO)     Trx.Start: **** ConnSH637577154900016409System.Random
+12:31:30.313    (INFO)     Trx.Commit: **C** ConnSH637577154900016409System.Random
+12:31:30.313    (INFO)     Trx.Start: **** ConnSH637577154902974412System.Random
+12:31:30.313    (INFO)     Trx.Commit: **C** ConnSH637577154902974412System.Random
+12:33:21.332    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_MthAttendDetail
+12:33:21.332    (INFO)     Trx.Start: **** GridDel637577156016144459
+12:33:21.332    (INFO)     GenericPO.DeleteRecord: True
+12:33:21.332    (INFO)     Trx.Commit: **C** GridDel637577156016144459
+12:33:21.332    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_MthAttendDetail
+12:33:21.332    (INFO)     Trx.Start: **** GridDel637577156016144459
+12:33:21.332    (INFO)     GenericPO.DeleteRecord: True
+12:33:21.332    (INFO)     Trx.Commit: **C** GridDel637577156016144459
+12:33:21.332    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_MthAttendDetail
+12:33:21.332    (INFO)     Trx.Start: **** GridDel637577156016144459
+12:33:21.332    (INFO)     GenericPO.DeleteRecord: True
+12:33:21.332    (INFO)     Trx.Commit: **C** GridDel637577156016144459
+12:33:33.333    (INFO)     Trx.Start: **** ConnSH637577156134247071System.Random
+12:33:33.333    (INFO)     Trx.Commit: **C** ConnSH637577156134247071System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21 => ORA-01756: quoted string not properly terminated
+12:33:33.333    (INFO)     Trx.Start: **** ConnSH637577156136039104System.Random
+12:33:33.333    (INFO)     Trx.Commit: **C** ConnSH637577156136039104System.Random
+12:33:33.333    (INFO)     Trx.Start: **** ConnSH637577156136125414System.Random
+12:33:33.333    (INFO)     Trx.Commit: **C** ConnSH637577156136125414System.Random
+12:33:33.333    (INFO)     Trx.Start: **** ConnDDH637577156136282616System.Random
+12:33:33.333    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637577156136282616System.Random 121
+12:33:33.333    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637577156136282616System.Random 121
+12:33:33.333    (INFO)     Trx.Commit: **C** ConnDDH637577156136282616System.Random
+12:33:33.333    (INFO)     Trx.Start: **** ConnSH637577156138327408System.Random
+12:33:33.333    (INFO)     Trx.Commit: **C** ConnSH637577156138327408System.Random
+12:33:34.333    (INFO)     Trx.Start: **** ConnSH637577156140057084System.Random
+12:33:34.333    (INFO)     Trx.Commit: **C** ConnSH637577156140057084System.Random
+12:33:34.333    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+12:33:38.333    (INFO)     Trx.Start: **** ConnSH637577156186049482System.Random
+12:33:38.333    (INFO)     Trx.Commit: **C** ConnSH637577156186049482System.Random
+12:34:08.348    (INFO)     Trx.Start: **** ConnSH637577156489520803System.Random
+12:34:08.348    (INFO)     Trx.Commit: **C** ConnSH637577156489520803System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21 => ORA-01756: quoted string not properly terminated
+12:34:08.348    (INFO)     Trx.Start: **** ConnSH637577156489999423System.Random
+12:34:09.349    (INFO)     Trx.Commit: **C** ConnSH637577156489999423System.Random
+12:34:09.349    (INFO)     Trx.Start: **** ConnSH637577156490079425System.Random
+12:34:09.349    (INFO)     Trx.Commit: **C** ConnSH637577156490079425System.Random

@@ -1,0 +1,21 @@
+*** 5/23/2021 11:14:44 AM VAdvantage Log  ***
+11:14:44.144    (INFO)     Trx.Start: **** ConnSH637573652840990788System.Random
+11:14:44.144    (INFO)     Trx.Commit: **C** ConnSH637573652840990788System.Random
+11:14:44.144    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21 => ORA-01756: quoted string not properly terminated
+11:14:44.144    (INFO)     Trx.Start: **** ConnSH637573652842729899System.Random
+11:14:44.144    (INFO)     Trx.Commit: **C** ConnSH637573652842729899System.Random
+11:14:44.144    (INFO)     Trx.Start: **** ConnSH637573652842804362System.Random
+11:14:44.144    (INFO)     Trx.Commit: **C** ConnSH637573652842804362System.Random
+11:14:44.144    (INFO)     Trx.Start: **** ConnDDH637573652842944297System.Random
+11:14:44.144    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637573652842944297System.Random 13
+11:14:44.144    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637573652842944297System.Random 13
+11:14:44.144    (INFO)     Trx.Commit: **C** ConnDDH637573652842944297System.Random
+11:14:44.144    (INFO)     Trx.Start: **** ConnSH637573652844464066System.Random
+11:14:44.144    (INFO)     Trx.Commit: **C** ConnSH637573652844464066System.Random
+11:14:44.144    (INFO)     Trx.Start: **** ConnSH637573652846285132System.Random
+11:14:44.144    (INFO)     Trx.Commit: **C** ConnSH637573652846285132System.Random
+11:14:44.144    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+*** 5/23/2021 12:26:37 PM VAdvantage Log ***

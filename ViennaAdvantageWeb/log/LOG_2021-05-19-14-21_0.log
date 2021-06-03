@@ -1,0 +1,23 @@
+*** 5/19/2021 2:22:08 PM VAdvantage Log  ***
+02:22:08.228    (INFO)     Trx.Start: **** ConnSH637570309288840713System.Random
+02:22:08.228    (INFO)     Trx.Commit: **C** ConnSH637570309288840713System.Random
+02:22:08.228    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21 => ORA-01756: quoted string not properly terminated
+02:22:09.229    (INFO)     Trx.Start: **** ConnSH637570309290190426System.Random
+02:22:09.229    (INFO)     Trx.Commit: **C** ConnSH637570309290190426System.Random
+02:22:09.229    (INFO)     Trx.Start: **** ConnSH637570309290270745System.Random
+02:22:09.229    (INFO)     Trx.Commit: **C** ConnSH637570309290270745System.Random
+02:22:09.229    (INFO)     Trx.Start: **** ConnDDH637570309290410421System.Random
+02:22:09.229    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637570309290410421System.Random 68
+02:22:09.229    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637570309290410421System.Random 68
+02:22:09.229    (INFO)     Trx.Commit: **C** ConnDDH637570309290410421System.Random
+02:22:09.229    (INFO)     Trx.Start: **** ConnSH637570309291900716System.Random
+02:22:09.229    (INFO)     Trx.Commit: **C** ConnSH637570309291900716System.Random
+02:22:09.229    (INFO)     Trx.Start: **** ConnSH637570309292173955System.Random
+02:22:09.229    (INFO)     Trx.Commit: **C** ConnSH637570309292173955System.Random
+02:22:09.229    (INFO)     Trx.Start: **** ConnSH637570309293604217System.Random
+02:22:09.229    (INFO)     Trx.Commit: **C** ConnSH637570309293604217System.Random
+02:22:09.229    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+*** 5/19/2021 3:31:56 PM VAdvantage Log ***

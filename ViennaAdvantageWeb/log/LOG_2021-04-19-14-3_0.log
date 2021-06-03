@@ -1,0 +1,5 @@
+*** 4/19/2021 2:03:14 PM VAdvantage Log  ***
+02:03:14.314    (INFO)     Trx.Start: **** ConnSH637544377941143670System.Random
+02:03:14.314    (INFO)     Trx.Commit: **C** ConnSH637544377941143670System.Random
+02:03:14.314    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   CalculatePenalties.StartProcess: Invalid cast from 'Decimal' to 'DateTime'.

@@ -1,0 +1,48 @@
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageSvc\obj\Debug\ViennaAdvantageSvc.csprojAssemblyReference.cache
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageSvc\obj\Debug\ViennaAdvantageSvc.csproj.CoreCompileInputs.cache
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageSvc\bin\Debug\ViennaAdvantageSvc.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageSvc\bin\Debug\ViennaAdvantageSvc.pdb
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageSvc\obj\Debug\ViennaAdvantageSvc.dll
+D:\Latest partner kit Template\VAPK\VAPK_VA Partner Kit\ViennaAdvantageSvc\obj\Debug\ViennaAdvantageSvc.pdb
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageSvc\bin\Debug\ViennaAdvantageSvc.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageSvc\bin\Debug\ViennaAdvantageSvc.pdb
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageSvc\obj\Debug\ViennaAdvantageSvc.csprojAssemblyReference.cache
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageSvc\obj\Debug\ViennaAdvantageSvc.csproj.CoreCompileInputs.cache
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageSvc\obj\Debug\ViennaAdvantageSvc.dll
+C:\Lokesh\Partner Kit Template\VAPK_VA Partner Kit\ViennaAdvantageSvc\obj\Debug\ViennaAdvantageSvc.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\obj\Debug\ViennaAdvantageSvc.csprojAssemblyReference.cache
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\obj\Debug\ViennaAdvantageSvc.csproj.CoreCompileInputs.cache
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.Auth.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.Core.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\ModelLibrary.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Newtonsoft.Json.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\System.Web.Optimization.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\IKVM.OpenJDK.ClassLibrary.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Npgsql.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\MySql.Data.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\PdfSharp.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\SecureEngineUtility.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\IKVM.Runtime.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Mono.Security.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.Auth.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.Auth.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.Core.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Google.Apis.Core.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\Newtonsoft.Json.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\System.Web.Optimization.xml
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\obj\Debug\ViennaAdvantageSvc.csproj.CopyComplete
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\DGM10Svc.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\bin\Debug\DGM10Svc.pdb
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\obj\Debug\DGM10Svc.dll
+D:\Digital Magna\Why\VA Partner Kit\ViennaAdvantageSvc\obj\Debug\DGM10Svc.pdb

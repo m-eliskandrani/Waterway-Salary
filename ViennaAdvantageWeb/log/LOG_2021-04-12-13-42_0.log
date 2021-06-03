@@ -1,0 +1,5 @@
+*** 4/12/2021 1:42:41 PM VAdvantage Log  ***
+01:42:41.424    (INFO)     Trx.Start: **** ConnSH637538317610830828System.Random
+01:42:41.424    (INFO)     Trx.Commit: **C** ConnSH637538317610830828System.Random
+01:42:41.424    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   CalculatePenalties.StartProcess: 1000008

@@ -1,0 +1,7 @@
+*** 4/12/2021 1:36:51 PM VAdvantage Log  ***
+01:36:51.365    (INFO)     Trx.Start: **** ConnSH637538314119714348System.Random
+01:36:51.365    (INFO)     Trx.Commit: **C** ConnSH637538314119714348System.Random
+01:36:51.365    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00942: table or view does not exist [Query DR] SELECT VAHRUAE_HR_ATTENDANCE_RULE_ID FROM VAHRUAE_HR_ATTENDANCE_RULE
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00942: table or view does not exist [Query DR] SELECT VAHRUAE_HR_ATTENDANCE_RULE_ID FROM VAHRUAE_HR_ATTENDANCE_RULE
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_ATTENDANCE_RULE_ID FROM VAHRUAE_HR_ATTENDANCE_RULE => ORA-00942: table or view does not exist

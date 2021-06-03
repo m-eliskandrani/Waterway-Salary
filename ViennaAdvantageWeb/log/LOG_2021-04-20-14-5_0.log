@@ -1,0 +1,141 @@
+*** 4/20/2021 2:05:16 PM VAdvantage Log  ***
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000829
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000828
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000902
+02:05:16.516    (INFO)     Trx.Start: **** ConnSH637545243164526668System.Random
+02:05:16.516    (INFO)     Trx.Commit: **C** ConnSH637545243164526668System.Random
+02:05:16.516    (INFO)     Trx.Start: **** ConnSH637545243168223878System.Random
+02:05:16.516    (INFO)     Trx.Commit: **C** ConnSH637545243168223878System.Random
+02:05:20.520    (INFO)     MSession.Logout: 04:00:25.781
+02:05:23.523    (INFO)     MRole.Get: AD_Role_ID=102, AD_User_ID=101, reload=True
+02:05:23.523    (INFO)     MRole.Get: MRole[102,IdeasInc Admin,UserLevel= CO,AD_Client_ID IN (0,11),]
+02:05:23.523    (INFO)     MRole.Get: AD_Role_ID=102, AD_User_ID=101, reload=True
+02:05:23.523    (INFO)     MRole.Get: MRole[102,IdeasInc Admin,UserLevel= CO,AD_Client_ID IN (0,11),]
+02:05:23.523    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=101, Editable=False, OnClient=True
+02:05:24.524    (INFO)     Trx.Start: **** ConnSH637545243242654346System.Random
+02:05:24.524    (INFO)     Trx.Commit: **C** ConnSH637545243242654346System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 101  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 101 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('4/19/21','mm/dd/yy') and to_date('4/27/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('4/20/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=101 AND AppointmentsInfo.AD_User_ID  = 101)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000829
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000828
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000902
+02:05:29.529    (INFO)     Trx.Start: **** ConnSH637545243293278667System.Random
+02:05:29.529    (INFO)     Trx.Commit: **C** ConnSH637545243293278667System.Random
+02:05:29.529    (INFO)     Trx.Start: **** ConnSH637545243296246695System.Random
+02:05:29.529    (INFO)     Trx.Commit: **C** ConnSH637545243296246695System.Random
+02:07:13.713    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:07:13.713    (INFO)     Trx.Start: **** ConnSH637545244332965692System.Random
+02:07:13.713    (INFO)     Trx.Commit: **C** ConnSH637545244332965692System.Random
+02:07:13.713    (INFO)     MChangeLog.FillChangeLog: #9
+02:07:13.713    (INFO)     Trx.Start: **** ConnSH637545244333077751System.Random
+02:07:13.713    (INFO)     Trx.Commit: **C** ConnSH637545244333077751System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-00001: unique constraint (VIENNAADVANTAGE.PK1000829) violated
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00001: unique constraint (VIENNAADVANTAGE.PK1000829) violated
+----------->     (WARNING)  GenericPO.DataSavePO: Not insertedVAHRUAE_HR_AttendanceRule
+02:07:26.726    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:07:26.726    (INFO)     Trx.Start: **** ConnSH637545244468806230System.Random
+02:07:26.726    (INFO)     Trx.Commit: **C** ConnSH637545244468806230System.Random
+02:07:26.726    (INFO)     Trx.Start: **** ConnSH637545244468851920System.Random
+02:07:26.726    (INFO)     Trx.Commit: **C** ConnSH637545244468851920System.Random
+02:08:04.840    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:08:04.840    (INFO)     Trx.Start: **** ConnSH637545244845427432System.Random
+02:08:04.840    (INFO)     Trx.Commit: **C** ConnSH637545244845427432System.Random
+02:08:04.840    (INFO)     Trx.Start: **** ConnSH637545244845490074System.Random
+02:08:04.840    (INFO)     Trx.Commit: **C** ConnSH637545244845490074System.Random
+02:08:40.840    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:08:40.840    (INFO)     Trx.Start: **** ConnSH637545245205795711System.Random
+02:08:40.840    (INFO)     Trx.Commit: **C** ConnSH637545245205795711System.Random
+02:08:40.840    (INFO)     Trx.Start: **** ConnSH637545245205840466System.Random
+02:08:40.840    (INFO)     Trx.Commit: **C** ConnSH637545245205840466System.Random
+02:09:13.913    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:09:13.913    (INFO)     Trx.Start: **** ConnSH637545245534541901System.Random
+02:09:13.913    (INFO)     Trx.Commit: **C** ConnSH637545245534541901System.Random
+02:09:13.913    (INFO)     Trx.Start: **** ConnSH637545245534591552System.Random
+02:09:13.913    (INFO)     Trx.Commit: **C** ConnSH637545245534591552System.Random
+02:09:59.959    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:09:59.959    (INFO)     Trx.Start: **** ConnSH637545245993366868System.Random
+02:09:59.959    (INFO)     Trx.Commit: **C** ConnSH637545245993366868System.Random
+02:09:59.959    (INFO)     Trx.Start: **** ConnSH637545245993416847System.Random
+02:09:59.959    (INFO)     Trx.Commit: **C** ConnSH637545245993416847System.Random
+02:10:02.102    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:10:02.102    (INFO)     Trx.Start: **** ConnSH637545246029868961System.Random
+02:10:02.102    (INFO)     Trx.Commit: **C** ConnSH637545246029868961System.Random
+02:10:36.103    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:10:36.103    (INFO)     Trx.Start: **** ConnSH637545246366680461System.Random
+02:10:36.103    (INFO)     Trx.Commit: **C** ConnSH637545246366680461System.Random
+02:10:36.103    (INFO)     Trx.Start: **** ConnSH637545246366723837System.Random
+02:10:36.103    (INFO)     Trx.Commit: **C** ConnSH637545246366723837System.Random
+02:11:07.117    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:11:07.117    (INFO)     Trx.Start: **** ConnSH637545246671322509System.Random
+02:11:07.117    (INFO)     Trx.Commit: **C** ConnSH637545246671322509System.Random
+02:11:07.117    (INFO)     Trx.Start: **** ConnSH637545246671372658System.Random
+02:11:07.117    (INFO)     Trx.Commit: **C** ConnSH637545246671372658System.Random
+02:11:32.113    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:11:32.113    (INFO)     Trx.Start: **** ConnSH637545246922193097System.Random
+02:11:32.113    (INFO)     Trx.Commit: **C** ConnSH637545246922193097System.Random
+02:11:32.113    (INFO)     Trx.Start: **** ConnSH637545246922242715System.Random
+02:11:32.113    (INFO)     Trx.Commit: **C** ConnSH637545246922242715System.Random
+02:11:51.115    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:11:51.115    (INFO)     Trx.Start: **** ConnSH637545247117322004System.Random
+02:11:51.115    (INFO)     Trx.Commit: **C** ConnSH637545247117322004System.Random
+02:11:51.115    (INFO)     Trx.Start: **** ConnSH637545247117364526System.Random
+02:11:51.115    (INFO)     Trx.Commit: **C** ConnSH637545247117364526System.Random
+02:12:33.123    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:12:33.123    (INFO)     Trx.Start: **** ConnSH637545247532511787System.Random
+02:12:33.123    (INFO)     Trx.Commit: **C** ConnSH637545247532511787System.Random
+02:12:33.123    (INFO)     Trx.Start: **** ConnSH637545247532552134System.Random
+02:12:33.123    (INFO)     Trx.Commit: **C** ConnSH637545247532552134System.Random
+02:13:10.131    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:13:10.131    (INFO)     Trx.Start: **** ConnSH637545247906542143System.Random
+02:13:10.131    (INFO)     Trx.Commit: **C** ConnSH637545247906542143System.Random
+02:13:10.131    (INFO)     Trx.Start: **** ConnSH637545247906586130System.Random
+02:13:10.131    (INFO)     Trx.Commit: **C** ConnSH637545247906586130System.Random
+02:13:39.133    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:13:39.133    (INFO)     Trx.Start: **** ConnSH637545248192491221System.Random
+02:13:39.133    (INFO)     Trx.Commit: **C** ConnSH637545248192491221System.Random
+02:13:39.133    (INFO)     Trx.Start: **** ConnSH637545248192540589System.Random
+02:13:39.133    (INFO)     Trx.Commit: **C** ConnSH637545248192540589System.Random
+02:13:43.134    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:13:43.134    (INFO)     Trx.Start: **** ConnSH637545248230426550System.Random
+02:13:43.134    (INFO)     Trx.Commit: **C** ConnSH637545248230426550System.Random
+02:14:27.142    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:14:27.142    (INFO)     Trx.Start: **** ConnSH637545248672833242System.Random
+02:14:27.142    (INFO)     Trx.Commit: **C** ConnSH637545248672833242System.Random
+02:14:27.142    (INFO)     Trx.Start: **** ConnSH637545248672884846System.Random
+02:14:27.142    (INFO)     Trx.Commit: **C** ConnSH637545248672884846System.Random
+02:15:02.152    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:15:02.152    (INFO)     Trx.Start: **** ConnSH637545249023852732System.Random
+02:15:02.152    (INFO)     Trx.Commit: **C** ConnSH637545249023852732System.Random
+02:15:02.152    (INFO)     Trx.Start: **** ConnSH637545249023902734System.Random
+02:15:02.152    (INFO)     Trx.Commit: **C** ConnSH637545249023902734System.Random
+02:15:36.153    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:15:36.153    (INFO)     Trx.Start: **** ConnSH637545249362552201System.Random
+02:15:36.153    (INFO)     Trx.Commit: **C** ConnSH637545249362552201System.Random
+02:15:36.153    (INFO)     Trx.Start: **** ConnSH637545249362601643System.Random
+02:15:36.153    (INFO)     Trx.Commit: **C** ConnSH637545249362601643System.Random
+02:16:13.161    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+02:16:13.161    (INFO)     Trx.Start: **** ConnSH637545249736235104System.Random

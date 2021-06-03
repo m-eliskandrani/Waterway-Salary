@@ -1,0 +1,12 @@
+*** 4/4/2020 4:13:40 PM VAdvantage Log  ***
+04:13:40.134    (INFO)     Trx.Start: **** ConnSH637216136203784437System.Random
+04:13:40.134    (INFO)     Trx.Commit: **C** ConnSH637216136203784437System.Random
+04:19:09.199    (INFO)     MSession.Logout: 06:36:07.844
+----------->     (WARNING)  MSession.Get: Session Processed=X_AD_Session[1001513]
+04:19:09.199    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+04:19:10.191    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+04:19:10.191    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=100, Editable=False, OnClient=True
+04:19:10.191    (INFO)     Trx.Start: **** ConnSH637216139503142070System.Random
+04:19:10.191    (INFO)     Trx.Commit: **C** ConnSH637216139503142070System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 100  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 100 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('4/03/20','mm/dd/yy') and to_date('4/11/20 23.59','mm/dd/yy HH24:MI')   OR  to_date('4/04/20','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=100 AND AppointmentsInfo.AD_User_ID  = 100)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy

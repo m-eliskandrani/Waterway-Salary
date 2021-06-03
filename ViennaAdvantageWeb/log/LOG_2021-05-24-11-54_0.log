@@ -1,0 +1,14 @@
+*** 5/24/2021 12:00:57 PM VAdvantage Log  ***
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AD_Note
+                           , AD_Message
+                            ON AD_Message.AD_Message_ID         =AD_Note.AD_Message_ID
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AD_Note
+                           , AD_Message
+                            ON AD_Message.AD_Message_ID         =AD_Note.AD_Message_ID
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AD_Note
+                           , AD_Message
+                            ON AD_Message.AD_Message_ID         =AD_Note.AD_Message_ID
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AD_Note
+                           , AD_Message
+                            ON AD_Message.AD_Message_ID         =AD_Note.AD_Message_ID
+*** 5/24/2021 4:18:03 PM VAdvantage Log ***

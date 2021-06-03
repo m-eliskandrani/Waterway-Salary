@@ -1,0 +1,12 @@
+*** 5/15/2021 1:24:51 PM VAdvantage Log  ***
+01:24:51.245    (INFO)     Trx.Start: **** ConnSH637566818915183699System.Random
+01:24:51.245    (INFO)     Trx.Commit: **C** ConnSH637566818915183699System.Random
+01:24:51.245    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20 => ORA-01756: quoted string not properly terminated
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT VAHRUAE_HR_PenalityDetails_ID FROM VAHRUAE_HR_PenalityDetails WHERE VAHRUAE_HR_Penality_ID = 1000006VAHRUAE_Line >187ORDER BY VAHRUAE_Line ASC
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT VAHRUAE_HR_PenalityDetails_ID FROM VAHRUAE_HR_PenalityDetails WHERE VAHRUAE_HR_Penality_ID = 1000006VAHRUAE_Line >187ORDER BY VAHRUAE_Line ASC
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_PenalityDetails_ID FROM VAHRUAE_HR_PenalityDetails WHERE VAHRUAE_HR_Penality_ID = 1000006VAHRUAE_Line >187ORDER BY VAHRUAE_Line ASC => ORA-00933: SQL command not properly ended
+===========>     (SEVERE)   OracleHelper.ExecuteReader: The handle is invalid.
+ [Query DR] SELECT VAHRUAE_HR_PenalityDetails_ID FROM VAHRUAE_HR_PenalityDetails WHERE VAHRUAE_HR_Penality_ID = 1000006VAHRUAE_Line >187ORDER BY VAHRUAE_Line ASC

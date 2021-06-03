@@ -1,0 +1,49 @@
+*** 4/15/2021 9:44:21 AM VAdvantage Log  ***
+09:44:21.442    (INFO)     Trx.Start: **** ConnSH637540766617025957System.Random
+09:44:21.442    (INFO)     Trx.Commit: **C** ConnSH637540766617025957System.Random
+09:44:21.442    (INFO)     MChangeLog.FillChangeLog: #9
+09:44:22.442    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:44:57.445    (INFO)     Trx.Start: **** ConnSH637540766978920035System.Random
+09:44:57.445    (INFO)     Trx.Commit: **C** ConnSH637540766978920035System.Random
+09:44:57.445    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:45:06.456    (INFO)     Trx.Start: **** ConnSH637540767065748995System.Random
+09:45:06.456    (INFO)     Trx.Commit: **C** ConnSH637540767065748995System.Random
+09:45:06.456    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:45:28.452    (INFO)     Trx.Start: **** ConnSH637540767285971764System.Random
+09:45:28.452    (INFO)     Trx.Commit: **C** ConnSH637540767285971764System.Random
+09:45:28.452    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:50:52.505    (INFO)     Trx.Start: **** ConnSH637540770520766413System.Random
+09:50:52.505    (INFO)     Trx.Commit: **C** ConnSH637540770520766413System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME => ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier
+09:50:55.505    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:51:26.512    (INFO)     Trx.Start: **** ConnSH637540770860020789System.Random
+09:51:26.512    (INFO)     Trx.Commit: **C** ConnSH637540770860020789System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME => ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier
+09:51:26.512    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:51:35.513    (INFO)     Trx.Start: **** ConnSH637540770953678562System.Random
+09:51:35.513    (INFO)     Trx.Commit: **C** ConnSH637540770953678562System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME => ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier
+09:51:35.513    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:51:41.514    (INFO)     Trx.Start: **** ConnSH637540771014517484System.Random
+09:51:41.514    (INFO)     Trx.Commit: **C** ConnSH637540771014517484System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME => ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier
+09:51:41.514    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:51:49.514    (INFO)     Trx.Start: **** ConnSH637540771090326790System.Random
+09:51:49.514    (INFO)     Trx.Commit: **C** ConnSH637540771090326790System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME => ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier
+09:51:49.514    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:51:56.515    (INFO)     Trx.Start: **** ConnSH637540771167691669System.Random
+09:51:56.515    (INFO)     Trx.Commit: **C** ConnSH637540771167691669System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT vahruae_hr_empattendancelog_ID FROM vahruae_hr_empattendancelog WHERE vahruae_enroll_id = 1006730 AND VAHRUAE_ACTUALINTIME >= '20-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-MAR-20' AND VAHRUAE_ATTMARKED = 'N' ORDER BY VAHRUAE_ACTUALINTIME => ORA-00904: "VAHRUAE_ACTUALINTIME": invalid identifier

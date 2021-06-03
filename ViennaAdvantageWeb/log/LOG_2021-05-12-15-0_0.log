@@ -1,0 +1,11 @@
+*** 5/12/2021 3:01:03 PM VAdvantage Log  ***
+03:01:03.130    (INFO)     Trx.Start: **** ConnSH637564284630527840System.Random
+03:01:03.130    (INFO)     Trx.Commit: **C** ConnSH637564284630527840System.Random
+03:01:03.130    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT VAHRUAE_EmployeCompensation_ID FROM VAHRUAE_EmployeCompensation WHERE C_BPARTNER_ID =  1006732VAHRUAE_COMPENSATIONMASTER_ID = 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT VAHRUAE_EmployeCompensation_ID FROM VAHRUAE_EmployeCompensation WHERE C_BPARTNER_ID =  1006732VAHRUAE_COMPENSATIONMASTER_ID = 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EmployeCompensation_ID FROM VAHRUAE_EmployeCompensation WHERE C_BPARTNER_ID =  1006732VAHRUAE_COMPENSATIONMASTER_ID = 1000010 => ORA-00933: SQL command not properly ended
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT VAHRUAE_EmployeCompensation_ID FROM VAHRUAE_EmployeCompensation WHERE C_BPARTNER_ID =  1006732VAHRUAE_COMPENSATIONMASTER_ID = 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT VAHRUAE_EmployeCompensation_ID FROM VAHRUAE_EmployeCompensation WHERE C_BPARTNER_ID =  1006732VAHRUAE_COMPENSATIONMASTER_ID = 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EmployeCompensation_ID FROM VAHRUAE_EmployeCompensation WHERE C_BPARTNER_ID =  1006732VAHRUAE_COMPENSATIONMASTER_ID = 1000010 => ORA-00933: SQL command not properly ended
+===========>     (SEVERE)   CalculateSalaries.StartProcess: Object reference not set to an instance of an object.

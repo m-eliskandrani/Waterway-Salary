@@ -1,0 +1,21 @@
+*** 5/26/2021 11:29:59 AM VAdvantage Log  ***
+11:29:59.295    (INFO)     Trx.Start: **** ConnSH637576253990942697System.Random
+11:29:59.295    (INFO)     Trx.Commit: **C** ConnSH637576253990942697System.Random
+11:29:59.295    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006736AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-JUN-21 => ORA-01756: quoted string not properly terminated
+11:29:59.295    (INFO)     Trx.Start: **** ConnSH637576253992992680System.Random
+11:29:59.295    (INFO)     Trx.Commit: **C** ConnSH637576253992992680System.Random
+11:29:59.295    (INFO)     Trx.Start: **** ConnSH637576253993092700System.Random
+11:29:59.295    (INFO)     Trx.Commit: **C** ConnSH637576253993092700System.Random
+11:29:59.295    (INFO)     Trx.Start: **** ConnDDH637576253993232703System.Random
+11:29:59.295    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637576253993232703System.Random 57
+11:29:59.295    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637576253993232703System.Random 57
+11:29:59.295    (INFO)     Trx.Commit: **C** ConnDDH637576253993232703System.Random
+11:29:59.295    (INFO)     Trx.Start: **** ConnSH637576253994792694System.Random
+11:29:59.295    (INFO)     Trx.Commit: **C** ConnSH637576253994792694System.Random
+11:29:59.295    (INFO)     Trx.Start: **** ConnSH637576253996372694System.Random
+11:29:59.295    (INFO)     Trx.Commit: **C** ConnSH637576253996372694System.Random
+===========>     (SEVERE)   CalculateSalaries.StartProcess: Index was outside the bounds of the array.
+11:32:36.323    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)

@@ -1,0 +1,5 @@
+*** 4/20/2021 11:55:34 AM VAdvantage Log  ***
+11:55:34.553    (INFO)     Trx.Start: **** ConnSH637545165342887774System.Random
+11:55:34.553    (INFO)     Trx.Commit: **C** ConnSH637545165342887774System.Random
+11:55:34.553    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   WaterwaySvcGoogleCalendarAPI.StartProcess: Nullable object must have a value.

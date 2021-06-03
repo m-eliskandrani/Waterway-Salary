@@ -1,0 +1,51 @@
+*** 4/14/2021 9:11:23 AM VAdvantage Log  ***
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+09:11:23.112    (INFO)     Trx.Start: **** ConnSH637539882836704116System.Random
+09:11:23.112    (INFO)     Trx.Commit: **C** ConnSH637539882836704116System.Random
+09:11:24.112    (INFO)     Trx.Start: **** ConnSH637539882842144052System.Random
+09:11:24.112    (INFO)     Trx.Commit: **C** ConnSH637539882842144052System.Random
+09:11:31.113    (INFO)     Trx.Start: **** ConnSH637539882914107984System.Random
+09:11:31.113    (INFO)     Trx.Commit: **C** ConnSH637539882914107984System.Random
+09:11:35.113    (INFO)     Trx.Start: **** ConnSH637539882956135020System.Random
+09:11:35.113    (INFO)     Trx.Commit: **C** ConnSH637539882956135020System.Random
+09:11:46.114    (INFO)     Trx.Start: **** ConnSH637539883061250396System.Random
+09:11:46.114    (INFO)     Trx.Commit: **C** ConnSH637539883061250396System.Random
+09:12:11.121    (INFO)     MChangeLog.FillChangeLog: #9
+09:12:11.121    (INFO)     Trx.Start: **** ConnSH637539883310139182System.Random
+09:12:11.121    (INFO)     Trx.Commit: **C** ConnSH637539883310139182System.Random
+09:12:11.121    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+09:12:19.121    (INFO)     Trx.Start: **** ConnSH637539883394758819System.Random
+09:12:19.121    (INFO)     Trx.Commit: **C** ConnSH637539883394758819System.Random
+09:12:19.121    (INFO)     ColumnSync.DoIt: C_Column_ID=1021994
+09:12:19.121    (INFO)     Trx.Start: **** SvrProcess
+09:12:19.121    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_HR_PenalityDetails ADD C_BPartner_ID NUMBER(10)
+===========>     (SEVERE)   OracleHelper.ExecuteNonQuery: ORA-02250: missing or invalid constraint name [Query NQTrx]ALTER TABLE VAHRUAE_HR_PenalityDetails DROP CONSTRAINT 
+===========>     (SEVERE)   DB.ExecuteQuery: SvrProcess => ORA-02250: missing or invalid constraint name
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-02250: missing or invalid constraint name
+09:12:21.122    (INFO)     ColumnSync.AddLog: 0 -  - -1 - ALTER TABLE VAHRUAE_HR_PenalityDetails DROP CONSTRAINT 
+09:12:21.122    (INFO)     Trx.Commit: **C** SvrProcess

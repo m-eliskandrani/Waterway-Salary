@@ -1,0 +1,101 @@
+*** 4/15/2021 11:36:06 AM VAdvantage Log  ***
+11:36:06.366    (INFO)     Trx.Start: **** ConnSH637540833662045851System.Random
+11:36:06.366    (INFO)     Trx.Commit: **C** ConnSH637540833662045851System.Random
+11:36:06.366    (INFO)     MChangeLog.FillChangeLog: #9
+11:36:06.366    (INFO)     Trx.Start: **** ConnSH637540833662614197System.Random
+11:36:06.366    (INFO)     Trx.Commit: **C** ConnSH637540833662614197System.Random
+11:36:06.366    (INFO)     Trx.Start: **** ConnSH637540833662734194System.Random
+11:36:06.366    (INFO)     Trx.Commit: **C** ConnSH637540833662734194System.Random
+11:36:06.366    (INFO)     Trx.Start: **** ConnSH637540833663383371System.Random
+11:36:06.366    (INFO)     Trx.Commit: **C** ConnSH637540833663383371System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."VAHRUAE_MONTHLYATTENDANCE_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_MTHATTENDDETAIL"."VAHRUAE_MONTHLYATTENDANCE_ID")
+----------->     (WARNING)  X_VAHRUAE_MthAttendDetail.DoIt: Not insertedVAHRUAE_MthAttendDetail
+===========>     (SEVERE)   CalculatePenalties.StartProcess: help
+11:36:16.361    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:38:34.383    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+11:38:34.383    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+11:38:34.383    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=100, Editable=False, OnClient=True
+11:38:34.383    (INFO)     Trx.Start: **** ConnSH637540835149671276System.Random
+11:38:34.383    (INFO)     Trx.Commit: **C** ConnSH637540835149671276System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 100  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 100 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('4/14/21','mm/dd/yy') and to_date('4/22/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('4/15/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=100 AND AppointmentsInfo.AD_User_ID  = 100)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+11:38:39.383    (INFO)     Trx.Start: **** ConnSH637540835195640501System.Random
+11:38:39.383    (INFO)     Trx.Commit: **C** ConnSH637540835195640501System.Random
+11:38:39.383    (INFO)     Trx.Start: **** ConnSH637540835195840173System.Random
+11:38:39.383    (INFO)     Trx.Commit: **C** ConnSH637540835195840173System.Random
+11:38:39.383    (INFO)     Trx.Start: **** ConnSH637540835195939194System.Random
+11:38:39.383    (INFO)     Trx.Commit: **C** ConnSH637540835195939194System.Random
+11:38:39.383    (INFO)     Trx.Start: **** ConnSH637540835196630786System.Random
+11:38:39.383    (INFO)     Trx.Commit: **C** ConnSH637540835196630786System.Random
+11:38:39.383    (INFO)     Trx.Start: **** ConnSH637540835197699780System.Random
+11:38:39.383    (INFO)     Trx.Commit: **C** ConnSH637540835197699780System.Random
+11:38:39.383    (INFO)     Trx.Start: **** ConnSH637540835198420490System.Random
+11:38:39.383    (INFO)     Trx.Commit: **C** ConnSH637540835198420490System.Random
+11:38:39.383    (INFO)     Trx.Start: **** ConnSH637540835199088434System.Random
+11:38:39.383    (INFO)     Trx.Commit: **C** ConnSH637540835199088434System.Random
+11:38:39.383    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:44:53.445    (INFO)     Trx.Start: **** ConnSH637540838934253314System.Random
+11:44:53.445    (INFO)     Trx.Commit: **C** ConnSH637540838934253314System.Random
+11:44:53.445    (INFO)     Trx.Start: **** ConnSH637540838934441605System.Random
+11:44:53.445    (INFO)     Trx.Commit: **C** ConnSH637540838934441605System.Random
+11:44:53.445    (INFO)     Trx.Start: **** ConnSH637540838934524435System.Random
+11:44:53.445    (INFO)     Trx.Commit: **C** ConnSH637540838934524435System.Random
+11:44:53.445    (INFO)     Trx.Start: **** ConnSH637540838935191095System.Random
+11:44:53.445    (INFO)     Trx.Commit: **C** ConnSH637540838935191095System.Random
+11:44:53.445    (INFO)     Trx.Start: **** ConnSH637540838935903756System.Random
+11:44:53.445    (INFO)     Trx.Commit: **C** ConnSH637540838935903756System.Random
+11:44:53.445    (INFO)     Trx.Start: **** ConnSH637540838936644038System.Random
+11:44:53.445    (INFO)     Trx.Commit: **C** ConnSH637540838936644038System.Random
+11:44:53.445    (INFO)     Trx.Start: **** ConnSH637540838937353707System.Random
+11:44:53.445    (INFO)     Trx.Commit: **C** ConnSH637540838937353707System.Random
+11:44:53.445    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:45:16.451    (INFO)     Trx.Start: **** ConnSH637540839160075712System.Random
+11:45:16.451    (INFO)     Trx.Commit: **C** ConnSH637540839160075712System.Random
+11:45:16.451    (INFO)     Trx.Start: **** ConnSH637540839160243606System.Random
+11:45:16.451    (INFO)     Trx.Commit: **C** ConnSH637540839160243606System.Random
+11:45:16.451    (INFO)     Trx.Start: **** ConnSH637540839160323781System.Random
+11:45:16.451    (INFO)     Trx.Commit: **C** ConnSH637540839160323781System.Random
+11:45:16.451    (INFO)     Trx.Start: **** ConnSH637540839160978749System.Random
+11:45:16.451    (INFO)     Trx.Commit: **C** ConnSH637540839160978749System.Random
+11:45:16.451    (INFO)     Trx.Start: **** ConnSH637540839161672466System.Random
+11:45:16.451    (INFO)     Trx.Commit: **C** ConnSH637540839161672466System.Random
+11:45:16.451    (INFO)     Trx.Start: **** ConnSH637540839162392984System.Random
+11:45:16.451    (INFO)     Trx.Commit: **C** ConnSH637540839162392984System.Random
+11:45:16.451    (INFO)     Trx.Start: **** ConnSH637540839163032994System.Random
+11:45:16.451    (INFO)     Trx.Commit: **C** ConnSH637540839163032994System.Random
+11:45:16.451    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:47:20.472    (INFO)     Trx.Start: **** ConnSH637540840407344927System.Random
+11:47:20.472    (INFO)     Trx.Commit: **C** ConnSH637540840407344927System.Random
+11:47:20.472    (INFO)     Trx.Start: **** ConnSH637540840408135504System.Random
+11:47:20.472    (INFO)     Trx.Commit: **C** ConnSH637540840408135504System.Random
+11:47:20.472    (INFO)     Trx.Start: **** ConnSH637540840408877405System.Random
+11:47:20.472    (INFO)     Trx.Commit: **C** ConnSH637540840408877405System.Random
+11:47:20.472    (INFO)     Trx.Start: **** ConnSH637540840409607423System.Random
+11:47:20.472    (INFO)     Trx.Commit: **C** ConnSH637540840409607423System.Random
+11:47:21.472    (INFO)     Trx.Start: **** ConnSH637540840410240640System.Random
+11:47:21.472    (INFO)     Trx.Commit: **C** ConnSH637540840410240640System.Random
+11:47:21.472    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:47:39.473    (INFO)     Trx.Start: **** ConnSH637540840595550630System.Random
+11:47:39.473    (INFO)     Trx.Commit: **C** ConnSH637540840595550630System.Random
+11:47:39.473    (INFO)     Trx.Start: **** ConnSH637540840596327144System.Random
+11:47:39.473    (INFO)     Trx.Commit: **C** ConnSH637540840596327144System.Random
+11:47:39.473    (INFO)     Trx.Start: **** ConnSH637540840597062359System.Random
+11:47:39.473    (INFO)     Trx.Commit: **C** ConnSH637540840597062359System.Random
+11:47:39.473    (INFO)     Trx.Start: **** ConnSH637540840597795620System.Random
+11:47:39.473    (INFO)     Trx.Commit: **C** ConnSH637540840597795620System.Random
+11:47:39.473    (INFO)     Trx.Start: **** ConnSH637540840598453724System.Random
+11:47:39.473    (INFO)     Trx.Commit: **C** ConnSH637540840598453724System.Random
+11:47:39.473    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:48:25.482    (INFO)     Trx.Start: **** ConnSH637540841057174692System.Random
+11:48:25.482    (INFO)     Trx.Commit: **C** ConnSH637540841057174692System.Random
+11:48:25.482    (INFO)     CacheReset.DoIt: 
+11:48:25.482    (INFO)     Env.Reset: finalCall=False
+11:48:25.482    (INFO)     CacheMgt.Reset: #18 (4388)
+11:48:25.482    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=0, reload=True
+11:48:25.482    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+11:48:25.482    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+11:48:25.482    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+11:48:25.482    (INFO)     MChangeLog.FillChangeLog: #9
+11:48:25.482    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:48:27.482    (INFO)     Trx.Start: **** ConnSH637540841076183400System.Random

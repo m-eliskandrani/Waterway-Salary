@@ -1,0 +1,223 @@
+*** 5/15/2021 7:03:36 PM VAdvantage Log  ***
+07:03:36.336    (INFO)     Trx.Start: **** ConnSH637567022161704289System.Random
+07:03:36.336    (INFO)     Trx.Commit: **C** ConnSH637567022161704289System.Random
+07:03:36.336    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20 => ORA-01756: quoted string not properly terminated
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022218133399System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022218133399System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022218267895System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022218267895System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022218417773System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022218417773System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022218568132System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022218568132System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022218677794System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022218677794System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022218807811System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022218807811System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022218928620System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022218928620System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022219049932System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022219049932System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022219160238System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022219160238System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022219290284System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022219290284System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022219410036System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022219410036System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022219537007System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022219537007System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022219658516System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022219658516System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022219768629System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022219768629System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022219878660System.Random
+07:03:41.341    (INFO)     Trx.Commit: **C** ConnSH637567022219878660System.Random
+07:03:41.341    (INFO)     Trx.Start: **** ConnSH637567022219978906System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022219978906System.Random
+07:03:42.342    (INFO)     Trx.Start: **** ConnSH637567022220088849System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022220088849System.Random
+07:03:42.342    (INFO)     Trx.Start: **** ConnSH637567022220208622System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022220208622System.Random
+07:03:42.342    (INFO)     Trx.Start: **** ConnSH637567022220328612System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022220328612System.Random
+07:03:42.342    (INFO)     Trx.Start: **** ConnSH637567022220438960System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022220438960System.Random
+07:03:42.342    (INFO)     Trx.Start: **** ConnSH637567022220548630System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022220548630System.Random
+07:03:42.342    (INFO)     Trx.Start: **** ConnSH637567022220668637System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022220668637System.Random
+07:03:42.342    (INFO)     Trx.Start: **** ConnSH637567022220788607System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022220788607System.Random
+07:03:42.342    (INFO)     Trx.Start: **** ConnSH637567022220904551System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022220904551System.Random
+07:03:42.342    (INFO)     Trx.Start: **** ConnSH637567022221004834System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022221004834System.Random
+07:03:42.342    (INFO)     Trx.Start: **** ConnSH637567022221124828System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022221124828System.Random
+07:03:42.342    (INFO)     Trx.Start: **** ConnSH637567022221225080System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022221225080System.Random
+07:03:42.342    (INFO)     Trx.Start: **** ConnSH637567022221334807System.Random
+07:03:42.342    (INFO)     Trx.Commit: **C** ConnSH637567022221334807System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < -4200C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < -4200C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   PO.calculateTax: SELECT C_TAX_ID FROM C_TAX WHERE Line < -4200C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC => ORA-00933: SQL command not properly ended
+07:03:47.347    (INFO)     Trx.Start: **** ConnSH637567022275614603System.Random
+07:03:47.347    (INFO)     Trx.Commit: **C** ConnSH637567022275614603System.Random
+07:03:47.347    (INFO)     Trx.Start: **** ConnDDH637567022275764575System.Random
+07:03:47.347    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637567022275764575System.Random 7
+07:03:47.347    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637567022275764575System.Random 7
+07:03:47.347    (INFO)     Trx.Commit: **C** ConnDDH637567022275764575System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: Not insertedVAHRUAE_Vss_EmpMthSalary
+07:03:47.347    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+07:05:39.539    (INFO)     Trx.Start: **** ConnSH637567023393487665System.Random
+07:05:39.539    (INFO)     Trx.Commit: **C** ConnSH637567023393487665System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20 => ORA-01756: quoted string not properly terminated
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024055873720System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024055873720System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024055983673System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024055983673System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024056093914System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024056093914System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024056192913System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024056192913System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024056293258System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024056293258System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024056393039System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024056393039System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024056499611System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024056499611System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024056589620System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024056589620System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024056709856System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024056709856System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024056829641System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024056829641System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024056949603System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024056949603System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024057049415System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024057049415System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024057169492System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024057169492System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024057284127System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024057284127System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024057391582System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024057391582System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024057485400System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024057485400System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024057585403System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024057585403System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024057686108System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024057686108System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024057796202System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024057796202System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024057906217System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024057906217System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024058015109System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024058015109System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024058125116System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024058125116System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024058235118System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024058235118System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024058325442System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024058325442System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024058417504System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024058417504System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024058517485System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024058517485System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024058617248System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024058617248System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024058687264System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024058687264System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < -4200C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < -4200C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   PO.calculateTax: SELECT C_TAX_ID FROM C_TAX WHERE Line < -4200C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC => ORA-00933: SQL command not properly ended
+07:06:45.645    (INFO)     Trx.Start: **** ConnSH637567024058826992System.Random
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnSH637567024058826992System.Random
+07:06:45.645    (INFO)     Trx.Start: **** ConnDDH637567024058902401System.Random
+07:06:45.645    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637567024058902401System.Random 6
+07:06:45.645    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637567024058902401System.Random 6
+07:06:45.645    (INFO)     Trx.Commit: **C** ConnDDH637567024058902401System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: Not insertedVAHRUAE_Vss_EmpMthSalary
+07:06:45.645    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+07:07:05.750    (INFO)     Trx.Start: **** ConnSH637567024256036999System.Random
+07:07:05.750    (INFO)     Trx.Commit: **C** ConnSH637567024256036999System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20 => ORA-01756: quoted string not properly terminated
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028425442487System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028425442487System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028425702540System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028425702540System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028425812513System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028425812513System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028425922841System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028425922841System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028426032838System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028426032838System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028426142513System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028426142513System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028426252855System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028426252855System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028426352488System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028426352488System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028426462493System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028426462493System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028426572509System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028426572509System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028426662481System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028426662481System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028426802514System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028426802514System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028426972515System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028426972515System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028427092547System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028427092547System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028427262523System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028427262523System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028427382513System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028427382513System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028427512493System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028427512493System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028427622500System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028427622500System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028427752484System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028427752484System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028427882492System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028427882492System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028428002502System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028428002502System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028428172538System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028428172538System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028428282520System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028428282520System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028428412482System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028428412482System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028428562498System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028428562498System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028428702515System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028428702515System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028428862505System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028428862505System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028428952511System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028428952511System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < -4200C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < -4200C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   PO.calculateTax: SELECT C_TAX_ID FROM C_TAX WHERE Line < -4200C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC => ORA-00933: SQL command not properly ended
+07:14:02.142    (INFO)     Trx.Start: **** ConnSH637567028429082838System.Random
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnSH637567028429082838System.Random
+07:14:02.142    (INFO)     Trx.Start: **** ConnDDH637567028429152787System.Random
+07:14:02.142    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637567028429152787System.Random 40
+07:14:02.142    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637567028429152787System.Random 40
+07:14:02.142    (INFO)     Trx.Commit: **C** ConnDDH637567028429152787System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: Not insertedVAHRUAE_Vss_EmpMthSalary

@@ -1,0 +1,3 @@
+*** 4/7/2021 10:22:27 AM VAdvantage Log  ***
+===========>     (SEVERE)   GridWindowVO.CreateTabs: No Tabs - AD_Window_ID=111 - SELECT * FROM AD_Tab_v WHERE AD_Window_ID=@windowID ORDER BY SeqNo
+===========>     (SEVERE)   GridWindowVO.CreateTabs: No Tabs - AD_Window_ID=100 - SELECT * FROM AD_Tab_v WHERE AD_Window_ID=@windowID ORDER BY SeqNo

@@ -1,0 +1,5 @@
+*** 4/15/2021 10:46:36 AM VAdvantage Log  ***
+10:46:36.463    (INFO)     Trx.Start: **** ConnSH637540803965909986System.Random
+10:46:36.463    (INFO)     Trx.Commit: **C** ConnSH637540803965909986System.Random
+10:46:36.463    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   CalculatePenalties.StartProcess: Index was outside the bounds of the array.

@@ -1,0 +1,41 @@
+*** 5/14/2021 9:43:53 PM VAdvantage Log  ***
+09:43:53.435    (INFO)     Trx.Start: **** ConnSH637566254338875292System.Random
+09:43:53.435    (INFO)     Trx.Commit: **C** ConnSH637566254338875292System.Random
+09:43:53.435    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21 => ORA-01756: quoted string not properly terminated
+09:43:54.435    (INFO)     Trx.Start: **** ConnSH637566254340361253System.Random
+09:43:54.435    (INFO)     Trx.Commit: **C** ConnSH637566254340361253System.Random
+09:43:54.435    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:44:07.447    (INFO)     Trx.Start: **** ConnSH637566254476480193System.Random
+09:44:07.447    (INFO)     Trx.Commit: **C** ConnSH637566254476480193System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21 => ORA-01756: quoted string not properly terminated
+09:44:07.447    (INFO)     Trx.Start: **** ConnSH637566254477836642System.Random
+09:44:07.447    (INFO)     Trx.Commit: **C** ConnSH637566254477836642System.Random
+09:44:43.444    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:44:45.444    (INFO)     Trx.Start: **** ConnSH637566254859820785System.Random
+09:44:45.444    (INFO)     Trx.Commit: **C** ConnSH637566254859820785System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21 => ORA-01756: quoted string not properly terminated
+09:44:46.444    (INFO)     Trx.Start: **** ConnSH637566254860427409System.Random
+09:44:46.444    (INFO)     Trx.Commit: **C** ConnSH637566254860427409System.Random
+09:45:11.451    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:45:34.453    (INFO)     Trx.Start: **** ConnSH637566255343239393System.Random
+09:45:34.453    (INFO)     Trx.Commit: **C** ConnSH637566255343239393System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21 => ORA-01756: quoted string not properly terminated
+09:45:34.453    (INFO)     Trx.Start: **** ConnSH637566255343807545System.Random
+09:45:34.453    (INFO)     Trx.Commit: **C** ConnSH637566255343807545System.Random
+09:45:40.454    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:45:50.455    (INFO)     Trx.Start: **** ConnSH637566255507879525System.Random
+09:45:50.455    (INFO)     Trx.Commit: **C** ConnSH637566255507879525System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006732AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '21-JUN-21 => ORA-01756: quoted string not properly terminated
+09:45:50.455    (INFO)     Trx.Start: **** ConnSH637566255508622824System.Random
+09:45:50.455    (INFO)     Trx.Commit: **C** ConnSH637566255508622824System.Random

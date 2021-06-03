@@ -1,0 +1,880 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="AD_Window">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="AD_CLIENT_ID" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="AD_COLOR_ID" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="AD_CTXAREA_ID" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="AD_IMAGE_ID" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="AD_ORG_ID" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="AD_WINDOW_ID" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="CREATED" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CREATEDBY" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="DESCRIPTION" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="ENTITYTYPE" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HELP" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="ISACTIVE" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="ISBETAFUNCTIONALITY" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="ISCUSTOMDEFAULT" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="ISDEFAULT" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NAME" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="PROCESSING" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="UPDATED" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="UPDATEDBY" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="WINHEIGHT" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="WINWIDTH" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="WINDOWTYPE" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="ISSOTRX" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="DISPLAYNAME" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="EXPORT_ID" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="ISCOMPOSITEVIEW" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000137</AD_WINDOW_ID>
+    <CREATED>2018-01-08T14:51:42+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Inco term window will be used to create or define the Inco term based on client requirement.</DESCRIPTION>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <HELP>Inco term window will be used to create or define the Inco term based on client requirement.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Inco Term</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-02-18T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Inco Term</DISPLAYNAME>
+    <EXPORT_ID>VIS_1000173</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>240</AD_WINDOW_ID>
+    <CREATED>2002-07-12T05:01:44+03:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Maintain Print Format</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The print format determines how data is rendered for print.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>Y</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Print Format</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>695</WINHEIGHT>
+    <WINWIDTH>922</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Print Format</DISPLAYNAME>
+    <EXPORT_ID>VIS_240</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>337</AD_WINDOW_ID>
+    <CREATED>2001-12-29T07:01:25+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Maintain Price List and Discount Schema</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>Price List schema defines calculation rules for price lists - Discount Schema defines rules for calculating the discount from the list price.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Discount Schema</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Discount Schema</DISPLAYNAME>
+    <EXPORT_ID>VIS_337</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>108</AD_WINDOW_ID>
+    <CREATED>2012-12-01T02:00:00+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Maintain Users of the system </DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The User Window allows you to maintain User of the system.  Users can log into the system and have access to functionality via one or more roles.  A user can also be a business aprtner contact.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>User</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>User Management</DISPLAYNAME>
+    <EXPORT_ID>VIS_108</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000221</AD_WINDOW_ID>
+    <CREATED>2021-05-12T11:33:09+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Attendance Table</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-05-12T11:33:09+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Attendance Table</DISPLAYNAME>
+    <EXPORT_ID>DGM09_1000105</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000202</AD_WINDOW_ID>
+    <CREATED>2013-02-07T15:11:39+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_View Attendance Log</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>1005347</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>T</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME> Attendance Log</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000068</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>160</AD_WINDOW_ID>
+    <CREATED>2000-01-02T15:30:00+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Maintain Withholding Certificates</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The Withholding Window defines the rule used for calculating withholding amounts.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Withholding Tax</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-02-18T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Withholding Tax</DISPLAYNAME>
+    <EXPORT_ID>VIS_160</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>123</AD_WINDOW_ID>
+    <CREATED>2012-12-01T02:00:00+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Maintain Customer</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The CustomerMaster window allows you do define any Accounts with whom you transact. Prior to entering or importing products, you must define your Customer.  Prior to generating Orders you must define your Customer.  This window holds all information about your Accounts and the values entered will be used to generate all document transactions</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Business Partner</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>583</WINHEIGHT>
+    <WINWIDTH>924</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Business Partner</DISPLAYNAME>
+    <EXPORT_ID>VIS_123</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>106</AD_WINDOW_ID>
+    <CREATED>2000-01-02T10:00:00+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Maintain Languages</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The Language Window allows you to define multiple parallel language for users. This allows users to access the same data but have the windows, tabs and fields appear in different languages.
+If a language is a System Language, you can change the User Interface to this language (after translation).  Otherwise the language is only used for printing documents.
+
+For the language code, we suggest using the Java convention of country and language (e.g. fr_CN - Canadian French).
+
+Verify the translation creates missing translation records. Start this process after creating a new language.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Language</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Language</DISPLAYNAME>
+    <EXPORT_ID>VIS_106</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000144</AD_WINDOW_ID>
+    <CREATED>2015-09-21T10:15:23+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Payment Method</DESCRIPTION>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VA009_PaymentMethod</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2019-02-27T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Payment Method</DISPLAYNAME>
+    <EXPORT_ID>VA009_20000160</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>117</AD_WINDOW_ID>
+    <CREATED>2000-01-02T15:30:00+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Maintain Calendars Years Periods</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The Calendar Year and Periods defines the calendars that will be used for period control and reporting. You can also define non-standard calendars (e.g. business year from July to June).</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Calendar Year and Period</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Period Control</DISPLAYNAME>
+    <EXPORT_ID>VIS_117</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>351</AD_WINDOW_ID>
+    <CREATED>2005-05-15T17:24:15+03:00</CREATED>
+    <CREATEDBY>0</CREATEDBY>
+    <DESCRIPTION>Maintain Job Positions</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>Maintain internal (employee) or external positions</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Position</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>0</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Position</DISPLAYNAME>
+    <EXPORT_ID>VIS_351</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>407</AD_WINDOW_ID>
+    <CREATED>2007-09-15T05:12:46+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Maintain Accounting Document Base Types</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The accounting document base type determines how the transaction records are accounted for.  This allows to create custom documents and accounting rules.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Document Base Type</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-02-18T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Master Document Type</DISPLAYNAME>
+    <EXPORT_ID>VIS_407</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>137</AD_WINDOW_ID>
+    <CREATED>2000-01-02T15:30:00+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Maintain Taxes and their Rates</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The Tax Rate Window defines the different taxes used for each tax category.  For example, Sales Tax must be defined for each State in which it applies.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Tax Rate</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-02-18T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Tax Rate</DISPLAYNAME>
+    <EXPORT_ID>VIS_137</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>122</AD_WINDOW_ID>
+    <CREATED>2000-01-02T15:30:00+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Maintain Countries Regions and Cities</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The Countries, Regions and Cities Window defines the different entities that can be used in any address field.  It defines the format of the address as well as associating Regions with Countries and Cities with Regions or Countries. 
+&lt;p&gt;You would define Countries usually only on System level.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Country Region and City</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-02-18T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Country</DISPLAYNAME>
+    <EXPORT_ID>VIS_122</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000183</AD_WINDOW_ID>
+    <CREATED>2013-01-09T16:33:13+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_Compensation Master</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Compensation Master</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000001</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>192</AD_WINDOW_ID>
+    <CREATED>2000-12-18T12:17:06+02:00</CREATED>
+    <CREATEDBY>0</CREATEDBY>
+    <DESCRIPTION>Maintain Customer/Prospect Groups</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The Customer/Prospect Group window allows you to group Customer and Prospects.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Business Partner Group</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Business Partner Group</DISPLAYNAME>
+    <EXPORT_ID>VIS_192</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000146</AD_WINDOW_ID>
+    <CREATED>2013-02-07T20:25:22+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_GOSIRule</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>GOSI Rule</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000058</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000147</AD_WINDOW_ID>
+    <CREATED>2013-02-08T11:53:00+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION> Give comma separated list of salary Compensation FCodes like: BSL,HRA</DESCRIPTION>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_IndemnityRule</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Indemnity Rule</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000059</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>141</AD_WINDOW_ID>
+    <CREATED>2000-01-02T10:00:00+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Maintain Payment Terms</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The Payment Terms Window defines the different payment terms that you offer your Accounts. Each invoice must contain a Payment Term.  </HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Payment Term</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Payment Term</DISPLAYNAME>
+    <EXPORT_ID>VIS_141</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>146</AD_WINDOW_ID>
+    <CREATED>2000-01-02T15:30:00+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Maintain Product Price Lists</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The Price List Window allows you to generate product price lists for your Accounts.  Price lists determine currency and tax treatment.  Price list versions allow to maintain parallel lists for different date ranges.  The most current pricelist version is used based on the document date.
+&lt;BR&gt;
+All pricelists have three prices: List, Standard and Limit
+&lt;BR&gt;
+First step is to create a base price list.  You can manually add products and enter the prices or create them automatically.  The base price list is often the purchase price list with list price ('official' retail price), the standard price (your purchase price).  The limit price can be used to check your final purchase costs after discounts, rebates, etc.
+&lt;BR&gt; 
+Pricelists can be calculated and copied.  To speed up the calculation, the parameters are stored an used when creating a new price list version.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Price List</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Price List</DISPLAYNAME>
+    <EXPORT_ID>VIS_146</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>405</AD_WINDOW_ID>
+    <CREATED>2007-09-12T05:13:15+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>The Return Policy dictates the timeframe within which goods can be returned</DESCRIPTION>
+    <ENTITYTYPE>D</ENTITYTYPE>
+    <HELP>The Return Policy dictates the timeframe within which goods can be returned</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Return Policy</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Return Policy</DISPLAYNAME>
+    <EXPORT_ID>VIS_405</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000191</AD_WINDOW_ID>
+    <CREATED>2013-01-18T16:39:12+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_HolidayMaster</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Holiday Master</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000019</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000178</AD_WINDOW_ID>
+    <CREATED>2013-01-09T16:47:31+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_Employee Leave</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-04-07T07:39:35+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Employee Leave</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000008</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000123</AD_WINDOW_ID>
+    <CREATED>2013-01-09T16:56:58+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>Attendance Log Sheet</DESCRIPTION>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_Attendance Log Sheet</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>1005351</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>T</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Employee Attendance Summary</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000006</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000184</AD_WINDOW_ID>
+    <CREATED>2017-12-29T06:26:41+02:00</CREATED>
+    <CREATEDBY>1005366</CREATEDBY>
+    <DESCRIPTION>Benefit Master</DESCRIPTION>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <HELP>Benefit Master will be used to create the Employee Benefits in Position Category and will be used in Recruitment process.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_EmpBenefit</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>1005366</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Benefit Master</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000222</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000005</AD_WINDOW_ID>
+    <CREATED>2012-12-01T02:00:00+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Employee Master</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Employee Master</DISPLAYNAME>
+    <EXPORT_ID>VIS_1000005</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000188</AD_WINDOW_ID>
+    <CREATED>2013-02-07T15:42:50+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>The Shift consists of one or more preset timetables according to a certain sequence and cycle, and is a preset work schedule. To monitor employee’s time and attendance, you must set shifts first. It allows to enter the details of different work time shift</DESCRIPTION>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <HELP>The Shift consists of one or more preset timetables according to a certain sequence and cycle, and is a preset work schedule. To monitor employee’s time and attendance, you must set shifts first. It allows to enter the details of different work time shift.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>DGM08_Attendance Rule</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-04-06T12:12:41+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Shift</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000063</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000222</AD_WINDOW_ID>
+    <CREATED>2021-05-27T08:19:54+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>Monthly Attendance Salary Module</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-05-27T08:19:54+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Monthly Attendance Salary Module</DISPLAYNAME>
+    <EXPORT_ID>DGM09_1000106</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000182</AD_WINDOW_ID>
+    <CREATED>2013-01-09T16:40:07+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DESCRIPTION>This window is used to calculate the employee monthly compensation.</DESCRIPTION>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <HELP>This window is used to calculate the employee monthly compensation.</HELP>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_MonthlySalary</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>1005347</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>T</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Monthly Salary</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000012</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000199</AD_WINDOW_ID>
+    <CREATED>2013-05-29T17:45:44+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_OvertimeMaster</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Overtime Master</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000090</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000212</AD_WINDOW_ID>
+    <CREATED>2013-01-09T16:44:35+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_Employee Advances</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>1005347</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>T</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Employee Advances</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000007</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000201</AD_WINDOW_ID>
+    <CREATED>2013-02-07T15:29:07+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_Penalty</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Penalty</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000066</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000204</AD_WINDOW_ID>
+    <CREATED>2013-02-13T20:38:04+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_LeaveSalaryRule</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>M</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Leave Salary Rule</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000071</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+  <AD_Window>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <AD_WINDOW_ID>1000181</AD_WINDOW_ID>
+    <CREATED>2013-01-09T16:52:22+02:00</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <ENTITYTYPE>U</ENTITYTYPE>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISBETAFUNCTIONALITY>N</ISBETAFUNCTIONALITY>
+    <ISCUSTOMDEFAULT>N</ISCUSTOMDEFAULT>
+    <ISDEFAULT>N</ISDEFAULT>
+    <NAME>VAHRUAE_MonthlyAttendance</NAME>
+    <PROCESSING>N</PROCESSING>
+    <UPDATED>2021-03-31T00:00:00+02:00</UPDATED>
+    <UPDATEDBY>1005347</UPDATEDBY>
+    <WINHEIGHT>0</WINHEIGHT>
+    <WINWIDTH>0</WINWIDTH>
+    <WINDOWTYPE>T</WINDOWTYPE>
+    <ISSOTRX>N</ISSOTRX>
+    <DISPLAYNAME>Monthly Attendance</DISPLAYNAME>
+    <EXPORT_ID>VAHRUAE_20000011</EXPORT_ID>
+    <ISCOMPOSITEVIEW>N</ISCOMPOSITEVIEW>
+  </AD_Window>
+</NewDataSet>

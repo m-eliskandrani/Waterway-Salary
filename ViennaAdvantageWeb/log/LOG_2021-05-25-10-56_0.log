@@ -1,0 +1,201 @@
+*** 5/25/2021 10:57:14 AM VAdvantage Log  ***
+10:57:14.571    (INFO)     Trx.Start: **** ConnSH637575370345286228System.Random
+10:57:14.571    (INFO)     Trx.Commit: **C** ConnSH637575370345286228System.Random
+10:57:14.571    (INFO)     MChangeLog.FillChangeLog: #9
+10:57:14.571    (INFO)     Trx.Start: **** ConnSH637575370349376220System.Random
+10:57:14.571    (INFO)     Trx.Commit: **C** ConnSH637575370349376220System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010 => ORA-00904: "C_BPARTNER": invalid identifier
+10:57:20.572    (INFO)     Trx.Start: **** ConnSH637575370402926220System.Random
+10:57:20.572    (INFO)     Trx.Commit: **C** ConnSH637575370402926220System.Random
+10:57:20.572    (INFO)     Trx.Start: **** ConnDDH637575370403066651System.Random
+10:57:20.572    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637575370403066651System.Random 54
+10:57:20.572    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637575370403066651System.Random 54
+10:57:20.572    (INFO)     Trx.Commit: **C** ConnDDH637575370403066651System.Random
+10:57:20.572    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+10:59:25.592    (INFO)     Trx.Start: **** ConnSH637575371653992915System.Random
+10:59:25.592    (INFO)     Trx.Commit: **C** ConnSH637575371653992915System.Random
+10:59:25.592    (INFO)     Trx.Start: **** ConnSH637575371656962884System.Random
+10:59:25.592    (INFO)     Trx.Commit: **C** ConnSH637575371656962884System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010 => ORA-00904: "C_BPARTNER": invalid identifier
+10:59:25.592    (INFO)     Trx.Start: **** ConnSH637575371657122896System.Random
+10:59:25.592    (INFO)     Trx.Commit: **C** ConnSH637575371657122896System.Random
+10:59:25.592    (INFO)     Trx.Start: **** ConnDDH637575371657192912System.Random
+10:59:25.592    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637575371657192912System.Random 22
+10:59:25.592    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637575371657192912System.Random 22
+10:59:25.592    (INFO)     Trx.Commit: **C** ConnDDH637575371657192912System.Random
+10:59:25.592    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+10:59:42.594    (INFO)     Trx.Start: **** ConnSH637575371821923978System.Random
+10:59:42.594    (INFO)     Trx.Commit: **C** ConnSH637575371821923978System.Random
+10:59:42.594    (INFO)     Trx.Start: **** ConnSH637575371824973946System.Random
+10:59:42.594    (INFO)     Trx.Commit: **C** ConnSH637575371824973946System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010 => ORA-00904: "C_BPARTNER": invalid identifier
+11:03:24.324    (INFO)     Trx.Start: **** ConnSH637575374047366782System.Random
+11:03:24.324    (INFO)     Trx.Commit: **C** ConnSH637575374047366782System.Random
+11:03:24.324    (INFO)     Trx.Start: **** ConnDDH637575374047436487System.Random
+11:03:24.324    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637575374047436487System.Random 22
+11:03:24.324    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637575374047436487System.Random 22
+11:03:24.324    (INFO)     Trx.Commit: **C** ConnDDH637575374047436487System.Random
+11:03:24.324    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:03:32.332    (INFO)     Trx.Start: **** ConnSH637575374125496476System.Random
+11:03:32.332    (INFO)     Trx.Commit: **C** ConnSH637575374125496476System.Random
+11:03:32.332    (INFO)     Trx.Start: **** ConnSH637575374128446465System.Random
+11:03:32.332    (INFO)     Trx.Commit: **C** ConnSH637575374128446465System.Random
+11:03:40.340    (INFO)     Trx.Start: **** ConnSH637575374204366450System.Random
+11:03:40.340    (INFO)     Trx.Commit: **C** ConnSH637575374204366450System.Random
+11:03:40.340    (INFO)     Trx.Start: **** ConnSH637575374204506444System.Random
+11:03:40.340    (INFO)     Trx.Commit: **C** ConnSH637575374204506444System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010 => ORA-00904: "C_BPARTNER": invalid identifier
+11:03:40.340    (INFO)     Trx.Start: **** ConnSH637575374204826449System.Random
+11:03:40.340    (INFO)     Trx.Commit: **C** ConnSH637575374204826449System.Random
+11:03:40.340    (INFO)     Trx.Start: **** ConnDDH637575374204886443System.Random
+11:03:40.340    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637575374204886443System.Random 27
+11:03:40.340    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637575374204886443System.Random 27
+11:03:40.340    (INFO)     Trx.Commit: **C** ConnDDH637575374204886443System.Random
+11:03:40.340    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:04:54.454    (INFO)     Trx.Start: **** ConnSH637575374941092650System.Random
+11:04:54.454    (INFO)     Trx.Commit: **C** ConnSH637575374941092650System.Random
+11:04:54.454    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:06:31.631    (INFO)     Trx.Start: **** ConnSH637575375918285211System.Random
+11:06:31.631    (INFO)     Trx.Commit: **C** ConnSH637575375918285211System.Random
+11:06:32.632    (INFO)     Trx.Start: **** ConnSH637575375921114931System.Random
+11:06:32.632    (INFO)     Trx.Commit: **C** ConnSH637575375921114931System.Random
+11:06:32.632    (INFO)     Trx.Start: **** ConnSH637575375921214931System.Random
+11:06:32.632    (INFO)     Trx.Commit: **C** ConnSH637575375921214931System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010 => ORA-00904: "C_BPARTNER": invalid identifier
+11:06:32.632    (INFO)     Trx.Start: **** ConnSH637575375921384952System.Random
+11:06:32.632    (INFO)     Trx.Commit: **C** ConnSH637575375921384952System.Random
+11:06:32.632    (INFO)     Trx.Start: **** ConnDDH637575375921445305System.Random
+11:06:32.632    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637575375921445305System.Random 22
+11:06:32.632    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637575375921445305System.Random 22
+11:06:32.632    (INFO)     Trx.Commit: **C** ConnDDH637575375921445305System.Random
+11:06:32.632    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:08:10.810    (INFO)     Trx.Start: **** ConnSH637575376909232152System.Random
+11:08:10.810    (INFO)     Trx.Commit: **C** ConnSH637575376909232152System.Random
+11:08:11.811    (INFO)     Trx.Start: **** ConnSH637575376912081958System.Random
+11:08:11.811    (INFO)     Trx.Commit: **C** ConnSH637575376912081958System.Random
+11:08:11.811    (INFO)     Trx.Start: **** ConnSH637575376912191946System.Random
+11:08:11.811    (INFO)     Trx.Commit: **C** ConnSH637575376912191946System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010 => ORA-00904: "C_BPARTNER": invalid identifier
+11:08:11.811    (INFO)     Trx.Start: **** ConnSH637575376912341959System.Random
+11:08:11.811    (INFO)     Trx.Commit: **C** ConnSH637575376912341959System.Random
+11:08:11.811    (INFO)     Trx.Start: **** ConnDDH637575376912401973System.Random
+11:08:11.811    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637575376912401973System.Random 7
+11:08:11.811    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637575376912401973System.Random 7
+11:08:11.811    (INFO)     Trx.Commit: **C** ConnDDH637575376912401973System.Random
+11:08:11.811    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:09:06.960    (INFO)     Trx.Start: **** ConnSH637575377465236340System.Random
+11:09:06.960    (INFO)     Trx.Commit: **C** ConnSH637575377465236340System.Random
+11:09:06.960    (INFO)     Trx.Start: **** ConnSH637575377468062434System.Random
+11:09:06.960    (INFO)     Trx.Commit: **C** ConnSH637575377468062434System.Random
+11:09:06.960    (INFO)     Trx.Start: **** ConnSH637575377468172331System.Random
+11:09:06.960    (INFO)     Trx.Commit: **C** ConnSH637575377468172331System.Random
+11:09:06.960    (INFO)     Trx.Start: **** ConnSH637575377468272343System.Random
+11:09:06.960    (INFO)     Trx.Commit: **C** ConnSH637575377468272343System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010 => ORA-00904: "C_BPARTNER": invalid identifier
+11:09:06.960    (INFO)     Trx.Start: **** ConnSH637575377468403442System.Random
+11:09:06.960    (INFO)     Trx.Commit: **C** ConnSH637575377468403442System.Random
+11:09:06.960    (INFO)     Trx.Start: **** ConnDDH637575377468473447System.Random
+11:09:06.960    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637575377468473447System.Random 22
+11:09:06.960    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637575377468473447System.Random 22
+11:09:06.960    (INFO)     Trx.Commit: **C** ConnDDH637575377468473447System.Random
+11:09:06.960    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:11:55.115    (INFO)     Trx.Start: **** ConnSH637575379155850102System.Random
+11:11:55.115    (INFO)     Trx.Commit: **C** ConnSH637575379155850102System.Random
+11:11:55.115    (INFO)     Trx.Start: **** ConnSH637575379158635450System.Random
+11:11:55.115    (INFO)     Trx.Commit: **C** ConnSH637575379158635450System.Random
+11:11:55.115    (INFO)     Trx.Start: **** ConnSH637575379158735696System.Random
+11:11:55.115    (INFO)     Trx.Commit: **C** ConnSH637575379158735696System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010 => ORA-00904: "C_BPARTNER": invalid identifier
+11:11:55.115    (INFO)     Trx.Start: **** ConnSH637575379158865429System.Random
+11:11:55.115    (INFO)     Trx.Commit: **C** ConnSH637575379158865429System.Random
+11:11:55.115    (INFO)     Trx.Start: **** ConnDDH637575379158975753System.Random
+11:11:55.115    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637575379158975753System.Random 35
+11:11:55.115    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637575379158975753System.Random 35
+11:11:55.115    (INFO)     Trx.Commit: **C** ConnDDH637575379158975753System.Random
+11:11:55.115    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:12:49.124    (INFO)     Trx.Start: **** ConnSH637575379692596940System.Random
+11:12:49.124    (INFO)     Trx.Commit: **C** ConnSH637575379692596940System.Random
+11:12:49.124    (INFO)     Trx.Start: **** ConnSH637575379695449318System.Random
+11:12:49.124    (INFO)     Trx.Commit: **C** ConnSH637575379695449318System.Random
+11:12:49.124    (INFO)     Trx.Start: **** ConnSH637575379695539562System.Random
+11:12:49.124    (INFO)     Trx.Commit: **C** ConnSH637575379695539562System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000193 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010 => ORA-00904: "C_BPARTNER": invalid identifier
+11:12:49.124    (INFO)     Trx.Start: **** ConnSH637575379695679304System.Random
+11:12:49.124    (INFO)     Trx.Commit: **C** ConnSH637575379695679304System.Random
+11:12:49.124    (INFO)     Trx.Start: **** ConnDDH637575379695734746System.Random
+11:12:49.124    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637575379695734746System.Random 58
+11:12:49.124    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637575379695734746System.Random 58
+11:12:49.124    (INFO)     Trx.Commit: **C** ConnDDH637575379695734746System.Random
+11:12:49.124    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:16:00.160    (INFO)     MSession.Logout: 02:20:35.555
+11:16:06.166    (INFO)     MRole.Get: AD_Role_ID=103, AD_User_ID=102, reload=True
+11:16:06.166    (INFO)     MRole.Get: MRole[103,IdeasInc User,UserLevel=  O,AD_Client_ID IN(0,11),AD_Org_ID IN(0,11,12)]
+11:16:06.166    (INFO)     MRole.Get: AD_Role_ID=103, AD_User_ID=102, reload=True
+11:16:06.166    (INFO)     MRole.Get: MRole[103,IdeasInc User,UserLevel=  O,AD_Client_ID IN(0,11),AD_Org_ID IN(0,11,12)]
+11:16:06.166    (INFO)     MTree.Load: AD_Tree_ID=10, AD_User_ID=102, Editable=False, OnClient=True
+11:16:06.166    (INFO)     Trx.Start: **** ConnSH637575381663262034System.Random
+11:16:06.166    (INFO)     Trx.Commit: **C** ConnSH637575381663262034System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 102  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 102 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('5/24/21','mm/dd/yy') and to_date('6/01/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('5/25/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=102 AND AppointmentsInfo.AD_User_ID  = 102)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000848
+11:16:15.161    (INFO)     Trx.Start: **** ConnSH637575381750513650System.Random
+11:16:15.161    (INFO)     Trx.Commit: **C** ConnSH637575381750513650System.Random
+11:16:15.161    (INFO)     Trx.Start: **** ConnSH637575381752363619System.Random
+11:16:15.161    (INFO)     Trx.Commit: **C** ConnSH637575381752363619System.Random
+11:17:17.171    (INFO)     Trx.Start: **** ConnSH637575382377091555System.Random
+11:17:17.171    (INFO)     Trx.Commit: **C** ConnSH637575382377091555System.Random
+11:17:23.172    (INFO)     Trx.Start: **** ConnSH637575382436696038System.Random
+11:17:23.172    (INFO)     Trx.Commit: **C** ConnSH637575382436696038System.Random
+11:18:19.181    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_EmpAttendanceLog
+11:18:28.182    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_EmpAttendanceLog
+11:18:50.185    (INFO)     Trx.Start: **** ConnSH637575383306445143System.Random
+11:18:50.185    (INFO)     Trx.Commit: **C** ConnSH637575383306445143System.Random
+11:18:50.185    (INFO)     Trx.Start: **** ConnSH637575383309177154System.Random
+11:18:50.185    (INFO)     Trx.Commit: **C** ConnSH637575383309177154System.Random
+11:18:50.185    (INFO)     Trx.Start: **** ConnSH637575383309307145System.Random
+11:18:50.185    (INFO)     Trx.Commit: **C** ConnSH637575383309307145System.Random
+11:18:50.185    (INFO)     Trx.Start: **** ConnSH637575383309407132System.Random
+11:18:50.185    (INFO)     Trx.Commit: **C** ConnSH637575383309407132System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000228 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000228 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000228 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010 => ORA-00904: "C_BPARTNER": invalid identifier
+11:18:50.185    (INFO)     Trx.Start: **** ConnSH637575383309550226System.Random
+11:18:50.185    (INFO)     Trx.Commit: **C** ConnSH637575383309550226System.Random
+11:18:50.185    (INFO)     Trx.Start: **** ConnDDH637575383309612302System.Random
+11:18:50.185    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637575383309612302System.Random 77
+11:18:50.185    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637575383309612302System.Random 77
+11:18:50.185    (INFO)     Trx.Commit: **C** ConnDDH637575383309612302System.Random
+11:18:50.185    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+11:20:37.203    (INFO)     Trx.Start: **** ConnSH637575384370755530System.Random
+11:20:37.203    (INFO)     Trx.Commit: **C** ConnSH637575384370755530System.Random
+11:20:37.203    (INFO)     Trx.Start: **** ConnSH637575384373574244System.Random
+11:20:37.203    (INFO)     Trx.Commit: **C** ConnSH637575384373574244System.Random
+11:20:37.203    (INFO)     Trx.Start: **** ConnSH637575384373684249System.Random
+11:20:37.203    (INFO)     Trx.Commit: **C** ConnSH637575384373684249System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000228 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "C_BPARTNER": invalid identifier [Query DR] SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000228 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_EMPLOYECOMPENSATION_ID FROM VAHRUAE_EMPLOYECOMPENSATION WHERE C_BPartner = 1006731 AND C_PERIOD_ID = 1000228 AND VAHRUAE_COMPENSATIONMASTER_ID != 1000010 => ORA-00904: "C_BPARTNER": invalid identifier
+11:20:37.203    (INFO)     Trx.Start: **** ConnSH637575384373814269System.Random
+11:20:37.203    (INFO)     Trx.Commit: **C** ConnSH637575384373814269System.Random

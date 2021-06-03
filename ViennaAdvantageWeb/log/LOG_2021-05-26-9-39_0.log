@@ -1,0 +1,591 @@
+*** 5/26/2021 9:39:13 AM VAdvantage Log  ***
+----------->     (WARNING)  MRole.CanView: AccessTableNoView - Required=3(Client & Organization Data) != UserLevel=S
+09:39:13.391    (INFO)     MRole.CanView: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+===========>     (SEVERE)   GridWindowVO.CreateTabs: No Tabs - AD_Window_ID=1000221 - SELECT * FROM AD_Tab_v WHERE AD_Window_ID=@windowID ORDER BY SeqNo
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+09:39:21.392    (INFO)     Trx.Start: **** ConnSH637576187617737097System.Random
+09:39:21.392    (INFO)     Trx.Commit: **C** ConnSH637576187617737097System.Random
+09:39:22.392    (INFO)     Trx.Start: **** ConnSH637576187629250716System.Random
+09:39:22.392    (INFO)     Trx.Commit: **C** ConnSH637576187629250716System.Random
+09:39:29.392    (INFO)     Trx.Start: **** ConnSH637576187694015811System.Random
+09:39:29.392    (INFO)     Trx.Commit: **C** ConnSH637576187694015811System.Random
+09:39:37.393    (INFO)     Trx.Start: **** ConnSH637576187773845779System.Random
+09:39:37.393    (INFO)     Trx.Commit: **C** ConnSH637576187773845779System.Random
+09:40:37.403    (INFO)     Trx.Start: **** ConnSH637576188377509494System.Random
+09:40:37.403    (INFO)     Trx.Commit: **C** ConnSH637576188377509494System.Random
+09:40:37.403    (INFO)     MChangeLog.FillChangeLog: #9
+09:40:37.403    (INFO)     Trx.Start: **** ConnSH637576188378256307System.Random
+09:40:37.403    (INFO)     Trx.Commit: **C** ConnSH637576188378256307System.Random
+09:40:41.404    (INFO)     Trx.Start: **** ConnSH637576188417513428System.Random
+09:40:41.404    (INFO)     Trx.Commit: **C** ConnSH637576188417513428System.Random
+09:40:41.404    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+09:40:48.404    (INFO)     Trx.Start: **** ConnSH637576188486196667System.Random
+09:40:48.404    (INFO)     Trx.Commit: **C** ConnSH637576188486196667System.Random
+09:40:48.404    (INFO)     ColumnSync.DoIt: C_Column_ID=1022046
+09:40:48.404    (INFO)     Trx.Start: **** SvrProcess
+09:40:50.405    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_HR_AttendanceRule MODIFY  RotationalStartTime  DATE DEFAULT  NULL 
+09:40:52.405    (INFO)     Trx.Commit: **C** SvrProcess
+09:40:52.405    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:42:12.421    (INFO)     Trx.Start: **** ConnSH637576189325435152System.Random
+09:42:12.421    (INFO)     Trx.Commit: **C** ConnSH637576189325435152System.Random
+09:42:12.421    (INFO)     Trx.Start: **** ConnSH637576189325483189System.Random
+09:42:12.421    (INFO)     Trx.Commit: **C** ConnSH637576189325483189System.Random
+09:42:16.421    (INFO)     Trx.Start: **** ConnSH637576189365814167System.Random
+09:42:16.421    (INFO)     Trx.Commit: **C** ConnSH637576189365814167System.Random
+09:42:16.421    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+09:42:21.422    (INFO)     Trx.Start: **** ConnSH637576189418290261System.Random
+09:42:21.422    (INFO)     Trx.Commit: **C** ConnSH637576189418290261System.Random
+09:42:21.422    (INFO)     ColumnSync.DoIt: C_Column_ID=1022046
+09:42:21.422    (INFO)     Trx.Start: **** SvrProcess
+09:42:24.422    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_HR_AttendanceRule MODIFY  RotationalStartTime  DATE DEFAULT  NULL 
+09:42:25.422    (INFO)     Trx.Commit: **C** SvrProcess
+09:42:25.422    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:42:31.423    (INFO)     Trx.Start: **** ConnSH637576189513227684System.Random
+09:42:31.423    (INFO)     Trx.Commit: **C** ConnSH637576189513227684System.Random
+09:42:31.423    (INFO)     ColumnSync.DoIt: C_Column_ID=1022047
+09:42:31.423    (INFO)     Trx.Start: **** SvrProcess
+09:42:31.423    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_HR_AttendanceRule ADD RotationalLeeway NUMBER
+09:42:31.423    (INFO)     Trx.Commit: **C** SvrProcess
+09:42:31.423    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =105
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000331
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =106
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000580
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =107
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+09:42:36.423    (INFO)     Trx.Start: **** ConnSH637576189568385132System.Random
+09:42:36.423    (INFO)     Trx.Commit: **C** ConnSH637576189568385132System.Random
+09:42:37.423    (INFO)     Trx.Start: **** ConnSH637576189577923023System.Random
+09:42:37.423    (INFO)     Trx.Commit: **C** ConnSH637576189577923023System.Random
+09:42:39.423    (INFO)     Trx.Start: **** ConnSH637576189598596827System.Random
+09:42:39.423    (INFO)     Trx.Commit: **C** ConnSH637576189598596827System.Random
+09:42:49.424    (INFO)     Trx.Start: **** ConnSH637576189692575231System.Random
+09:42:49.424    (INFO)     Trx.Commit: **C** ConnSH637576189692575231System.Random
+09:42:53.425    (INFO)     Trx.Start: **** ConnSH637576189731903915System.Random
+09:42:53.425    (INFO)     Trx.Commit: **C** ConnSH637576189731903915System.Random
+09:43:18.431    (INFO)     Trx.Start: **** ConnSH637576189983699154System.Random
+09:43:18.431    (INFO)     Trx.Commit: **C** ConnSH637576189983699154System.Random
+09:43:18.431    (INFO)     Trx.Start: **** ConnSH637576189983759157System.Random
+09:43:18.431    (INFO)     Trx.Commit: **C** ConnSH637576189983759157System.Random
+09:43:29.432    (INFO)     Trx.Start: **** ConnSH637576190093421135System.Random
+09:43:29.432    (INFO)     Trx.Commit: **C** ConnSH637576190093421135System.Random
+09:44:19.441    (INFO)     Trx.Start: **** ConnSH637576190595687524System.Random
+09:44:19.441    (INFO)     Trx.Commit: **C** ConnSH637576190595687524System.Random
+09:44:37.443    (INFO)     Trx.Start: **** ConnSH637576190774820644System.Random
+09:44:37.443    (INFO)     Trx.Commit: **C** ConnSH637576190774820644System.Random
+09:44:37.443    (INFO)     Trx.Start: **** ConnSH637576190774868130System.Random
+09:44:37.443    (INFO)     Trx.Commit: **C** ConnSH637576190774868130System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-00001: unique constraint (VIENNAADVANTAGE.AD_FIELD_COLUMN) violated
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-00001: unique constraint (VIENNAADVANTAGE.AD_FIELD_COLUMN) violated
+----------->     (WARNING)  MField.DataSavePO: Not insertedAD_Field
+09:44:41.444    (INFO)     Trx.Start: **** ConnSH637576190817084170System.Random
+09:44:41.444    (INFO)     Trx.Commit: **C** ConnSH637576190817084170System.Random
+09:44:41.444    (INFO)     Trx.Start: **** ConnSH637576190817137297System.Random
+09:44:41.444    (INFO)     Trx.Commit: **C** ConnSH637576190817137297System.Random
+09:44:53.445    (INFO)     Trx.Start: **** ConnSH637576190933496264System.Random
+09:44:53.445    (INFO)     Trx.Commit: **C** ConnSH637576190933496264System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381203129System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381203129System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381273141System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381273141System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381333141System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381333141System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381398020System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381398020System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381458109System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381458109System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381518108System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381518108System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381578359System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381578359System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381638103System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381638103System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381698122System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381698122System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381759242System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381759242System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381818423System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381818423System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381878407System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381878407System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191381948418System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191381948418System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382008973System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382008973System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382069095System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382069095System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382128645System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382128645System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382199421System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382199421System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382269515System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382269515System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382327050System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382327050System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382387161System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382387161System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382457158System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382457158System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382517156System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382517156System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382587150System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382587150System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382647145System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382647145System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382706026System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382706026System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382766114System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382766114System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382826110System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382826110System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382886106System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382886106System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191382943050System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191382943050System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383003043System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383003043System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383063086System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383063086System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383131466System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383131466System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383191587System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383191587System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383251570System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383251570System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383315391System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383315391System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383385482System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383385482System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383445503System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383445503System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383505489System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383505489System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383565484System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383565484System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383635504System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383635504System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383715489System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383715489System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383855498System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383855498System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191383965500System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191383965500System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384035515System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384035515System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384095507System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384095507System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384165891System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384165891System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384235993System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384235993System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384307521System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384307521System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384375990System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384375990System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384436427System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384436427System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384496449System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384496449System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384558999System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384558999System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384619104System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384619104System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384679102System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384679102System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384739233System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384739233System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384791518System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384791518System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384857321System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384857321System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191384967345System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191384967345System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385024674System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385024674System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385074760System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385074760System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385124782System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385124782System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385174758System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385174758System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385223735System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385223735System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385273835System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385273835System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385333816System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385333816System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385383810System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385383810System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385431986System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385431986System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385481981System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385481981System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385541981System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385541981System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385593042System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385593042System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385642837System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385642837System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385691590System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385691590System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385741557System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385741557System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385791550System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385791550System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385842837System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385842837System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385891811System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385891811System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191385951575System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191385951575System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386001851System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386001851System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386061565System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386061565System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386112031System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386112031System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386171966System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386171966System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386221568System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386221568System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386279673System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386279673System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386330413System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386330413System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386381124System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386381124System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386430395System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386430395System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386479692System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386479692System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386530036System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386530036System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386590044System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386590044System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386639666System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386639666System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386690012System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386690012System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386739666System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386739666System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386789842System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386789842System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386840076System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386840076System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386890144System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386890144System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386940103System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386940103System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191386990097System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191386990097System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387044882System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387044882System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387094881System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387094881System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387144888System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387144888System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387194897System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387194897System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387244874System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387244874System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387294881System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387294881System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387344583System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387344583System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387394559System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387394559System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387444567System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387444567System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387494568System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387494568System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387539435System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387539435System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387596694System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387596694System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387646703System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387646703System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387696692System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387696692System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387748113System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387748113System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387801547System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387801547System.Random
+09:45:38.453    (INFO)     Trx.Start: **** ConnSH637576191387851663System.Random
+09:45:38.453    (INFO)     Trx.Commit: **C** ConnSH637576191387851663System.Random
+09:45:39.453    (INFO)     Trx.Start: **** ConnSH637576191391003759System.Random
+09:45:39.453    (INFO)     Trx.Commit: **C** ConnSH637576191391003759System.Random
+09:45:43.454    (INFO)     Trx.Start: **** ConnSH637576191436381711System.Random
+09:45:43.454    (INFO)     Trx.Commit: **C** ConnSH637576191436381711System.Random
+09:45:53.455    (INFO)     Trx.Start: **** ConnSH637576191531232327System.Random
+09:45:53.455    (INFO)     Trx.Commit: **C** ConnSH637576191531232327System.Random
+09:46:26.462    (INFO)     Trx.Start: **** GridDel637576191861430380
+09:46:26.462    (INFO)     Trx.Start: **** ConnSH637576191864102511System.Random
+09:46:26.462    (INFO)     Trx.Commit: **C** ConnSH637576191864102511System.Random
+09:46:26.462    (INFO)     MField.DeleteRecord: True
+09:46:26.462    (INFO)     Trx.Commit: **C** GridDel637576191861430380
+09:46:35.463    (INFO)     Trx.Start: **** ConnSH637576191956692471System.Random
+09:46:35.463    (INFO)     Trx.Commit: **C** ConnSH637576191956692471System.Random
+09:46:40.464    (INFO)     Trx.Start: **** GridDel637576192009880153
+09:46:41.464    (INFO)     Trx.Start: **** ConnSH637576192015122963System.Random
+09:46:41.464    (INFO)     Trx.Commit: **C** ConnSH637576192015122963System.Random
+09:46:41.464    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+09:46:41.464    (INFO)     MColumn.DeleteRecord: True
+09:46:41.464    (INFO)     Trx.Commit: **C** GridDel637576192009880153
+09:46:51.465    (INFO)     Trx.Start: **** ConnSH637576192112882833System.Random
+09:46:51.465    (INFO)     Trx.Commit: **C** ConnSH637576192112882833System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192355414692System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192355414692System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192355484271System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192355484271System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192355533895System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192355533895System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192355583900System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192355583900System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192355637341System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192355637341System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192355687596System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192355687596System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192355737715System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192355737715System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192355797355System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192355797355System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192355844745System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192355844745System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192355894742System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192355894742System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192355944741System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192355944741System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192355994755System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192355994755System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356043296System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356043296System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356093606System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356093606System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356143287System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356143287System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356194540System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356194540System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356255606System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356255606System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356305580System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356305580System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356355581System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356355581System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356405594System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356405594System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356455600System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356455600System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356513007System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356513007System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356564037System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356564037System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356613083System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356613083System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356666579System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356666579System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356716561System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356716561System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356776573System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356776573System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356826550System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356826550System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356886551System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356886551System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356936578System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356936578System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192356996590System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192356996590System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357046573System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357046573System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357106611System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357106611System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357156615System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357156615System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357208508System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357208508System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357261813System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357261813System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357311833System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357311833System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357361809System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357361809System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357422975System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357422975System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357485211System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357485211System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357535074System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357535074System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357595069System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357595069System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357639276System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357639276System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357699529System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357699529System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357749270System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357749270System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357799270System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357799270System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357849293System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357849293System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357899269System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357899269System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357949615System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357949615System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192357999290System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192357999290System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192358049309System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192358049309System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192358099303System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192358099303System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192358149349System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192358149349System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192358201129System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192358201129System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192358251239System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192358251239System.Random
+09:47:15.471    (INFO)     Trx.Start: **** ConnSH637576192358301222System.Random
+09:47:15.471    (INFO)     Trx.Commit: **C** ConnSH637576192358301222System.Random
+09:47:18.471    (INFO)     Trx.Start: **** ConnSH637576192389950796System.Random
+09:47:18.471    (INFO)     Trx.Commit: **C** ConnSH637576192389950796System.Random
+09:47:22.472    (INFO)     Trx.Start: **** ConnSH637576192423669667System.Random
+09:47:22.472    (INFO)     Trx.Commit: **C** ConnSH637576192423669667System.Random
+09:47:25.472    (INFO)     Trx.Start: **** ConnSH637576192458774574System.Random
+09:47:25.472    (INFO)     Trx.Commit: **C** ConnSH637576192458774574System.Random
+09:47:35.473    (INFO)     Trx.Start: **** ConnSH637576192551499015System.Random
+09:47:35.473    (INFO)     Trx.Commit: **C** ConnSH637576192551499015System.Random
+09:47:53.475    (INFO)     Trx.Start: **** ConnSH637576192737750119System.Random
+09:47:53.475    (INFO)     Trx.Commit: **C** ConnSH637576192737750119System.Random
+09:47:53.475    (INFO)     CacheReset.DoIt: 
+09:47:53.475    (INFO)     Env.Reset: finalCall=False
+09:47:53.475    (INFO)     CacheMgt.Reset: #18 (4392)
+09:47:53.475    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=0, reload=True
+09:47:53.475    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+09:47:53.475    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+09:47:53.475    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+09:47:53.475    (INFO)     MChangeLog.FillChangeLog: #9
+09:47:53.475    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+09:47:55.475    (INFO)     MSession.Logout: 02:09:02.655
+09:48:01.481    (INFO)     MRole.Get: AD_Role_ID=102, AD_User_ID=101, reload=True
+09:48:01.481    (INFO)     MRole.Get: MRole[102,IdeasInc Admin,UserLevel= CO,AD_Client_ID IN (0,11),]
+09:48:01.481    (INFO)     MRole.Get: AD_Role_ID=102, AD_User_ID=101, reload=True
+09:48:01.481    (INFO)     MRole.Get: MRole[102,IdeasInc Admin,UserLevel= CO,AD_Client_ID IN (0,11),]
+09:48:01.481    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=101, Editable=False, OnClient=True
+09:48:02.482    (INFO)     Trx.Start: **** ConnSH637576192822865208System.Random
+09:48:02.482    (INFO)     Trx.Commit: **C** ConnSH637576192822865208System.Random
+09:48:02.482    (INFO)     Msg.InitMsg: Records=4077 - en_US
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 101  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 101 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('5/25/21','mm/dd/yy') and to_date('6/02/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('5/26/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=101 AND AppointmentsInfo.AD_User_ID  = 101)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000810
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000809
+09:48:19.481    (INFO)     Trx.Start: **** ConnSH637576192993046482System.Random
+09:48:19.481    (INFO)     Trx.Commit: **C** ConnSH637576192993046482System.Random
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000829
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000828
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000902
+09:48:59.485    (INFO)     Trx.Start: **** ConnSH637576193397082481System.Random
+09:48:59.485    (INFO)     Trx.Commit: **C** ConnSH637576193397082481System.Random
+09:49:00.490    (INFO)     Trx.Start: **** ConnSH637576193404817835System.Random
+09:49:00.490    (INFO)     Trx.Commit: **C** ConnSH637576193404817835System.Random
+09:49:35.493    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_HR_AttendanceRule
+09:49:35.493    (INFO)     Trx.Start: **** ConnSH637576193750542934System.Random
+09:49:35.493    (INFO)     Trx.Commit: **C** ConnSH637576193750542934System.Random
+09:54:30.543    (INFO)     MSession.Logout: 02:06:28.345
+09:54:34.543    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+09:54:34.543    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+09:54:34.543    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=100, Editable=False, OnClient=True
+09:54:34.543    (INFO)     Trx.Start: **** ConnSH637576196746392840System.Random
+09:54:34.543    (INFO)     Trx.Commit: **C** ConnSH637576196746392840System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 100  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 100 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('5/25/21','mm/dd/yy') and to_date('6/02/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('5/26/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=100 AND AppointmentsInfo.AD_User_ID  = 100)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy

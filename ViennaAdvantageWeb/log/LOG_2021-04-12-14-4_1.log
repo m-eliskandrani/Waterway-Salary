@@ -1,0 +1,491 @@
+*** 4/12/2021 2:04:57 PM VAdvantage Log  ***
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =105
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000331
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =106
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000580
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =107
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+02:04:57.457    (INFO)     Trx.Start: **** ConnSH637538330976445262System.Random
+02:04:57.457    (INFO)     Trx.Commit: **C** ConnSH637538330976445262System.Random
+02:04:58.458    (INFO)     Trx.Start: **** ConnSH637538330986807427System.Random
+02:04:58.458    (INFO)     Trx.Commit: **C** ConnSH637538330986807427System.Random
+02:05:03.530    (INFO)     Trx.Start: **** ConnSH637538331030086919System.Random
+02:05:03.530    (INFO)     Trx.Commit: **C** ConnSH637538331030086919System.Random
+02:05:08.580    (INFO)     Trx.Start: **** ConnSH637538331082523506System.Random
+02:05:08.580    (INFO)     Trx.Commit: **C** ConnSH637538331082523506System.Random
+02:05:14.514    (INFO)     Trx.Start: **** ConnSH637538331149629248System.Random
+02:05:14.514    (INFO)     Trx.Commit: **C** ConnSH637538331149629248System.Random
+02:05:17.517    (INFO)     Trx.Start: **** ConnSH637538331177249578System.Random
+02:05:17.517    (INFO)     Trx.Commit: **C** ConnSH637538331177249578System.Random
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+02:05:42.542    (INFO)     Trx.Start: **** ConnSH637538331423269589System.Random
+02:05:42.542    (INFO)     Trx.Commit: **C** ConnSH637538331423269589System.Random
+02:05:42.542    (INFO)     Trx.Start: **** ConnSH637538331426602180System.Random
+02:05:42.542    (INFO)     Trx.Commit: **C** ConnSH637538331426602180System.Random
+02:05:50.550    (INFO)     Trx.Start: **** ConnSH637538331508799390System.Random
+02:05:50.550    (INFO)     Trx.Commit: **C** ConnSH637538331508799390System.Random
+02:05:54.554    (INFO)     Trx.Start: **** ConnSH637538331549041048System.Random
+02:05:54.554    (INFO)     Trx.Commit: **C** ConnSH637538331549041048System.Random
+02:06:04.640    (INFO)     Trx.Start: **** ConnSH637538331642807447System.Random
+02:06:04.640    (INFO)     Trx.Commit: **C** ConnSH637538331642807447System.Random
+02:06:04.640    (INFO)     MChangeLog.FillChangeLog: #9
+02:06:04.640    (INFO)     ColumnSync.DoIt: C_Column_ID=1021219
+02:06:04.640    (INFO)     Trx.Start: **** SvrProcess
+02:06:04.640    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_DailyAttendance MODIFY  VAHRUAE_ActualInTime  DATE DEFAULT  NULL 
+02:06:04.640    (INFO)     Trx.Commit: **C** SvrProcess
+02:06:04.640    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:06:09.690    (INFO)     Trx.Start: **** ConnSH637538331694314383System.Random
+02:06:09.690    (INFO)     Trx.Commit: **C** ConnSH637538331694314383System.Random
+02:06:09.690    (INFO)     ColumnSync.DoIt: C_Column_ID=1021220
+02:06:09.690    (INFO)     Trx.Start: **** SvrProcess
+02:06:09.690    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_DailyAttendance MODIFY  VAHRUAE_ActualOutTime  DATE DEFAULT  NULL 
+02:06:09.690    (INFO)     Trx.Commit: **C** SvrProcess
+02:06:09.690    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+===========>     (SEVERE)   VLookUpInfo.GetLookup_TableDirEmbed: No Identifier records found: VAHRUAE_HR_LeaveType_ID
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000870
+02:06:13.613    (INFO)     Trx.Start: **** ConnSH637538331734627082System.Random
+02:06:13.613    (INFO)     Trx.Commit: **C** ConnSH637538331734627082System.Random
+02:06:13.613    (INFO)     Trx.Start: **** ConnSH637538331736036940System.Random
+02:06:13.613    (INFO)     Trx.Commit: **C** ConnSH637538331736036940System.Random
+02:07:19.719    (INFO)     Trx.Start: **** ConnSH637538332395532131System.Random
+02:07:19.719    (INFO)     Trx.Commit: **C** ConnSH637538332395532131System.Random
+02:07:19.719    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+02:07:23.723    (INFO)     Trx.Start: **** ConnSH637538332431511685System.Random
+02:07:23.723    (INFO)     Trx.Commit: **C** ConnSH637538332431511685System.Random
+02:07:23.723    (INFO)     ColumnSync.DoIt: C_Column_ID=1021220
+02:07:23.723    (INFO)     Trx.Start: **** SvrProcess
+02:07:23.723    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_DailyAttendance MODIFY  VAHRUAE_ActualOutTime  DATE DEFAULT  NULL 
+02:07:23.723    (INFO)     Trx.Commit: **C** SvrProcess
+02:07:23.723    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:07:35.735    (INFO)     Trx.Start: **** ConnSH637538332552932550System.Random
+02:07:35.735    (INFO)     Trx.Commit: **C** ConnSH637538332552932550System.Random
+02:07:35.735    (INFO)     CacheMgt.Reset: AD_Column: #1 (0)
+02:07:39.739    (INFO)     Trx.Start: **** ConnSH637538332590565041System.Random
+02:07:39.739    (INFO)     Trx.Commit: **C** ConnSH637538332590565041System.Random
+02:07:39.739    (INFO)     ColumnSync.DoIt: C_Column_ID=1021219
+02:07:39.739    (INFO)     Trx.Start: **** SvrProcess
+02:07:39.739    (INFO)     ColumnSync.AddLog: 0 - 1/1/0001 12:00:00 AM - 1 - ALTER TABLE VAHRUAE_DailyAttendance MODIFY  VAHRUAE_ActualInTime  DATE DEFAULT  NULL 
+02:07:39.739    (INFO)     Trx.Commit: **C** SvrProcess
+02:07:39.739    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:08:03.830    (INFO)     Trx.Start: **** ConnSH637538332831119553System.Random
+02:08:03.830    (INFO)     Trx.Commit: **C** ConnSH637538332831119553System.Random
+02:08:23.823    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:09:21.921    (INFO)     Trx.Start: **** ConnSH637538333618892435System.Random
+02:09:21.921    (INFO)     Trx.Commit: **C** ConnSH637538333618892435System.Random
+02:09:21.921    (INFO)     CacheReset.DoIt: 
+02:09:21.921    (INFO)     Env.Reset: finalCall=False
+02:09:21.921    (INFO)     CacheMgt.Reset: #18 (4391)
+02:09:21.921    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=0, reload=True
+02:09:21.921    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+02:09:21.921    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+02:09:21.921    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+02:09:21.921    (INFO)     MChangeLog.FillChangeLog: #9
+02:09:21.921    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:09:23.923    (INFO)     MSession.Logout: 02:05:32.997
+----------->     (WARNING)  MSession.Get: Session Processed=X_AD_Session[1002885]
+02:09:23.923    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+02:09:23.923    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+02:09:23.923    (INFO)     MTree.Load: AD_Tree_ID=121, AD_User_ID=100, Editable=False, OnClient=True
+02:09:23.923    (INFO)     Trx.Start: **** ConnSH637538333632344177System.Random
+02:09:23.923    (INFO)     Trx.Commit: **C** ConnSH637538333632344177System.Random
+02:09:23.923    (INFO)     Msg.InitMsg: Records=4077 - en_US
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 100  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 100 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('4/11/21','mm/dd/yy') and to_date('4/19/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('4/12/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=100 AND AppointmentsInfo.AD_User_ID  = 100)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =100
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =101
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+02:09:24.924    (INFO)     Trx.Start: **** ConnSH637538333645983754System.Random
+02:09:24.924    (INFO)     Trx.Commit: **C** ConnSH637538333645983754System.Random
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =105
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000331
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =106
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000580
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =107
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+02:09:25.925    (INFO)     Trx.Start: **** ConnSH637538333651918796System.Random
+02:09:25.925    (INFO)     Trx.Commit: **C** ConnSH637538333651918796System.Random
+===========>     (SEVERE)   VLookUpInfo.GetLookup_TableDirEmbed: No Identifier records found: VAHRUAE_HR_LeaveType_ID
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000870
+02:09:26.926    (INFO)     Trx.Start: **** ConnSH637538333661055116System.Random
+02:09:26.926    (INFO)     Trx.Commit: **C** ConnSH637538333661055116System.Random
+02:09:26.926    (INFO)     Trx.Start: **** ConnSH637538333663697042System.Random
+02:09:26.926    (INFO)     Trx.Commit: **C** ConnSH637538333663697042System.Random
+02:09:27.927    (INFO)     Trx.Start: **** ConnSH637538333671447920System.Random
+02:09:27.927    (INFO)     Trx.Commit: **C** ConnSH637538333671447920System.Random
+02:09:28.928    (INFO)     Trx.Start: **** ConnSH637538333680683409System.Random
+02:09:28.928    (INFO)     Trx.Commit: **C** ConnSH637538333680683409System.Random
+02:09:57.957    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:10:12.101    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:10:27.102    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:10:46.104    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:11:01.111    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:11:16.111    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:11:25.112    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:11:37.113    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:12:25.122    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:12:42.124    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:12:53.125    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:13:06.136    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:13:19.131    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:13:31.133    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:13:45.134    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:13:57.135    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:14:08.148    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:14:21.142    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:14:34.143    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:14:44.144    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:14:57.145    (INFO)     MTable.GetPO: Using GenericPO for VAHRUAE_DailyAttendance
+02:15:01.151    (INFO)     Trx.Start: **** ConnSH637538337010680040System.Random
+02:15:01.151    (INFO)     Trx.Commit: **C** ConnSH637538337010680040System.Random
+02:15:01.151    (INFO)     CacheReset.DoIt: 
+02:15:01.151    (INFO)     Env.Reset: finalCall=False
+02:15:01.151    (INFO)     CacheMgt.Reset: #17 (4387)
+02:15:01.151    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=0, reload=True
+02:15:01.151    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+02:15:01.151    (INFO)     MRole.Get: AD_Role_ID=0, AD_User_ID=100, reload=True
+02:15:01.151    (INFO)     MRole.Get: MRole[0,System Administrator,UserLevel=S  ,AD_Client_ID=0,AD_Org_ID=0]
+02:15:01.151    (INFO)     MChangeLog.FillChangeLog: #9
+02:15:01.151    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:15:07.157    (INFO)     Msg.InitMsg: Records=4077 - en_US
+02:15:08.158    (INFO)     Trx.Start: **** ConnSH637538337082424863System.Random
+02:15:08.158    (INFO)     Trx.Commit: **C** ConnSH637538337082424863System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   X_VAHRUAE_HR_Employee.Load: NO Data found for VAHRUAE_HR_Employee_ID=1000006
+02:15:08.158    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:15:27.152    (INFO)     Trx.Start: **** ConnSH637538337273914059System.Random
+02:15:27.152    (INFO)     Trx.Commit: **C** ConnSH637538337273914059System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   X_VAHRUAE_HR_Employee.Load: NO Data found for VAHRUAE_HR_Employee_ID=1000006
+02:15:27.152    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+02:15:38.153    (INFO)     Trx.Start: **** ConnSH637538337386181395System.Random
+02:15:38.153    (INFO)     Trx.Commit: **C** ConnSH637538337386181395System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier [Query DR] SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_DAILYATTENDANCE_ID FROM VAHRUAE_DAILYATTENDANCE WHERE VAHRUAE_HR_EMPLOYEE_ID = 1000007 AND VAHRUAE_ACTUALINTIME >= '19-NOV-20' AND VAHRUAE_ACTUALINTIME < '19-DEC-20' ORDER BY VAHRYUAE_ACTUALINTIME => ORA-00904: "VAHRYUAE_ACTUALINTIME": invalid identifier
+===========>     (SEVERE)   X_VAHRUAE_HR_Employee.Load: NO Data found for VAHRUAE_HR_Employee_ID=1000006
+02:16:19.161    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)

@@ -1,0 +1,548 @@
+*** 5/16/2021 12:49:24 PM VAdvantage Log  ***
+12:49:24.492    (INFO)     Trx.Start: **** ConnSH637567661644041003System.Random
+12:49:24.492    (INFO)     Trx.Commit: **C** ConnSH637567661644041003System.Random
+12:49:24.492    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20 => ORA-01756: quoted string not properly terminated
+12:49:30.493    (INFO)     Trx.Start: **** ConnSH637567661703841880System.Random
+12:49:30.493    (INFO)     Trx.Commit: **C** ConnSH637567661703841880System.Random
+12:49:30.493    (INFO)     Trx.Start: **** ConnSH637567661703942243System.Random
+12:49:30.493    (INFO)     Trx.Commit: **C** ConnSH637567661703942243System.Random
+12:49:30.493    (INFO)     Trx.Start: **** ConnSH637567661704041884System.Random
+12:49:30.493    (INFO)     Trx.Commit: **C** ConnSH637567661704041884System.Random
+12:49:30.493    (INFO)     Trx.Start: **** ConnDDH637567661704183765System.Random
+12:49:30.493    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637567661704183765System.Random 9
+12:49:30.493    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637567661704183765System.Random 9
+12:49:30.493    (INFO)     Trx.Commit: **C** ConnDDH637567661704183765System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: Not insertedVAHRUAE_Vss_EmpMthSalary
+12:49:30.493    (INFO)     Trx.Start: **** ConnSH637567661704503733System.Random
+12:49:30.493    (INFO)     Trx.Commit: **C** ConnSH637567661704503733System.Random
+12:49:32.493    (INFO)     Trx.Start: **** ConnSH637567661726689293System.Random
+12:49:32.493    (INFO)     Trx.Commit: **C** ConnSH637567661726689293System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:32.493    (INFO)     Trx.Start: **** ConnSH637567661727006257System.Random
+12:49:32.493    (INFO)     Trx.Commit: **C** ConnSH637567661727006257System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661805226336System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661805226336System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661805544593System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661805544593System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661805654548System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661805654548System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661805924576System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661805924576System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661806039152System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661806039152System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661806307317System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661806307317System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661806427324System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661806427324System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661806681345System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661806681345System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661806782068System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661806782068System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661806880674System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661806880674System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661807140652System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661807140652System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661807240672System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661807240672System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661807507390System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661807507390System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661807597655System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661807597655System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661807833195System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661807833195System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661807933186System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661807933186System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661808185537System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661808185537System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661808295536System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661808295536System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661808555544System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661808555544System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661808665552System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661808665552System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661808925547System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661808925547System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661809025548System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661809025548System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661809355548System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661809355548System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661809465934System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661809465934System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661809565281System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661809565281System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661809825234System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661809825234System.Random
+12:49:40.494    (INFO)     Trx.Start: **** ConnSH637567661809935257System.Random
+12:49:40.494    (INFO)     Trx.Commit: **C** ConnSH637567661809935257System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661810035255System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661810035255System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661810145249System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661810145249System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661810389736System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661810389736System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661810499755System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661810499755System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661810599753System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661810599753System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661810759731System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661810759731System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661810869738System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661810869738System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661810969733System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661810969733System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661811189730System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661811189730System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661811299740System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661811299740System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661811549715System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661811549715System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661811679716System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661811679716System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661811950038System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661811950038System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661812050008System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661812050008System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661812319708System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661812319708System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661812420011System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661812420011System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661812642883System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661812642883System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661812752797System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661812752797System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661813022777System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661813022777System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661813318273System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661813318273System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661813418280System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661813418280System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661813518654System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661813518654System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661813784456System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661813784456System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661813884465System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661813884465System.Random
+12:49:41.494    (INFO)     Trx.Start: **** ConnSH637567661813984457System.Random
+12:49:41.494    (INFO)     Trx.Commit: **C** ConnSH637567661813984457System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < -63000C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < -63000C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   PO.calculateTax: SELECT C_TAX_ID FROM C_TAX WHERE Line < -63000C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC => ORA-00933: SQL command not properly ended
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000040
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000040
+12:49:41.494    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+12:52:16.521    (INFO)     MRole.Get: AD_Role_ID=103, AD_User_ID=102, reload=True
+12:52:16.521    (INFO)     MRole.Get: MRole[103,IdeasInc User,UserLevel=  O,AD_Client_ID IN(0,11),AD_Org_ID IN(0,11,12)]
+12:52:16.521    (INFO)     MRole.Get: AD_Role_ID=103, AD_User_ID=102, reload=True
+12:52:16.521    (INFO)     MRole.Get: MRole[103,IdeasInc User,UserLevel=  O,AD_Client_ID IN(0,11),AD_Org_ID IN(0,11,12)]
+12:52:16.521    (INFO)     MTree.Load: AD_Tree_ID=10, AD_User_ID=102, Editable=False, OnClient=True
+12:52:16.521    (INFO)     Trx.Start: **** ConnSH637567663366301758System.Random
+12:52:16.521    (INFO)     Trx.Commit: **C** ConnSH637567663366301758System.Random
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: More than one FROM clause - SELECT AppointmentsInfo.Appointmentsinfo_id AS ID,AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID  FROM AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy WHERE AppointmentsInfo.IsRead='N' AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.AD_User_ID  = 102  UNION SELECT AppointmentsInfo.Appointmentsinfo_id AS ID, AppointmentsInfo.AD_Client_ID,AppointmentsInfo.AD_Org_ID FROM AppointmentsInfo  JOIN AD_User ON AD_User.AD_User_ID = AppointmentsInfo.CreatedBy  WHERE (AppointmentsInfo.IsRead ='Y'   AND AppointmentsInfo.AD_User_ID = 102 )  AND AppointmentsInfo.istask ='N'  AND AppointmentsInfo.startDate BETWEEN to_date('5/15/21','mm/dd/yy') and to_date('5/23/21 23.59','mm/dd/yy HH24:MI')   OR  to_date('5/16/21','mm/dd/yy')  BETWEEN  AppointmentsInfo.startDate  AND AppointmentsInfo.endDate  AND  AppointmentsInfo.CreatedBy  !=102 AND AppointmentsInfo.AD_User_ID  = 102)
+----------->     (WARNING)  AccessSqlParser.GetTableInfo: Could not remove ON AppointmentsInfo JOIN AD_User ON AD_User.AD_User_ID =AppointmentsInfo.CreatedBy
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000829
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000828
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000902
+12:52:23.522    (INFO)     Trx.Start: **** ConnSH637567663439970207System.Random
+12:52:24.522    (INFO)     Trx.Commit: **C** ConnSH637567663439970207System.Random
+12:52:24.522    (INFO)     Trx.Start: **** ConnSH637567663447892971System.Random
+12:52:24.522    (INFO)     Trx.Commit: **C** ConnSH637567663447892971System.Random
+----------->     (WARNING)  GridTable.GetField: Not found: 'Created'
+----------->     (WARNING)  GridTable.GetField: Not found: 'CreatedBy'
+----------->     (WARNING)  GridTable.GetField: Not found: 'Updated'
+----------->     (WARNING)  GridTable.GetField: Not found: 'UpdatedBy'
+===========>     (SEVERE)   OracleHelper.ExecuteDataset: ORA-00942: table or view does not exist [Query D] => SELECT vadms_windowdoclink_id, record_id FROM VADMS_WindowDocLink wdl JOIN vadms_document doc ON wdl.VADMS_Document_ID  =doc.VADMS_Document_ID WHERE doc.vadms_docstatus!='DD' AND AD_Table_ID =1000848
+12:52:55.525    (INFO)     Trx.Start: **** ConnSH637567663758636891System.Random
+12:52:55.525    (INFO)     Trx.Commit: **C** ConnSH637567663758636891System.Random
+12:52:55.525    (INFO)     Trx.Start: **** ConnSH637567663759764597System.Random
+12:52:55.525    (INFO)     Trx.Commit: **C** ConnSH637567663759764597System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664440148767System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664440148767System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20 => ORA-01756: quoted string not properly terminated
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664440676315System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664440676315System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664440756342System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664440756342System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664440846571System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664440846571System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnDDH637567664440926570System.Random
+12:54:04.544    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637567664440926570System.Random 55
+12:54:04.544    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637567664440926570System.Random 55
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnDDH637567664440926570System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: Not insertedVAHRUAE_Vss_EmpMthSalary
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664441146318System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664441146318System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664441266320System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664441266320System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664441535586System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664441535586System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664441645927System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664441645927System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664441927024System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664441927024System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664442036727System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664442036727System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664442316722System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664442316722System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664442426777System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664442426777System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664442676709System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664442676709System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664442777057System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664442777057System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664443037065System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664443037065System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664443167092System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664443167092System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664443277079System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664443277079System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664443569420System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664443569420System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664443759435System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664443759435System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664444009446System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664444009446System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664444109423System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664444109423System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664444329436System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664444329436System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664444449124System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664444449124System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664444719114System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664444719114System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664444839171System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664444839171System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664445099108System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664445099108System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664445209112System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664445209112System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664445469380System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664445469380System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664445569381System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664445569381System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664445799675System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664445799675System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664445902444System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664445902444System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664446002443System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664446002443System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664446252441System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664446252441System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664446347722System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664446347722System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664446458002System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664446458002System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664446547968System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664446547968System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664446807674System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664446807674System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664446916743System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664446916743System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664447036726System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664447036726System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664447197004System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664447197004System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664447296755System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664447296755System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664447409130System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664447409130System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664447639128System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664447639128System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664447749492System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664447749492System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664448009143System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664448009143System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664448119133System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664448119133System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664448367587System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664448367587System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664448477610System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664448477610System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664448737594System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664448737594System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664448850324System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664448850324System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664449087902System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664449087902System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664449197608System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664449197608System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664449477671System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664449477671System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664449586499System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664449586499System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664449706479System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664449706479System.Random
+12:54:04.544    (INFO)     Trx.Start: **** ConnSH637567664449816473System.Random
+12:54:04.544    (INFO)     Trx.Commit: **C** ConnSH637567664449816473System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:05.545    (INFO)     Trx.Start: **** ConnSH637567664450071099System.Random
+12:54:05.545    (INFO)     Trx.Commit: **C** ConnSH637567664450071099System.Random
+12:54:05.545    (INFO)     Trx.Start: **** ConnSH637567664450181114System.Random
+12:54:05.545    (INFO)     Trx.Commit: **C** ConnSH637567664450181114System.Random
+12:54:05.545    (INFO)     Trx.Start: **** ConnSH637567664450269914System.Random
+12:54:05.545    (INFO)     Trx.Commit: **C** ConnSH637567664450269914System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < -63000C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < -63000C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   PO.calculateTax: SELECT C_TAX_ID FROM C_TAX WHERE Line < -63000C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC => ORA-00933: SQL command not properly ended
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000041
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000041
+12:54:05.545    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+12:54:32.543    (INFO)     Trx.Start: **** ConnSH637567664728163137System.Random
+12:54:32.543    (INFO)     Trx.Commit: **C** ConnSH637567664728163137System.Random
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-01756: quoted string not properly terminated [Query DR] SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20
+===========>     (SEVERE)   PO.DoIt: SELECT VAHRUAE_HR_LEAVEDETAIL_ID FROM VAHRUAE_HR_LEAVEDETAIL WHERE C_BPARTNER_ID = 1006731AND VAHRUAE_APPROVE = 'Y' AND VAHRUAE_DATE1= '20-DEC-20 => ORA-01756: quoted string not properly terminated
+12:55:35.553    (INFO)     Trx.Start: **** ConnSH637567665356514633System.Random
+12:55:35.553    (INFO)     Trx.Commit: **C** ConnSH637567665356514633System.Random
+12:55:35.553    (INFO)     Trx.Start: **** ConnSH637567665356595166System.Random
+12:55:35.553    (INFO)     Trx.Commit: **C** ConnSH637567665356595166System.Random
+12:55:35.553    (INFO)     Trx.Start: **** ConnSH637567665356674637System.Random
+12:55:35.553    (INFO)     Trx.Commit: **C** ConnSH637567665356674637System.Random
+12:55:35.553    (INFO)     Trx.Start: **** ConnDDH637567665356744633System.Random
+12:55:35.553    (INFO)     Trx.ExecuteDataSet: Trx Dataset ConnDDH637567665356744633System.Random 56
+12:55:35.553    (INFO)     Trx.ExecuteQuery: Trx non-query ConnDDH637567665356744633System.Random 56
+12:55:35.553    (INFO)     Trx.Commit: **C** ConnDDH637567665356744633System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_VSS_EMPMTHSALARY"."VAHRUAE_VSS_MONTHLYSALARY_ID")
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: Not insertedVAHRUAE_Vss_EmpMthSalary
+12:55:35.553    (INFO)     Trx.Start: **** ConnSH637567665357003807System.Random
+12:55:35.553    (INFO)     Trx.Commit: **C** ConnSH637567665357003807System.Random
+12:56:01.561    (INFO)     Trx.Start: **** ConnSH637567665619726041System.Random
+12:56:01.561    (INFO)     Trx.Commit: **C** ConnSH637567665619726041System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:56:02.562    (INFO)     Trx.Start: **** ConnSH637567665620005997System.Random
+12:56:02.562    (INFO)     Trx.Commit: **C** ConnSH637567665620005997System.Random
+12:56:11.561    (INFO)     Trx.Start: **** ConnSH637567665719491647System.Random
+12:56:11.561    (INFO)     Trx.Commit: **C** ConnSH637567665719491647System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:56:11.561    (INFO)     Trx.Start: **** ConnSH637567665719771979System.Random
+12:56:11.561    (INFO)     Trx.Commit: **C** ConnSH637567665719771979System.Random
+12:56:15.561    (INFO)     Trx.Start: **** ConnSH637567665751980253System.Random
+12:56:15.561    (INFO)     Trx.Commit: **C** ConnSH637567665751980253System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:56:15.561    (INFO)     Trx.Start: **** ConnSH637567665752280251System.Random
+12:56:15.561    (INFO)     Trx.Commit: **C** ConnSH637567665752280251System.Random
+12:56:17.561    (INFO)     Trx.Start: **** ConnSH637567665770464659System.Random
+12:56:17.561    (INFO)     Trx.Commit: **C** ConnSH637567665770464659System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:56:17.561    (INFO)     Trx.Start: **** ConnSH637567665770722632System.Random
+12:56:17.561    (INFO)     Trx.Commit: **C** ConnSH637567665770722632System.Random
+12:56:18.561    (INFO)     Trx.Start: **** ConnSH637567665788667564System.Random
+12:56:18.561    (INFO)     Trx.Commit: **C** ConnSH637567665788667564System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:56:18.561    (INFO)     Trx.Start: **** ConnSH637567665788932909System.Random
+12:56:18.561    (INFO)     Trx.Commit: **C** ConnSH637567665788932909System.Random
+12:56:18.561    (INFO)     Trx.Start: **** ConnSH637567665789022914System.Random
+12:56:18.561    (INFO)     Trx.Commit: **C** ConnSH637567665789022914System.Random
+12:58:18.581    (INFO)     Trx.Start: **** ConnSH637567666987931994System.Random
+12:58:18.581    (INFO)     Trx.Commit: **C** ConnSH637567666987931994System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:58:18.581    (INFO)     Trx.Start: **** ConnSH637567666988232002System.Random
+12:58:18.581    (INFO)     Trx.Commit: **C** ConnSH637567666988232002System.Random
+12:58:18.581    (INFO)     Trx.Start: **** ConnSH637567666988342664System.Random
+12:58:18.581    (INFO)     Trx.Commit: **C** ConnSH637567666988342664System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:58:18.581    (INFO)     Trx.Start: **** ConnSH637567666988622008System.Random
+12:58:18.581    (INFO)     Trx.Commit: **C** ConnSH637567666988622008System.Random
+12:58:18.581    (INFO)     Trx.Start: **** ConnSH637567666988721993System.Random
+12:58:18.581    (INFO)     Trx.Commit: **C** ConnSH637567666988721993System.Random
+12:58:18.581    (INFO)     Trx.Start: **** ConnSH637567666988921980System.Random
+12:58:18.581    (INFO)     Trx.Commit: **C** ConnSH637567666988921980System.Random
+12:58:18.581    (INFO)     Trx.Start: **** ConnSH637567666989031969System.Random
+12:58:18.581    (INFO)     Trx.Commit: **C** ConnSH637567666989031969System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:58:18.581    (INFO)     Trx.Start: **** ConnSH637567666989261963System.Random
+12:58:18.581    (INFO)     Trx.Commit: **C** ConnSH637567666989261963System.Random
+12:58:18.581    (INFO)     Trx.Start: **** ConnSH637567666989361966System.Random
+12:58:18.581    (INFO)     Trx.Commit: **C** ConnSH637567666989361966System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:58:18.581    (INFO)     Trx.Start: **** ConnSH637567666989621974System.Random
+12:58:18.581    (INFO)     Trx.Commit: **C** ConnSH637567666989621974System.Random
+12:58:18.581    (INFO)     Trx.Start: **** ConnSH637567666989721972System.Random
+12:58:18.581    (INFO)     Trx.Commit: **C** ConnSH637567666989721972System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:58:18.581    (INFO)     Trx.Start: **** ConnSH637567666989971986System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666989971986System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666990111967System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666990111967System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666990311965System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666990311965System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666990401965System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666990401965System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666990501975System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666990501975System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666990781982System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666990781982System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666990891973System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666990891973System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666990971983System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666990971983System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666991111987System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666991111987System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666991401985System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666991401985System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666991511991System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666991511991System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666991651980System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666991651980System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666991861979System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666991861979System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666991971972System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666991971972System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666992061975System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666992061975System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666992281988System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666992281988System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666992381968System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666992381968System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666992711991System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666992711991System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666992821998System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666992821998System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666993111991System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666993111991System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666993232334System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666993232334System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666993531981System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666993531981System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666993661971System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666993661971System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666993881981System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666993881981System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666994001975System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666994001975System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666994271969System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666994271969System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666994371970System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666994371970System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666994461975System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666994461975System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666994562329System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666994562329System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666994821991System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666994821991System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666994921993System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666994921993System.Random
+12:58:19.581    (INFO)     Trx.Start: **** ConnSH637567666995011992System.Random
+12:58:19.581    (INFO)     Trx.Commit: **C** ConnSH637567666995011992System.Random
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < -63000C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   OracleHelper.ExecuteReader: ORA-00933: SQL command not properly ended [Query DR] SELECT C_TAX_ID FROM C_TAX WHERE Line < -63000C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC
+===========>     (SEVERE)   PO.calculateTax: SELECT C_TAX_ID FROM C_TAX WHERE Line < -63000C_TAXCATEGORY_ID = 1000017ORDER BY LINE ASC => ORA-00933: SQL command not properly ended
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: DocumentNo updated:  -> 1000042
+----------->     (WARNING)  X_VAHRUAE_Vss_EmpMthSalary.DoIt: #Records-0 - VAHRUAE_Vss_EmpMthSalary.VAHRUAE_Vss_EmpMthSalary_ID=1000042

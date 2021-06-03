@@ -1,0 +1,11 @@
+*** 4/20/2021 11:46:54 AM VAdvantage Log  ***
+11:46:54.465    (INFO)     Trx.Start: **** ConnSH637545160149299704System.Random
+11:46:54.465    (INFO)     Trx.Commit: **C** ConnSH637545160149299704System.Random
+11:46:54.465    (INFO)     MChangeLog.FillChangeLog: #9
+11:46:55.465    (INFO)     Trx.Start: **** ConnSH637545160155776136System.Random
+11:46:55.465    (INFO)     Trx.Commit: **C** ConnSH637545160155776136System.Random
+===========>     (SEVERE)   DB.ExecuteQuery:  => ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  DB.ExecuteQuery: DBExecuteError - ORA-01400: cannot insert NULL into ("VIENNAADVANTAGE"."VAHRUAE_HR_HOLIDAYS"."VAHRUAE_HR_HOLIDAYMASTER_ID")
+----------->     (WARNING)  X_VAHRUAE_HR_Holidays.DoIt: Not insertedVAHRUAE_HR_Holidays
+===========>     (SEVERE)   WaterwaySvcGoogleCalendarAPI.StartProcess: WHY
+11:47:03.473    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)

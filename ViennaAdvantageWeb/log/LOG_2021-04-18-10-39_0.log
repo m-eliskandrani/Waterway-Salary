@@ -1,0 +1,10 @@
+*** 4/18/2021 10:39:09 AM VAdvantage Log  ***
+10:39:09.399    (INFO)     Trx.Start: **** ConnSH637543391495960648System.Random
+10:39:09.399    (INFO)     Trx.Commit: **C** ConnSH637543391495960648System.Random
+10:39:09.399    (INFO)     MChangeLog.FillChangeLog: #9
+10:39:09.399    (INFO)     Trx.Start: **** ConnSH637543391496580627System.Random
+10:39:09.399    (INFO)     Trx.Commit: **C** ConnSH637543391496580627System.Random
+10:39:09.399    (INFO)     Trx.Start: **** ConnSH637543391496720630System.Random
+10:39:09.399    (INFO)     Trx.Commit: **C** ConnSH637543391496720630System.Random
+===========>     (SEVERE)   CalculatePenalties.StartProcess: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index

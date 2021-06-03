@@ -1,0 +1,13 @@
+*** 4/12/2021 3:02:23 PM VAdvantage Log  ***
+03:02:23.223    (INFO)     Trx.Start: **** ConnSH637538365431253797System.Random
+03:02:23.223    (INFO)     Trx.Commit: **C** ConnSH637538365431253797System.Random
+03:02:23.223    (INFO)     MChangeLog.FillChangeLog: #9
+===========>     (SEVERE)   CalculatePenalties.StartProcess: Index was outside the bounds of the array.
+03:09:50.950    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+03:10:44.104    (INFO)     Trx.Start: **** ConnSH637538370445108389System.Random
+03:10:44.104    (INFO)     Trx.Commit: **C** ConnSH637538370445108389System.Random
+===========>     (SEVERE)   CalculatePenalties.StartProcess: Index was outside the bounds of the array.
+03:14:18.141    (INFO)     CacheMgt.Reset: AD_Process: #1 (1)
+03:14:21.142    (INFO)     Trx.Start: **** ConnSH637538372611641240System.Random
+03:14:21.142    (INFO)     Trx.Commit: **C** ConnSH637538372611641240System.Random
+===========>     (SEVERE)   CalculatePenalties.StartProcess: Index was outside the bounds of the array.
